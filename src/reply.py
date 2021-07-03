@@ -264,7 +264,7 @@ def check_mentions(api, keywords, since_id):
 
 def main(a,b,c,d):
     api = create_api(a,b,c,d)
-    since_id = 1411400330013773825
+    since_id = 1411411562422804483
     my_files = {
         'activos':
             'https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto19/CasosActivosPorComuna.csv',
@@ -299,8 +299,8 @@ def main(a,b,c,d):
         time.sleep(60)
 
 if __name__ == "__main__":
-    consumer_key = os.getenv("CONSUMER_KEY")
-    consumer_secret = os.getenv("CONSUMER_SECRET")
-    access_token = os.getenv("ACCESS_TOKEN")
-    access_token_secret = os.getenv("ACCESS_TOKEN_SECRET")
+    consumer_key = sys.argv[1]
+    consumer_secret = sys.argv[2]
+    access_token = sys.argv[3]
+    access_token_secret = sys.argv[4]
     main(consumer_key,consumer_secret,access_token,access_token_secret)
