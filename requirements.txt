@@ -1,0 +1,4 @@
+tweepy~=3.10.0
+pandas~=1.2.5
+numpy~=1.21.0
+requests~=2.25.1
