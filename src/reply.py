@@ -5,10 +5,10 @@ import logging
 from config_bot import create_api
 import time
 import pandas as pd
-import os
 import numpy as np
 import requests
 import io
+import sys
 
 
 logging.basicConfig(level=logging.INFO)
