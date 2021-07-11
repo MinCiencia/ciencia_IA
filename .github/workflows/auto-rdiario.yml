@@ -32,7 +32,6 @@ jobs:
       uses: actions/checkout@v2
       with:
           repository: MinCiencia/MinCienciaDataPreparation
-          token: ${{ secrets.API_REQUEST }}
           path: ./output
 
 
