@@ -27,17 +27,13 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - name: Check out our repo
-      uses: actions/checkout@v2
-
+    - uses: actions/checkout@v2
     - name: 'Check out MinCienciaDataPreparation/output'
       uses: actions/checkout@v2
-      env:
-        GITHUB_TOKEN: ${{ secrets.API_REQUEST }}
       with:
-          token: ${{ secrets.API_REQUEST }}
           repository: MinCiencia/MinCienciaDataPreparation
-          path: output
+          token: ${{ secrets.API_REQUEST }}
+          path: ./output
 
 
       # Sets up python
