@@ -27,16 +27,14 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - name: Check out our repo
+    - name: 'Check out our repo'
       uses: actions/checkout@v2
-      with:
-          path: ciencia_IA
+
     - name: 'Check out MinCienciaDataPreparation'
       uses: actions/checkout@v2
       with:
           repository: MinCiencia/MinCienciaDataPreparation
           token: ${{ secrets.PRIVATE_PAT }}
-          path: output
 
       # Sets up python
     - name: Set up Python 3.8
@@ -55,7 +53,7 @@ jobs:
           pwd
           ls
           ls -la ciencia_IA/input
-          rsync -av output ciencia_IA/input
+          rsync -av MinCienciaDataPreparation/output ciencia_IA/input
           ls -la ciencia_IA/input
 
     - uses: stefanzweifel/git-auto-commit-action@v4.1.1
