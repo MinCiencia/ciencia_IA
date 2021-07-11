@@ -29,12 +29,15 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - name: 'Check out our repo'
       uses: actions/checkout@v2
+      with:
+          path: ciencia_IA
 
     - name: 'Check out MinCienciaDataPreparation'
       uses: actions/checkout@v2
       with:
           repository: MinCiencia/MinCienciaDataPreparation
           token: ${{ secrets.PRIVATE_PAT }}
+          path: MinCienciaDataPreparation
 
       # Sets up python
     - name: Set up Python 3.8
