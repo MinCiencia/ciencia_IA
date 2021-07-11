@@ -54,8 +54,8 @@ jobs:
       run: |
           pwd
           ls
-          ls -la ciencia_IA/input/
-          rsync -av ciencia_IA/input/ MinCienciaDataPreparation/output/
+          ls -la ciencia_IA/input
+          rsync -av output ciencia_IA/input
           ls -la ciencia_IA/input
 
     - uses: stefanzweifel/git-auto-commit-action@v4.1.1
