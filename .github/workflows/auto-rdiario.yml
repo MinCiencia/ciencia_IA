@@ -32,9 +32,11 @@ jobs:
 
     - name: 'Check out MinCienciaDataPreparation/output'
       uses: actions/checkout@v2
+      env:
+        GITHUB_TOKEN: ${{ secrets.API_REQUEST }}
       with:
           token: ${{ secrets.API_REQUEST }}
-          repository: MinCienciaDataPreparation/output
+          repository: MinCienciaDataPreparation
           path: output
 
 
