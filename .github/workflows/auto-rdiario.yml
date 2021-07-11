@@ -36,7 +36,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.API_REQUEST }}
       with:
           token: ${{ secrets.API_REQUEST }}
-          repository: MinCienciaDataPreparation
+          repository: MinCiencia/MinCienciaDataPreparation
           path: output
 
 
