@@ -1,19 +1,19 @@
-Region,Casos totales acumulados,Casos activos confirmados,Fallecidos totales,Casos confirmados recuperados,Casos confirmados por antigeno,Casos con sospecha de reinfeccion,Casos probables acumulados,Casos activos probables,Casos nuevos totales,Casos nuevos con sintomas,Casos nuevos sin sintomas*,Casos nuevos reportados por laboratorio,Casos nuevos confirmados por antigeno
-Arica y Parinacota,26126,256,497,25341,1125,31,3302,63,14,8,6,0,4
-Tarapacá,39835,200,764,38851,546,43,9273,94,18,11,7,0,2
-Antofagasta,58996,334,1171,57435,677,42,6161,74,19,14,5,0,1
-Atacama,26289,568,300,25424,775,33,1486,60,50,22,28,0,6
-Coquimbo,46993,458,897,45600,465,26,7972,147,43,27,15,1,1
-Valparaíso,119097,1102,3149,114752,2287,66,46200,430,78,46,19,13,7
-Metropolitana,668479,4035,17905,645469,33146,797,142943,1274,355,234,70,51,55
-O’Higgins,66926,352,1429,65110,1793,46,13840,90,28,23,5,0,3
-Maule,98767,902,1623,96176,7515,61,9719,110,63,46,17,0,13
-Ñuble,34960,257,604,34080,738,48,9556,64,19,16,3,0,1
-Biobío,147117,1127,2443,143482,2742,108,32919,344,103,73,27,3,6
-Araucanía,95815,746,1328,93683,5294,74,10807,125,68,40,25,3,11
-Los Ríos,47614,607,596,46394,2017,32,5382,85,59,44,15,0,10
-Los Lagos,86713,518,1292,84874,1021,69,14941,121,88,67,21,0,2
-Aysén,8024,74,68,7880,373,13,1571,12,2,1,1,0,0
-Magallanes,29081,39,473,28543,296,158,3176,5,8,7,1,0,1
-Se desconoce región de origen,51,0,0,51,0,0,1,0,0,0,0,0,0
-Total,1600883,11575,34539,1553145,60810,1647,319249,3098,1015,679,265,71,123
+Region,Casos totales acumulados,Fallecidos totales,Casos confirmados recuperados,Casos confirmados por antigeno,Casos con sospecha de reinfeccion,Casos probables acumulados,Casos activos probables,Casos nuevos totales,Casos nuevos con sintomas,Casos nuevos sin sintomas*,Casos nuevos reportados por laboratorio,Casos nuevos confirmados por antigeno,Casos activos confirmados
+Arica y Parinacota,26134,497,25380,1123,31,3286,51,10,8,2,0,0,225
+Tarapacá,39928,764,38954,548,43,9280,81,19,13,5,1,5,190
+Antofagasta,59130,1172,57605,678,42,6168,63,20,11,9,0,1,297
+Atacama,26340,300,25547,776,33,1482,51,52,28,23,1,2,496
+Coquimbo,47036,897,45690,466,26,7984,141,39,37,2,0,1,411
+Valparaíso,119182,3149,114960,2290,66,46209,347,87,69,8,10,4,979
+Metropolitana,668727,17934,646113,33211,798,143014,1144,364,243,70,51,78,3639
+O’Higgins,66958,1429,65188,1794,46,13846,88,32,23,9,0,1,306
+Maule,98806,1623,96310,7522,61,9727,108,39,31,8,0,7,807
+Ñuble,34974,604,34124,738,48,9561,58,15,9,6,0,1,227
+Biobío,147194,2443,143674,2748,108,32935,315,77,53,13,11,6,1012
+Araucanía,95884,1328,93808,5306,75,10807,114,67,50,13,4,12,690
+Los Ríos,47657,596,46489,2027,33,5383,80,43,25,16,2,10,555
+Los Lagos,86749,1292,84955,1021,69,14944,107,35,24,11,0,0,473
+Aysén,8025,68,7898,373,13,1572,10,1,1,0,0,0,57
+Magallanes,29083,473,28548,296,159,3178,6,2,0,2,0,0,36
+Se desconoce región de origen,51,0,51,0,0,1,0,0,0,0,0,0,0
+Total,1601858,34569,1555294,60917,1651,319377,2764,902,625,197,80,128,10400
