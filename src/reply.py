@@ -143,7 +143,7 @@ def check_mentions(api, keywords, since_id):
                             # Do something special
                             print('duplicate message')
                 else:
-                    reply = "🤖Hola @" + tweet.user.screen_name + ". En " + comuna + " los casos activos de Covid19 son " + str(casos_ultimo_informe) + " según mis registros con base en el último informe epidemiológico del @ministeriosalud (" + fecha + "), " + str((-1) * variacion) + " menos que en el informe anterior."
+                    reply = "🤖Hola @" + tweet.user.screen_name + ". En " + comuna + " los casos activos de Covid19 son " + str(casos_ultimo_informe) + " con base en el último informe epidemiológico del @ministeriosalud (" + fecha + "), " + str((-1) * variacion) + " menos que en el informe anterior."
                     reply2 = "🤖Además, acorde a la información de la campaña #YoMeVacuno ✌️, un " + porcentaje1 + "% de la población objetivo tiene su primera dosis, y un " + porcentaje2 + "% tiene pauta completa. Un promedio diario de " + promedio + " personas han recibido su vacuna en " + comuna + " esta semana 🦾."
                     try:
                         update = api.update_status(status=reply, in_reply_to_status_id=tweet.id)
@@ -238,7 +238,7 @@ def check_mentions(api, keywords, since_id):
 
                             if variacion > 0:
                                 reply = "🤖Hola @" + tweet.user.screen_name + ". En " + word + " los casos activos de Covid19 son " + str(
-                                    casos_ultimo_informe) + " según mis registros con base en el último informe epidemiológico del @ministeriosalud (" + fecha + "), " + str(
+                                    casos_ultimo_informe) + " con base en el último informe epidemiológico del @ministeriosalud (" + fecha + "), " + str(
                                     variacion) + " más que en el informe anterior."
                                 reply2 = "🤖Además, acorde a la información de la campaña #YoMeVacuno ✌️, un " + porcentaje1 + "% de la población objetivo tiene su primera dosis, y un " + porcentaje2 + "% tiene pauta completa. Un promedio diario de " + promedio + " personas han recibido su vacuna en " + word + " esta semana 🦾."
                                 try:
@@ -250,7 +250,7 @@ def check_mentions(api, keywords, since_id):
                                         print('duplicate message')
                             else:
                                 reply = "🤖Hola @" + tweet.user.screen_name + ". En " + word + " los casos activos de Covid19 son " + str(
-                                    casos_ultimo_informe) + " según mis registros con base en el último informe epidemiológico del @ministeriosalud (" + fecha + "), " + str(
+                                    casos_ultimo_informe) + " con base en el último informe epidemiológico del @ministeriosalud (" + fecha + "), " + str(
                                     (-1) * variacion) + " menos que en el informe anterior."
                                 reply2 = "🤖Además, acorde a la información de la campaña #YoMeVacuno ✌️, un " + porcentaje1 + "% de la población objetivo tiene su primera dosis, y un " + porcentaje2 + "% tiene pauta completa. Un promedio diario de " + promedio + " personas han recibido su vacuna en " + comuna + " esta semana 🦾."
                                 try:
@@ -297,6 +297,12 @@ def main(a,b,c,d):
         since_id = check_mentions(api, keywords, since_id)
         logger.info("Waiting...")
         time.sleep(60)
+
+# def normalizaNombreComuna(comuna):
+#     # standards:
+#     comunas = {
+#
+#     }
 
 if __name__ == "__main__":
     consumer_key = sys.argv[1]
