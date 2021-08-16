@@ -131,7 +131,7 @@ def check_mentions(api, keywords, since_id):
                 dft = dft.rolling(7).mean().round(4)
                 promedio = str(int(dft.iloc[dft.index.max() - 1][n + 1]))
 
-
+                normalizaNombreComuna(comuna)
                 if variacion > 0:
                     reply = "🤖Hola @" + tweet.user.screen_name + ". En " + comuna + " los casos activos de Covid19 son " + str(casos_ultimo_informe) + " con base en el último informe epidemiológico del @ministeriosalud (" + fecha + "), " + str(variacion) + " más que en el informe anterior."
                     reply2 = "🤖Además, acorde a la información de la campaña #YoMeVacuno ✌️, un " + porcentaje1 + "% de la población objetivo tiene su primera dosis, y un " + porcentaje2 + "% tiene pauta completa. Un promedio diario de " + promedio + " personas han recibido su vacuna en " + comuna + " esta semana 🦾."
@@ -236,6 +236,8 @@ def check_mentions(api, keywords, since_id):
                             dft = dft.rolling(7).mean().round(4)
                             promedio = str(int(dft.iloc[dft.index.max() - 1][n + 1]))
 
+                            normalizaNombreComuna(word)
+
                             if variacion > 0:
                                 reply = "🤖Hola @" + tweet.user.screen_name + ". En " + word + " los casos activos de Covid19 son " + str(
                                     casos_ultimo_informe) + " con base en el último informe epidemiológico del @ministeriosalud (" + fecha + "), " + str(
@@ -264,7 +266,7 @@ def check_mentions(api, keywords, since_id):
 
 def main(a,b,c,d):
     api = create_api(a,b,c,d)
-    since_id = 1417562947468017671
+    since_id = 1427313572670054400
     my_files = {
         'activos':
             'https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto19/CasosActivosPorComuna.csv',
@@ -298,11 +300,13 @@ def main(a,b,c,d):
         logger.info("Waiting...")
         time.sleep(60)
 
-# def normalizaNombreComuna(comuna):
-#     # standards:
-#     comunas = {
-#
-#     }
+def normalizaNombreComuna(comuna):
+    # standards:
+    keys = pd.read_csv('../input/Otros/comunas_name_char.csv')
+    values = pd.read_csv('../input/Otros/comunas_name.csv')
+    comunas = dict(zip(keys, values))
+    for comuna_simple, comuna_especial in comunas.items():
+        comuna = comuna.replace(comuna_simple, comuna_especial)
 
 if __name__ == "__main__":
     consumer_key = sys.argv[1]
