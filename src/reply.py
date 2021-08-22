@@ -37,7 +37,9 @@ def check_mentions(api, keywords, since_id):
         'vacunacion2_dosis_t':
             'https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto80/vacunacion_comuna_2daDosis_T.csv',
         'vacunacion3_dosis_t':
-            'https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto80/vacunacion_comuna_UnicaDosis_T.csv'
+            'https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto80/vacunacion_comuna_UnicaDosis_T.csv',
+        'vacunacionR_dosis_t':
+            'https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto80/vacunacion_comuna_Refuerzo_T.csv'
     }
     for tweet in tweepy.Cursor(api.mentions_timeline,since_id=since_id,tweet_mode='extended').items():
         new_since_id = max(tweet.id, new_since_id)
@@ -96,6 +98,9 @@ def check_mentions(api, keywords, since_id):
                 content = requests.get(my_files['vacunacion3_dosis_t']).content
                 dfv3_T = pd.read_csv(io.StringIO(content.decode('utf-8')), header=None)
 
+                content = requests.get(my_files['vacunacionR_dosis_t']).content
+                dfvR_T = pd.read_csv(io.StringIO(content.decode('utf-8')), header=None)
+
                 dfve1["Comuna"] = dfve1["Comuna"].str.lower()
                 n = dfve1.index[dfve1['Comuna'] == comuna]
 
@@ -123,10 +128,12 @@ def check_mentions(api, keywords, since_id):
                 dfv1_T = dfv1_T[5:][n + 1]
                 dfv2_T = dfv2_T[5:][n + 1]
                 dfv3_T = dfv3_T[5:][n + 1]
+                dfvR_T = dfvR_T[5:][n + 1]
                 dfv1_T = dfv1_T.astype(float)
                 dfv2_T = dfv2_T.astype(float)
                 dfv3_T = dfv3_T.astype(float)
-                dft = dfv1_T + dfv2_T+dfv3_T
+                dfvR_T = dfvR_T.astype(float)
+                dft = dfv1_T + dfv2_T+dfv3_T + dfvR_T
                 dft.reset_index(drop=True, inplace=True)
                 dft = dft.rolling(7).mean().round(4)
                 promedio = str(int(dft.iloc[dft.index.max() - 1][n + 1]))
@@ -266,7 +273,7 @@ def check_mentions(api, keywords, since_id):
 
 def main(a,b,c,d):
     api = create_api(a,b,c,d)
-    since_id = 1427313572670054400
+    since_id = 1429432857223737353
     my_files = {
         'activos':
             'https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto19/CasosActivosPorComuna.csv',
@@ -287,7 +294,9 @@ def main(a,b,c,d):
         'vacunacion2_dosis_t':
             'https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto80/vacunacion_comuna_2daDosis_T.csv',
         'vacunacion3_dosis_t':
-            'https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto80/vacunacion_comuna_UnicaDosis_T.csv'
+            'https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto80/vacunacion_comuna_UnicaDosis_T.csv',
+        'vacunacionR_dosis_t':
+            'https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto80/vacunacion_comuna_Refuerzo_T.csv'
     }
     content = requests.get(my_files['activos']).content
     df = pd.read_csv(io.StringIO(content.decode('utf-8')))
