@@ -1228,7 +1228,7 @@ De Antofagasta,Calama,71,2020-10-07,1.0,,1.0
 De Antofagasta,Calama,79,2020-10-07,1.0,,1.0
 De Antofagasta,Calama,90,2020-10-07,1.0,,1.0
 De Antofagasta,Calama,41,2020-10-08,,1.0,1.0
-De Antofagasta,Calama,71,2020-10-09,,1.0,1.0
+De Antofagasta,Calama,70,2020-10-09,,1.0,1.0
 De Antofagasta,Calama,72,2020-10-11,1.0,,1.0
 De Antofagasta,Calama,64,2020-10-15,1.0,,1.0
 De Antofagasta,Calama,83,2020-10-15,1.0,,1.0
@@ -1449,6 +1449,7 @@ De Antofagasta,Calama,62,2021-08-30,1.0,,1.0
 De Antofagasta,Calama,81,2021-08-30,1.0,,1.0
 De Antofagasta,Calama,45,2021-09-05,1.0,,1.0
 De Antofagasta,Calama,77,2021-09-21,1.0,,1.0
+De Antofagasta,Calama,93,2021-10-19,1.0,,1.0
 De Antofagasta,María Elena,58,2020-05-13,1.0,,1.0
 De Antofagasta,María Elena,62,2020-05-26,1.0,,1.0
 De Antofagasta,María Elena,83,2020-05-27,1.0,,1.0
@@ -2243,6 +2244,7 @@ De Arica y Parinacota,Arica,97,2021-10-01,1.0,,1.0
 De Arica y Parinacota,Arica,64,2021-10-07,1.0,,1.0
 De Arica y Parinacota,Arica,89,2021-10-11,,1.0,1.0
 De Arica y Parinacota,Arica,57,2021-10-13,,1.0,1.0
+De Arica y Parinacota,Arica,80,2021-10-13,1.0,,1.0
 De Atacama,Alto del Carmen,79,2020-05-30,,1.0,1.0
 De Atacama,Alto del Carmen,74,2020-06-05,,1.0,1.0
 De Atacama,Alto del Carmen,86,2020-09-21,1.0,,1.0
@@ -2559,6 +2561,8 @@ De Atacama,Copiapó,69,2021-09-07,,1.0,1.0
 De Atacama,Copiapó,93,2021-09-09,1.0,,1.0
 De Atacama,Copiapó,77,2021-09-21,1.0,,1.0
 De Atacama,Copiapó,92,2021-10-12,,1.0,1.0
+De Atacama,Copiapó,89,2021-10-13,1.0,,1.0
+De Atacama,Copiapó,85,2021-10-19,1.0,,1.0
 De Atacama,Diego de Almagro,59,2020-07-04,1.0,,1.0
 De Atacama,Diego de Almagro,47,2020-07-07,1.0,,1.0
 De Atacama,Diego de Almagro,78,2020-08-16,,1.0,1.0
@@ -2867,7 +2871,8 @@ De Coquimbo,Coquimbo,59,2020-09-15,1.0,,1.0
 De Coquimbo,Coquimbo,76,2020-09-15,,1.0,1.0
 De Coquimbo,Coquimbo,80,2020-09-16,1.0,,1.0
 De Coquimbo,Coquimbo,42,2020-09-17,,1.0,1.0
-De Coquimbo,Coquimbo,75,2020-09-17,2.0,,2.0
+De Coquimbo,Coquimbo,74,2020-09-17,1.0,,1.0
+De Coquimbo,Coquimbo,75,2020-09-17,1.0,,1.0
 De Coquimbo,Coquimbo,79,2020-09-21,1.0,,1.0
 De Coquimbo,Coquimbo,58,2020-09-23,,1.0,1.0
 De Coquimbo,Coquimbo,91,2020-09-23,,1.0,1.0
@@ -3150,6 +3155,8 @@ De Coquimbo,Coquimbo,47,2021-09-13,1.0,,1.0
 De Coquimbo,Coquimbo,89,2021-09-26,1.0,,1.0
 De Coquimbo,Coquimbo,84,2021-09-29,1.0,,1.0
 De Coquimbo,Coquimbo,48,2021-10-12,,1.0,1.0
+De Coquimbo,Coquimbo,62,2021-10-16,,1.0,1.0
+De Coquimbo,Coquimbo,69,2021-10-16,1.0,,1.0
 De Coquimbo,Illapel,86,2020-06-07,,1.0,1.0
 De Coquimbo,Illapel,69,2020-07-12,1.0,,1.0
 De Coquimbo,Illapel,63,2020-08-11,1.0,,1.0
@@ -3532,6 +3539,7 @@ De Coquimbo,La Serena,74,2021-09-12,1.0,,1.0
 De Coquimbo,La Serena,70,2021-09-13,1.0,,1.0
 De Coquimbo,La Serena,83,2021-09-18,1.0,,1.0
 De Coquimbo,La Serena,90,2021-10-08,,1.0,1.0
+De Coquimbo,La Serena,89,2021-10-15,1.0,,1.0
 De Coquimbo,Los Vilos,75,2020-05-27,,1.0,1.0
 De Coquimbo,Los Vilos,69,2020-06-09,1.0,,1.0
 De Coquimbo,Los Vilos,62,2020-06-11,1.0,,1.0
@@ -3676,7 +3684,7 @@ De Coquimbo,Ovalle,56,2020-09-17,1.0,,1.0
 De Coquimbo,Ovalle,57,2020-09-17,1.0,,1.0
 De Coquimbo,Ovalle,71,2020-09-18,1.0,,1.0
 De Coquimbo,Ovalle,82,2020-09-18,1.0,,1.0
-De Coquimbo,Ovalle,90,2020-09-18,1.0,,1.0
+De Coquimbo,Ovalle,92,2020-09-18,1.0,,1.0
 De Coquimbo,Ovalle,76,2020-09-19,1.0,,1.0
 De Coquimbo,Ovalle,79,2020-09-20,,1.0,1.0
 De Coquimbo,Ovalle,95,2020-09-20,1.0,,1.0
@@ -3851,6 +3859,7 @@ De Coquimbo,Ovalle,85,2021-08-21,1.0,,1.0
 De Coquimbo,Ovalle,81,2021-09-05,1.0,,1.0
 De Coquimbo,Ovalle,73,2021-09-17,1.0,,1.0
 De Coquimbo,Ovalle,50,2021-10-05,1.0,,1.0
+De Coquimbo,Ovalle,68,2021-10-13,1.0,,1.0
 De Coquimbo,Paiguano,86,2020-06-16,,1.0,1.0
 De Coquimbo,Paiguano,90,2020-07-03,,1.0,1.0
 De Coquimbo,Paiguano,89,2020-09-05,1.0,,1.0
@@ -4379,6 +4388,7 @@ De La Araucanía,Curacautín,85,2021-09-07,1.0,,1.0
 De La Araucanía,Curacautín,94,2021-09-08,1.0,,1.0
 De La Araucanía,Curacautín,78,2021-09-09,1.0,,1.0
 De La Araucanía,Curacautín,90,2021-09-13,1.0,,1.0
+De La Araucanía,Curacautín,58,2021-10-12,,1.0,1.0
 De La Araucanía,Curarrehue,80,2020-08-23,,1.0,1.0
 De La Araucanía,Curarrehue,68,2020-11-30,1.0,,1.0
 De La Araucanía,Curarrehue,62,2021-01-07,1.0,,1.0
@@ -5133,6 +5143,7 @@ De La Araucanía,Purén,90,2021-08-19,1.0,,1.0
 De La Araucanía,Purén,77,2021-08-26,1.0,,1.0
 De La Araucanía,Purén,88,2021-09-08,1.0,,1.0
 De La Araucanía,Purén,90,2021-09-23,1.0,,1.0
+De La Araucanía,Purén,76,2021-10-13,1.0,,1.0
 De La Araucanía,Renaico,79,2020-05-16,1.0,,1.0
 De La Araucanía,Renaico,70,2020-05-27,,1.0,1.0
 De La Araucanía,Renaico,84,2020-07-09,1.0,,1.0
@@ -6041,6 +6052,7 @@ De La Araucanía,Villarrica,77,2021-08-02,,1.0,1.0
 De La Araucanía,Villarrica,72,2021-08-08,1.0,,1.0
 De La Araucanía,Villarrica,86,2021-08-20,1.0,,1.0
 De La Araucanía,Villarrica,87,2021-09-08,1.0,,1.0
+De La Araucanía,Villarrica,50,2021-10-08,,1.0,1.0
 De Los Lagos,Ancud,88,2020-05-03,,1.0,1.0
 De Los Lagos,Ancud,90,2020-05-05,,1.0,1.0
 De Los Lagos,Ancud,78,2020-06-12,1.0,,1.0
@@ -7394,6 +7406,7 @@ De Los Lagos,Puerto Montt,70,2021-08-21,1.0,,1.0
 De Los Lagos,Puerto Montt,64,2021-08-26,1.0,,1.0
 De Los Lagos,Puerto Montt,80,2021-09-02,1.0,,1.0
 De Los Lagos,Puerto Montt,75,2021-09-07,,1.0,1.0
+De Los Lagos,Puerto Montt,77,2021-10-14,1.0,,1.0
 De Los Lagos,Puerto Octay,82,2020-04-04,1.0,,1.0
 De Los Lagos,Puerto Octay,65,2020-09-13,1.0,,1.0
 De Los Lagos,Puerto Octay,89,2020-11-02,1.0,,1.0
@@ -7695,6 +7708,7 @@ De Los Lagos,Río Negro,90,2021-07-14,1.0,,1.0
 De Los Lagos,Río Negro,70,2021-08-05,,1.0,1.0
 De Los Lagos,Río Negro,61,2021-08-06,1.0,,1.0
 De Los Lagos,Río Negro,67,2021-08-24,1.0,,1.0
+De Los Lagos,Río Negro,60,2021-10-12,1.0,,1.0
 De Los Lagos,San Juan de la Costa,86,2020-05-09,1.0,,1.0
 De Los Lagos,San Juan de la Costa,47,2020-06-20,1.0,,1.0
 De Los Lagos,San Juan de la Costa,88,2020-08-04,1.0,,1.0
@@ -8074,7 +8088,6 @@ De Los Ríos,Los Lagos,74,2021-08-28,1.0,,1.0
 De Los Ríos,Los Lagos,89,2021-09-05,1.0,,1.0
 De Los Ríos,Mariquina,58,2020-04-11,,1.0,1.0
 De Los Ríos,Mariquina,66,2020-06-06,,1.0,1.0
-De Los Ríos,Mariquina,81,2020-06-16,,1.0,1.0
 De Los Ríos,Mariquina,65,2020-06-25,,1.0,1.0
 De Los Ríos,Mariquina,84,2020-08-16,,1.0,1.0
 De Los Ríos,Mariquina,80,2020-09-02,,1.0,1.0
@@ -8301,6 +8314,7 @@ De Los Ríos,Panguipulli,65,2021-09-16,1.0,,1.0
 De Los Ríos,Panguipulli,68,2021-09-22,1.0,,1.0
 De Los Ríos,Panguipulli,66,2021-09-24,,1.0,1.0
 De Los Ríos,Panguipulli,63,2021-09-28,1.0,,1.0
+De Los Ríos,Panguipulli,83,2021-10-13,1.0,,1.0
 De Los Ríos,Río Bueno,80,2020-03-28,,1.0,1.0
 De Los Ríos,Río Bueno,90,2020-05-24,,1.0,1.0
 De Los Ríos,Río Bueno,93,2020-09-17,1.0,,1.0
@@ -10207,6 +10221,7 @@ De Valparaíso,Algarrobo,59,2021-08-02,,1.0,1.0
 De Valparaíso,Algarrobo,83,2021-08-07,1.0,,1.0
 De Valparaíso,Algarrobo,82,2021-08-11,,1.0,1.0
 De Valparaíso,Algarrobo,80,2021-08-15,1.0,,1.0
+De Valparaíso,Algarrobo,92,2021-10-18,1.0,,1.0
 De Valparaíso,Cabildo,73,2020-05-28,,1.0,1.0
 De Valparaíso,Cabildo,57,2020-06-11,1.0,,1.0
 De Valparaíso,Cabildo,59,2020-06-21,1.0,,1.0
@@ -10455,6 +10470,7 @@ De Valparaíso,Calera,77,2021-08-16,1.0,,1.0
 De Valparaíso,Calera,86,2021-08-17,1.0,,1.0
 De Valparaíso,Calera,93,2021-09-02,1.0,,1.0
 De Valparaíso,Calera,77,2021-10-02,1.0,,1.0
+De Valparaíso,Calera,69,2021-10-06,1.0,,1.0
 De Valparaíso,Calera,48,2021-10-07,1.0,,1.0
 De Valparaíso,Calera,67,2021-10-13,,1.0,1.0
 De Valparaíso,Calle Larga,58,2020-05-26,,1.0,1.0
@@ -10526,6 +10542,7 @@ De Valparaíso,Cartagena,56,2021-06-27,1.0,,1.0
 De Valparaíso,Cartagena,68,2021-07-14,1.0,,1.0
 De Valparaíso,Cartagena,59,2021-09-12,1.0,,1.0
 De Valparaíso,Cartagena,60,2021-10-03,1.0,,1.0
+De Valparaíso,Cartagena,80,2021-10-13,1.0,,1.0
 De Valparaíso,Casablanca,54,2020-05-27,,1.0,1.0
 De Valparaíso,Casablanca,43,2020-05-29,1.0,,1.0
 De Valparaíso,Casablanca,62,2020-05-29,,1.0,1.0
@@ -10703,6 +10720,7 @@ De Valparaíso,El Quisco,49,2021-06-09,1.0,,1.0
 De Valparaíso,El Quisco,93,2021-06-18,1.0,,1.0
 De Valparaíso,El Quisco,83,2021-07-04,,1.0,1.0
 De Valparaíso,El Quisco,80,2021-09-05,1.0,,1.0
+De Valparaíso,El Quisco,83,2021-10-18,1.0,,1.0
 De Valparaíso,El Tabo,74,2020-04-24,,1.0,1.0
 De Valparaíso,El Tabo,84,2020-04-24,,1.0,1.0
 De Valparaíso,El Tabo,56,2020-05-07,,1.0,1.0
@@ -11058,6 +11076,7 @@ De Valparaíso,Limache,84,2021-08-21,1.0,,1.0
 De Valparaíso,Limache,66,2021-08-30,1.0,,1.0
 De Valparaíso,Limache,66,2021-09-14,1.0,,1.0
 De Valparaíso,Limache,92,2021-09-26,,1.0,1.0
+De Valparaíso,Limache,93,2021-10-14,1.0,,1.0
 De Valparaíso,Llaillay,73,2020-05-24,1.0,,1.0
 De Valparaíso,Llaillay,75,2020-06-02,1.0,,1.0
 De Valparaíso,Llaillay,59,2020-06-05,,1.0,1.0
@@ -11126,6 +11145,7 @@ De Valparaíso,Llaillay,91,2021-07-28,,1.0,1.0
 De Valparaíso,Llaillay,68,2021-08-10,,1.0,1.0
 De Valparaíso,Llaillay,50,2021-08-14,1.0,,1.0
 De Valparaíso,Llaillay,78,2021-08-27,1.0,,1.0
+De Valparaíso,Llaillay,77,2021-10-15,1.0,,1.0
 De Valparaíso,Los Andes,66,2020-04-14,1.0,,1.0
 De Valparaíso,Los Andes,52,2020-05-18,,1.0,1.0
 De Valparaíso,Los Andes,84,2020-05-29,1.0,,1.0
@@ -11871,7 +11891,7 @@ De Valparaíso,Quilpué,92,2020-09-13,1.0,,1.0
 De Valparaíso,Quilpué,73,2020-09-14,1.0,,1.0
 De Valparaíso,Quilpué,78,2020-09-14,1.0,,1.0
 De Valparaíso,Quilpué,88,2020-09-17,1.0,,1.0
-De Valparaíso,Quilpué,86,2020-09-18,1.0,,1.0
+De Valparaíso,Quilpué,88,2020-09-18,1.0,,1.0
 De Valparaíso,Quilpué,84,2020-09-21,,1.0,1.0
 De Valparaíso,Quilpué,71,2020-09-25,1.0,,1.0
 De Valparaíso,Quilpué,91,2020-09-26,,1.0,1.0
@@ -12511,6 +12531,8 @@ De Valparaíso,San Antonio,52,2021-09-18,1.0,,1.0
 De Valparaíso,San Antonio,75,2021-10-02,1.0,,1.0
 De Valparaíso,San Antonio,82,2021-10-11,1.0,,1.0
 De Valparaíso,San Antonio,49,2021-10-12,,1.0,1.0
+De Valparaíso,San Antonio,85,2021-10-14,,1.0,1.0
+De Valparaíso,San Antonio,84,2021-10-17,1.0,,1.0
 De Valparaíso,San Esteban,74,2020-05-16,,1.0,1.0
 De Valparaíso,San Esteban,52,2020-05-18,,1.0,1.0
 De Valparaíso,San Esteban,38,2020-06-15,,1.0,1.0
@@ -13901,6 +13923,7 @@ De Valparaíso,Villa Alemana,48,2021-09-05,1.0,,1.0
 De Valparaíso,Villa Alemana,82,2021-09-05,1.0,,1.0
 De Valparaíso,Villa Alemana,69,2021-09-15,1.0,,1.0
 De Valparaíso,Villa Alemana,81,2021-09-19,1.0,,1.0
+De Valparaíso,Villa Alemana,30,2021-10-17,1.0,,1.0
 De Valparaíso,Viña del Mar,63,2020-03-31,1.0,,1.0
 De Valparaíso,Viña del Mar,75,2020-04-18,,1.0,1.0
 De Valparaíso,Viña del Mar,89,2020-04-20,1.0,,1.0
@@ -14726,6 +14749,7 @@ De Valparaíso,Viña del Mar,88,2021-09-19,1.0,,1.0
 De Valparaíso,Viña del Mar,74,2021-09-23,,1.0,1.0
 De Valparaíso,Viña del Mar,92,2021-09-30,1.0,,1.0
 De Valparaíso,Viña del Mar,86,2021-10-02,,1.0,1.0
+De Valparaíso,Viña del Mar,72,2021-10-17,,1.0,1.0
 De Valparaíso,Zapallar,59,2020-06-23,,1.0,1.0
 De Valparaíso,Zapallar,77,2020-06-26,1.0,,1.0
 De Valparaíso,Zapallar,69,2020-08-06,1.0,,1.0
@@ -15078,6 +15102,8 @@ De Ñuble,Chillán,69,2021-08-27,1.0,,1.0
 De Ñuble,Chillán,75,2021-08-29,1.0,,1.0
 De Ñuble,Chillán,86,2021-09-11,1.0,,1.0
 De Ñuble,Chillán,89,2021-09-11,,1.0,1.0
+De Ñuble,Chillán,82,2021-10-13,,1.0,1.0
+De Ñuble,Chillán,90,2021-10-17,1.0,,1.0
 De Ñuble,Chillán Viejo,66,2020-05-03,1.0,,1.0
 De Ñuble,Chillán Viejo,84,2020-07-21,1.0,,1.0
 De Ñuble,Chillán Viejo,68,2020-09-01,1.0,,1.0
@@ -15793,6 +15819,7 @@ Del Bíobío,Cañete,75,2021-09-20,1.0,,1.0
 Del Bíobío,Cañete,70,2021-09-24,1.0,,1.0
 Del Bíobío,Cañete,51,2021-09-29,1.0,,1.0
 Del Bíobío,Cañete,76,2021-10-06,1.0,,1.0
+Del Bíobío,Cañete,55,2021-10-07,1.0,,1.0
 Del Bíobío,Chiguayante,77,2020-04-15,1.0,,1.0
 Del Bíobío,Chiguayante,64,2020-04-21,1.0,,1.0
 Del Bíobío,Chiguayante,74,2020-04-27,,1.0,1.0
@@ -16449,6 +16476,7 @@ Del Bíobío,Concepción,81,2021-09-19,1.0,,1.0
 Del Bíobío,Concepción,58,2021-09-21,1.0,,1.0
 Del Bíobío,Concepción,75,2021-09-27,1.0,,1.0
 Del Bíobío,Concepción,87,2021-10-01,1.0,,1.0
+Del Bíobío,Concepción,56,2021-10-18,1.0,,1.0
 Del Bíobío,Contulmo,59,2020-06-23,,1.0,1.0
 Del Bíobío,Contulmo,96,2020-06-23,,1.0,1.0
 Del Bíobío,Contulmo,79,2020-07-10,,1.0,1.0
@@ -17591,6 +17619,7 @@ Del Bíobío,Los Ángeles,56,2021-08-31,1.0,,1.0
 Del Bíobío,Los Ángeles,68,2021-09-15,1.0,,1.0
 Del Bíobío,Los Ángeles,64,2021-09-16,1.0,,1.0
 Del Bíobío,Los Ángeles,75,2021-10-01,1.0,,1.0
+Del Bíobío,Los Ángeles,70,2021-10-17,1.0,,1.0
 Del Bíobío,Lota,81,2020-05-27,1.0,,1.0
 Del Bíobío,Lota,62,2020-06-16,1.0,,1.0
 Del Bíobío,Lota,60,2020-06-25,1.0,,1.0
@@ -17854,6 +17883,7 @@ Del Bíobío,Negrete,69,2021-06-01,1.0,,1.0
 Del Bíobío,Negrete,59,2021-06-16,1.0,,1.0
 Del Bíobío,Negrete,91,2021-06-18,1.0,,1.0
 Del Bíobío,Negrete,68,2021-07-16,,1.0,1.0
+Del Bíobío,Negrete,86,2021-10-18,1.0,,1.0
 Del Bíobío,Penco,66,2020-05-27,,1.0,1.0
 Del Bíobío,Penco,63,2020-06-18,1.0,,1.0
 Del Bíobío,Penco,48,2020-06-22,,1.0,1.0
@@ -18376,7 +18406,7 @@ Del Bíobío,Talcahuano,73,2020-10-17,1.0,,1.0
 Del Bíobío,Talcahuano,66,2020-10-21,1.0,,1.0
 Del Bíobío,Talcahuano,71,2020-10-21,1.0,,1.0
 Del Bíobío,Talcahuano,59,2020-10-23,1.0,,1.0
-Del Bíobío,Talcahuano,73,2020-10-24,1.0,,1.0
+Del Bíobío,Talcahuano,74,2020-10-24,1.0,,1.0
 Del Bíobío,Talcahuano,85,2020-10-25,1.0,,1.0
 Del Bíobío,Talcahuano,67,2020-10-29,1.0,,1.0
 Del Bíobío,Talcahuano,68,2020-10-31,1.0,,1.0
@@ -18654,6 +18684,7 @@ Del Bíobío,Talcahuano,57,2021-08-27,,1.0,1.0
 Del Bíobío,Talcahuano,76,2021-08-30,1.0,,1.0
 Del Bíobío,Talcahuano,64,2021-09-16,1.0,,1.0
 Del Bíobío,Talcahuano,51,2021-10-07,1.0,,1.0
+Del Bíobío,Talcahuano,4,2021-10-08,1.0,,1.0
 Del Bíobío,Tirúa,79,2020-08-25,,1.0,1.0
 Del Bíobío,Tirúa,42,2020-11-05,1.0,,1.0
 Del Bíobío,Tirúa,96,2020-11-07,,1.0,1.0
@@ -19267,6 +19298,7 @@ Del Libertador B. O'Higgins,Las Cabras,53,2021-06-27,1.0,,1.0
 Del Libertador B. O'Higgins,Las Cabras,64,2021-07-01,1.0,,1.0
 Del Libertador B. O'Higgins,Las Cabras,80,2021-07-05,1.0,,1.0
 Del Libertador B. O'Higgins,Las Cabras,30,2021-07-30,1.0,,1.0
+Del Libertador B. O'Higgins,Las Cabras,34,2021-10-05,1.0,,1.0
 Del Libertador B. O'Higgins,Litueche,80,2020-06-04,1.0,,1.0
 Del Libertador B. O'Higgins,Litueche,71,2020-06-12,,1.0,1.0
 Del Libertador B. O'Higgins,Litueche,92,2020-07-18,1.0,,1.0
@@ -19612,6 +19644,7 @@ Del Libertador B. O'Higgins,Paredones,48,2020-08-01,1.0,,1.0
 Del Libertador B. O'Higgins,Paredones,86,2021-05-25,1.0,,1.0
 Del Libertador B. O'Higgins,Paredones,82,2021-05-31,1.0,,1.0
 Del Libertador B. O'Higgins,Paredones,80,2021-06-29,1.0,,1.0
+Del Libertador B. O'Higgins,Paredones,75,2021-10-13,1.0,,1.0
 Del Libertador B. O'Higgins,Peralillo,66,2020-05-19,1.0,,1.0
 Del Libertador B. O'Higgins,Peralillo,72,2020-09-14,,1.0,1.0
 Del Libertador B. O'Higgins,Peralillo,83,2020-10-12,1.0,,1.0
@@ -19757,6 +19790,7 @@ Del Libertador B. O'Higgins,Pichilemu,80,2021-06-22,1.0,,1.0
 Del Libertador B. O'Higgins,Pichilemu,84,2021-07-07,1.0,,1.0
 Del Libertador B. O'Higgins,Pichilemu,71,2021-07-17,,1.0,1.0
 Del Libertador B. O'Higgins,Pichilemu,85,2021-07-29,1.0,,1.0
+Del Libertador B. O'Higgins,Pichilemu,91,2021-10-19,1.0,,1.0
 Del Libertador B. O'Higgins,Placilla,87,2020-07-06,1.0,,1.0
 Del Libertador B. O'Higgins,Placilla,57,2020-09-20,1.0,,1.0
 Del Libertador B. O'Higgins,Placilla,87,2020-12-17,,1.0,1.0
@@ -20435,6 +20469,7 @@ Del Libertador B. O'Higgins,Rancagua,79,2021-09-28,1.0,,1.0
 Del Libertador B. O'Higgins,Rancagua,85,2021-10-03,1.0,,1.0
 Del Libertador B. O'Higgins,Rancagua,86,2021-10-08,1.0,,1.0
 Del Libertador B. O'Higgins,Rancagua,77,2021-10-10,1.0,,1.0
+Del Libertador B. O'Higgins,Rancagua,40,2021-10-16,1.0,,1.0
 Del Libertador B. O'Higgins,Rengo,87,2020-04-07,,1.0,1.0
 Del Libertador B. O'Higgins,Rengo,95,2020-05-06,,1.0,1.0
 Del Libertador B. O'Higgins,Rengo,94,2020-05-21,1.0,,1.0
@@ -20753,6 +20788,7 @@ Del Libertador B. O'Higgins,San Fernando,81,2021-09-08,1.0,,1.0
 Del Libertador B. O'Higgins,San Fernando,71,2021-09-12,1.0,,1.0
 Del Libertador B. O'Higgins,San Fernando,56,2021-09-23,1.0,,1.0
 Del Libertador B. O'Higgins,San Fernando,85,2021-09-26,1.0,,1.0
+Del Libertador B. O'Higgins,San Fernando,54,2021-10-15,1.0,,1.0
 Del Libertador B. O'Higgins,San Vicente,63,2020-04-21,,1.0,1.0
 Del Libertador B. O'Higgins,San Vicente,83,2020-05-20,1.0,,1.0
 Del Libertador B. O'Higgins,San Vicente,76,2020-05-31,,1.0,1.0
@@ -20871,6 +20907,7 @@ Del Libertador B. O'Higgins,San Vicente,71,2021-08-14,1.0,,1.0
 Del Libertador B. O'Higgins,San Vicente,73,2021-08-17,1.0,,1.0
 Del Libertador B. O'Higgins,San Vicente,84,2021-08-27,1.0,,1.0
 Del Libertador B. O'Higgins,San Vicente,69,2021-09-07,1.0,,1.0
+Del Libertador B. O'Higgins,San Vicente,78,2021-10-10,1.0,,1.0
 Del Libertador B. O'Higgins,Santa Cruz,96,2020-04-28,,1.0,1.0
 Del Libertador B. O'Higgins,Santa Cruz,37,2020-06-08,,1.0,1.0
 Del Libertador B. O'Higgins,Santa Cruz,74,2020-06-15,,1.0,1.0
@@ -21887,6 +21924,7 @@ Del Maule,Linares,77,2021-09-10,1.0,,1.0
 Del Maule,Linares,90,2021-09-11,,1.0,1.0
 Del Maule,Linares,53,2021-09-30,1.0,,1.0
 Del Maule,Linares,97,2021-10-06,1.0,,1.0
+Del Maule,Linares,72,2021-10-13,1.0,,1.0
 Del Maule,Longaví,79,2020-04-06,,1.0,1.0
 Del Maule,Longaví,91,2020-04-28,,1.0,1.0
 Del Maule,Longaví,44,2020-05-24,,1.0,1.0
@@ -22223,6 +22261,7 @@ Del Maule,Pelluhue,83,2021-03-14,1.0,,1.0
 Del Maule,Pelluhue,77,2021-03-23,1.0,,1.0
 Del Maule,Pelluhue,63,2021-04-02,1.0,,1.0
 Del Maule,Pelluhue,53,2021-04-11,,1.0,1.0
+Del Maule,Pelluhue,66,2021-10-08,1.0,,1.0
 Del Maule,Pencahue,72,2020-08-24,1.0,,1.0
 Del Maule,Pencahue,49,2020-10-16,1.0,,1.0
 Del Maule,Pencahue,78,2020-11-12,1.0,,1.0
@@ -23024,6 +23063,8 @@ Del Maule,Talca,74,2021-08-26,1.0,,1.0
 Del Maule,Talca,77,2021-09-12,1.0,,1.0
 Del Maule,Talca,44,2021-09-13,1.0,,1.0
 Del Maule,Talca,69,2021-09-18,1.0,,1.0
+Del Maule,Talca,81,2021-10-01,1.0,,1.0
+Del Maule,Talca,64,2021-10-20,1.0,,1.0
 Del Maule,Teno,86,2020-04-17,1.0,,1.0
 Del Maule,Teno,84,2020-05-28,1.0,,1.0
 Del Maule,Teno,79,2020-06-18,,1.0,1.0
@@ -24843,6 +24884,8 @@ Metropolitana de Santiago,Colina,75,2021-08-23,1.0,,1.0
 Metropolitana de Santiago,Colina,60,2021-08-26,,1.0,1.0
 Metropolitana de Santiago,Colina,89,2021-08-27,,1.0,1.0
 Metropolitana de Santiago,Colina,94,2021-08-31,1.0,,1.0
+Metropolitana de Santiago,Colina,80,2021-10-14,1.0,,1.0
+Metropolitana de Santiago,Colina,88,2021-10-16,1.0,,1.0
 Metropolitana de Santiago,Conchalí,84,2020-04-19,,1.0,1.0
 Metropolitana de Santiago,Conchalí,63,2020-04-21,1.0,,1.0
 Metropolitana de Santiago,Conchalí,68,2020-04-25,,1.0,1.0
@@ -26752,6 +26795,7 @@ Metropolitana de Santiago,Estación Central,60,2021-09-04,,1.0,1.0
 Metropolitana de Santiago,Estación Central,52,2021-09-07,,1.0,1.0
 Metropolitana de Santiago,Estación Central,44,2021-09-15,,1.0,1.0
 Metropolitana de Santiago,Estación Central,86,2021-10-10,1.0,,1.0
+Metropolitana de Santiago,Estación Central,69,2021-10-17,1.0,,1.0
 Metropolitana de Santiago,Huechuraba,75,2020-04-17,1.0,,1.0
 Metropolitana de Santiago,Huechuraba,98,2020-04-19,1.0,,1.0
 Metropolitana de Santiago,Huechuraba,45,2020-04-30,1.0,,1.0
@@ -28212,6 +28256,7 @@ Metropolitana de Santiago,La Cisterna,38,2021-09-06,1.0,,1.0
 Metropolitana de Santiago,La Cisterna,70,2021-09-08,1.0,,1.0
 Metropolitana de Santiago,La Cisterna,65,2021-09-09,,1.0,1.0
 Metropolitana de Santiago,La Cisterna,80,2021-10-06,1.0,,1.0
+Metropolitana de Santiago,La Cisterna,85,2021-10-18,1.0,,1.0
 Metropolitana de Santiago,La Florida,70,2020-03-22,,1.0,1.0
 Metropolitana de Santiago,La Florida,74,2020-04-02,1.0,,1.0
 Metropolitana de Santiago,La Florida,80,2020-04-02,,1.0,1.0
@@ -29493,6 +29538,10 @@ Metropolitana de Santiago,La Florida,85,2021-10-01,1.0,,1.0
 Metropolitana de Santiago,La Florida,81,2021-10-04,1.0,,1.0
 Metropolitana de Santiago,La Florida,72,2021-10-08,1.0,,1.0
 Metropolitana de Santiago,La Florida,56,2021-10-10,1.0,,1.0
+Metropolitana de Santiago,La Florida,48,2021-10-16,1.0,,1.0
+Metropolitana de Santiago,La Florida,66,2021-10-16,1.0,,1.0
+Metropolitana de Santiago,La Florida,91,2021-10-16,1.0,,1.0
+Metropolitana de Santiago,La Florida,59,2021-10-18,1.0,,1.0
 Metropolitana de Santiago,La Granja,69,2020-04-02,1.0,,1.0
 Metropolitana de Santiago,La Granja,70,2020-04-09,1.0,,1.0
 Metropolitana de Santiago,La Granja,42,2020-04-10,1.0,,1.0
@@ -30829,6 +30878,7 @@ Metropolitana de Santiago,La Pintana,68,2021-09-20,1.0,,1.0
 Metropolitana de Santiago,La Pintana,63,2021-09-26,1.0,,1.0
 Metropolitana de Santiago,La Pintana,94,2021-09-26,1.0,,1.0
 Metropolitana de Santiago,La Pintana,89,2021-10-06,1.0,,1.0
+Metropolitana de Santiago,La Pintana,82,2021-10-17,,1.0,1.0
 Metropolitana de Santiago,La Reina,105,2020-04-07,,1.0,1.0
 Metropolitana de Santiago,La Reina,93,2020-05-11,1.0,,1.0
 Metropolitana de Santiago,La Reina,70,2020-05-18,,1.0,1.0
@@ -32091,6 +32141,9 @@ Metropolitana de Santiago,Las Condes,69,2021-09-13,1.0,,1.0
 Metropolitana de Santiago,Las Condes,98,2021-09-26,1.0,,1.0
 Metropolitana de Santiago,Las Condes,74,2021-09-28,1.0,,1.0
 Metropolitana de Santiago,Las Condes,74,2021-10-05,1.0,,1.0
+Metropolitana de Santiago,Las Condes,93,2021-10-12,1.0,,1.0
+Metropolitana de Santiago,Las Condes,62,2021-10-16,1.0,,1.0
+Metropolitana de Santiago,Las Condes,75,2021-10-16,1.0,,1.0
 Metropolitana de Santiago,Lo Barnechea,70,2020-04-07,1.0,,1.0
 Metropolitana de Santiago,Lo Barnechea,87,2020-04-18,1.0,,1.0
 Metropolitana de Santiago,Lo Barnechea,73,2020-04-28,1.0,,1.0
@@ -35151,6 +35204,7 @@ Metropolitana de Santiago,Maipú,89,2021-08-25,1.0,,1.0
 Metropolitana de Santiago,Maipú,93,2021-08-25,1.0,,1.0
 Metropolitana de Santiago,Maipú,78,2021-08-27,1.0,,1.0
 Metropolitana de Santiago,Maipú,45,2021-08-28,1.0,,1.0
+Metropolitana de Santiago,Maipú,60,2021-08-28,1.0,,1.0
 Metropolitana de Santiago,Maipú,73,2021-08-28,1.0,,1.0
 Metropolitana de Santiago,Maipú,72,2021-08-29,,1.0,1.0
 Metropolitana de Santiago,Maipú,41,2021-08-31,1.0,,1.0
@@ -35181,6 +35235,9 @@ Metropolitana de Santiago,Maipú,78,2021-10-04,1.0,,1.0
 Metropolitana de Santiago,Maipú,82,2021-10-05,1.0,,1.0
 Metropolitana de Santiago,Maipú,83,2021-10-08,,1.0,1.0
 Metropolitana de Santiago,Maipú,92,2021-10-08,,1.0,1.0
+Metropolitana de Santiago,Maipú,74,2021-10-15,,1.0,1.0
+Metropolitana de Santiago,Maipú,67,2021-10-19,1.0,,1.0
+Metropolitana de Santiago,Maipú,76,2021-10-19,1.0,,1.0
 Metropolitana de Santiago,María Pinto,92,2020-05-26,,1.0,1.0
 Metropolitana de Santiago,María Pinto,81,2020-06-04,1.0,,1.0
 Metropolitana de Santiago,María Pinto,84,2020-06-17,1.0,,1.0
@@ -36498,6 +36555,7 @@ Metropolitana de Santiago,Pedro Aguirre Cerda,91,2021-08-30,1.0,,1.0
 Metropolitana de Santiago,Pedro Aguirre Cerda,60,2021-09-01,1.0,,1.0
 Metropolitana de Santiago,Pedro Aguirre Cerda,92,2021-09-11,,1.0,1.0
 Metropolitana de Santiago,Pedro Aguirre Cerda,95,2021-10-09,1.0,,1.0
+Metropolitana de Santiago,Pedro Aguirre Cerda,66,2021-10-14,1.0,,1.0
 Metropolitana de Santiago,Peñaflor,57,2020-04-26,1.0,,1.0
 Metropolitana de Santiago,Peñaflor,46,2020-05-02,,1.0,1.0
 Metropolitana de Santiago,Peñaflor,89,2020-05-03,1.0,,1.0
@@ -37665,6 +37723,9 @@ Metropolitana de Santiago,Peñalolén,66,2021-09-19,1.0,,1.0
 Metropolitana de Santiago,Peñalolén,80,2021-09-27,1.0,,1.0
 Metropolitana de Santiago,Peñalolén,48,2021-10-01,1.0,,1.0
 Metropolitana de Santiago,Peñalolén,77,2021-10-05,1.0,,1.0
+Metropolitana de Santiago,Peñalolén,54,2021-10-13,1.0,,1.0
+Metropolitana de Santiago,Peñalolén,84,2021-10-14,1.0,,1.0
+Metropolitana de Santiago,Peñalolén,41,2021-10-17,,1.0,1.0
 Metropolitana de Santiago,Pirque,88,2020-04-19,1.0,,1.0
 Metropolitana de Santiago,Pirque,73,2020-05-09,,1.0,1.0
 Metropolitana de Santiago,Pirque,79,2020-05-13,,1.0,1.0
@@ -38218,6 +38279,7 @@ Metropolitana de Santiago,Providencia,53,2021-09-28,1.0,,1.0
 Metropolitana de Santiago,Providencia,66,2021-10-11,,1.0,1.0
 Metropolitana de Santiago,Providencia,84,2021-10-11,1.0,,1.0
 Metropolitana de Santiago,Providencia,107,2021-10-11,1.0,,1.0
+Metropolitana de Santiago,Providencia,74,2021-10-14,1.0,,1.0
 Metropolitana de Santiago,Pudahuel,90,2020-03-20,,1.0,1.0
 Metropolitana de Santiago,Pudahuel,82,2020-04-19,1.0,,1.0
 Metropolitana de Santiago,Pudahuel,49,2020-04-22,,1.0,1.0
@@ -38836,6 +38898,8 @@ Metropolitana de Santiago,Pudahuel,67,2021-09-20,1.0,,1.0
 Metropolitana de Santiago,Pudahuel,97,2021-09-24,1.0,,1.0
 Metropolitana de Santiago,Pudahuel,59,2021-10-04,1.0,,1.0
 Metropolitana de Santiago,Pudahuel,78,2021-10-06,1.0,,1.0
+Metropolitana de Santiago,Pudahuel,66,2021-10-14,,1.0,1.0
+Metropolitana de Santiago,Pudahuel,42,2021-10-16,1.0,,1.0
 Metropolitana de Santiago,Puente Alto,74,2020-04-01,,1.0,1.0
 Metropolitana de Santiago,Puente Alto,34,2020-04-03,1.0,,1.0
 Metropolitana de Santiago,Puente Alto,89,2020-04-04,,1.0,1.0
@@ -39533,7 +39597,7 @@ Metropolitana de Santiago,Puente Alto,92,2020-08-07,1.0,,1.0
 Metropolitana de Santiago,Puente Alto,72,2020-08-08,1.0,,1.0
 Metropolitana de Santiago,Puente Alto,76,2020-08-08,1.0,,1.0
 Metropolitana de Santiago,Puente Alto,81,2020-08-09,1.0,,1.0
-Metropolitana de Santiago,Puente Alto,91,2020-08-09,,2.0,2.0
+Metropolitana de Santiago,Puente Alto,91,2020-08-09,,1.0,1.0
 Metropolitana de Santiago,Puente Alto,67,2020-08-11,1.0,,1.0
 Metropolitana de Santiago,Puente Alto,73,2020-08-11,1.0,,1.0
 Metropolitana de Santiago,Puente Alto,75,2020-08-11,1.0,,1.0
@@ -39701,7 +39765,7 @@ Metropolitana de Santiago,Puente Alto,63,2020-10-12,2.0,,2.0
 Metropolitana de Santiago,Puente Alto,83,2020-10-12,,1.0,1.0
 Metropolitana de Santiago,Puente Alto,52,2020-10-13,,1.0,1.0
 Metropolitana de Santiago,Puente Alto,57,2020-10-13,1.0,,1.0
-Metropolitana de Santiago,Puente Alto,64,2020-10-13,1.0,,1.0
+Metropolitana de Santiago,Puente Alto,65,2020-10-13,1.0,,1.0
 Metropolitana de Santiago,Puente Alto,67,2020-10-13,1.0,,1.0
 Metropolitana de Santiago,Puente Alto,87,2020-10-13,1.0,,1.0
 Metropolitana de Santiago,Puente Alto,67,2020-10-14,1.0,,1.0
@@ -41148,6 +41212,8 @@ Metropolitana de Santiago,Quilicura,79,2021-10-01,1.0,,1.0
 Metropolitana de Santiago,Quilicura,58,2021-10-02,1.0,,1.0
 Metropolitana de Santiago,Quilicura,28,2021-10-04,1.0,,1.0
 Metropolitana de Santiago,Quilicura,71,2021-10-07,1.0,,1.0
+Metropolitana de Santiago,Quilicura,65,2021-10-14,1.0,,1.0
+Metropolitana de Santiago,Quilicura,72,2021-10-14,1.0,,1.0
 Metropolitana de Santiago,Quinta Normal,56,2020-04-04,,1.0,1.0
 Metropolitana de Santiago,Quinta Normal,77,2020-04-21,1.0,,1.0
 Metropolitana de Santiago,Quinta Normal,62,2020-05-09,,1.0,1.0
@@ -41623,6 +41689,9 @@ Metropolitana de Santiago,Quinta Normal,83,2021-09-13,1.0,,1.0
 Metropolitana de Santiago,Quinta Normal,69,2021-09-16,,1.0,1.0
 Metropolitana de Santiago,Quinta Normal,64,2021-09-18,1.0,,1.0
 Metropolitana de Santiago,Quinta Normal,79,2021-10-01,1.0,,1.0
+Metropolitana de Santiago,Quinta Normal,88,2021-10-17,1.0,,1.0
+Metropolitana de Santiago,Quinta Normal,89,2021-10-17,1.0,,1.0
+Metropolitana de Santiago,Quinta Normal,58,2021-10-20,1.0,,1.0
 Metropolitana de Santiago,Recoleta,84,2020-04-14,,1.0,1.0
 Metropolitana de Santiago,Recoleta,66,2020-04-27,,1.0,1.0
 Metropolitana de Santiago,Recoleta,55,2020-04-30,1.0,,1.0
@@ -43916,6 +43985,9 @@ Metropolitana de Santiago,San Bernardo,82,2021-09-27,1.0,,1.0
 Metropolitana de Santiago,San Bernardo,77,2021-10-03,1.0,,1.0
 Metropolitana de Santiago,San Bernardo,77,2021-10-08,1.0,,1.0
 Metropolitana de Santiago,San Bernardo,92,2021-10-13,,1.0,1.0
+Metropolitana de Santiago,San Bernardo,52,2021-10-14,1.0,,1.0
+Metropolitana de Santiago,San Bernardo,76,2021-10-14,,1.0,1.0
+Metropolitana de Santiago,San Bernardo,80,2021-10-15,1.0,,1.0
 Metropolitana de Santiago,San Joaquín,86,2020-03-28,,1.0,1.0
 Metropolitana de Santiago,San Joaquín,67,2020-04-09,1.0,,1.0
 Metropolitana de Santiago,San Joaquín,79,2020-05-05,1.0,,1.0
@@ -44336,6 +44408,7 @@ Metropolitana de Santiago,San Joaquín,67,2021-09-16,,1.0,1.0
 Metropolitana de Santiago,San Joaquín,69,2021-09-29,1.0,,1.0
 Metropolitana de Santiago,San Joaquín,53,2021-10-11,1.0,,1.0
 Metropolitana de Santiago,San Joaquín,73,2021-10-12,,1.0,1.0
+Metropolitana de Santiago,San Joaquín,82,2021-10-16,1.0,,1.0
 Metropolitana de Santiago,San José de Maipo,64,2020-05-01,,1.0,1.0
 Metropolitana de Santiago,San José de Maipo,66,2020-05-20,1.0,,1.0
 Metropolitana de Santiago,San José de Maipo,79,2020-06-03,,1.0,1.0
@@ -44987,6 +45060,7 @@ Metropolitana de Santiago,San Miguel,83,2021-09-11,,1.0,1.0
 Metropolitana de Santiago,San Miguel,91,2021-09-16,,1.0,1.0
 Metropolitana de Santiago,San Miguel,74,2021-09-24,1.0,,1.0
 Metropolitana de Santiago,San Miguel,96,2021-09-24,1.0,,1.0
+Metropolitana de Santiago,San Miguel,83,2021-10-14,1.0,,1.0
 Metropolitana de Santiago,San Pedro,83,2020-05-30,1.0,,1.0
 Metropolitana de Santiago,San Pedro,60,2020-06-16,1.0,,1.0
 Metropolitana de Santiago,San Pedro,44,2020-06-30,1.0,,1.0
@@ -45555,6 +45629,7 @@ Metropolitana de Santiago,San Ramón,87,2021-09-30,1.0,,1.0
 Metropolitana de Santiago,San Ramón,79,2021-10-02,1.0,,1.0
 Metropolitana de Santiago,San Ramón,66,2021-10-06,1.0,,1.0
 Metropolitana de Santiago,San Ramón,56,2021-10-07,,1.0,1.0
+Metropolitana de Santiago,San Ramón,67,2021-10-19,1.0,,1.0
 Metropolitana de Santiago,Santiago,47,2020-03-30,,1.0,1.0
 Metropolitana de Santiago,Santiago,88,2020-04-03,1.0,,1.0
 Metropolitana de Santiago,Santiago,74,2020-04-04,,1.0,1.0
@@ -46888,6 +46963,7 @@ Metropolitana de Santiago,Vitacura,76,2021-08-13,1.0,,1.0
 Metropolitana de Santiago,Vitacura,79,2021-08-20,1.0,,1.0
 Metropolitana de Santiago,Vitacura,102,2021-08-27,1.0,,1.0
 Metropolitana de Santiago,Vitacura,96,2021-08-28,,1.0,1.0
+Metropolitana de Santiago,Vitacura,91,2021-10-19,1.0,,1.0
 Metropolitana de Santiago,Ñuñoa,81,2020-04-04,1.0,,1.0
 Metropolitana de Santiago,Ñuñoa,97,2020-04-08,1.0,,1.0
 Metropolitana de Santiago,Ñuñoa,47,2020-04-09,1.0,,1.0
