@@ -124,6 +124,12 @@ def check_mentions(api, keywords, since_id):
                 v3 = int(dfve3_T.sum())
                 porcentaje2 = str(min(100, round(100 * (v2 + v3) / tot)))
 
+                # Porcentaje refuerzo
+                dfveR_T = dfveR_T[5:][n + 1]
+                dfveR_T = dfveR_T.astype(float)
+                r1 = int(dfveR_T.sum())
+                porcentaje3 = str(min(100, round(100 * r1 / tot)))
+
                 # Rolling mean last week
                 dfv1_T = dfv1_T[5:][n + 1]
                 dfv2_T = dfv2_T[5:][n + 1]
@@ -141,20 +147,24 @@ def check_mentions(api, keywords, since_id):
                 comuna = normalizaNombreComuna(comuna)
                 if variacion > 0:
                     reply = "🤖Hola @" + tweet.user.screen_name + ". En " + comuna + " los casos activos de Covid19 son " + str(casos_ultimo_informe) + " con base en el último informe epidemiológico del @ministeriosalud (" + fecha + "), " + str(variacion) + " más que en el informe anterior."
-                    reply2 = "🤖Además, acorde a la información de la campaña #YoMeVacuno ✌️, un " + porcentaje1 + "% de la población objetivo tiene su primera dosis, y un " + porcentaje2 + "% tiene pauta completa. Un promedio diario de " + promedio + " personas han recibido su vacuna en " + comuna + " esta semana 🦾."
+                    reply2 = "🤖Además, acorde a la información de la campaña #YoMeVacuno ✌️, un " + porcentaje1 + "% de la población objetivo tiene su primera dosis, un " + porcentaje2 + "% tiene pauta completa, y un " + porcentaje3 + "% tiene dosis de refuerzo 🦾."
+                    reply3 = "🤖Por último, un promedio diario de " + promedio + " personas han recibido su vacuna en " + comuna + " esta semana 🦾."
                     try:
                         update = api.update_status(status=reply, in_reply_to_status_id=tweet.id)
-                        api.update_status(status=reply2, in_reply_to_status_id=update.id)
+                        update2 = api.update_status(status=reply2, in_reply_to_status_id=update.id)
+                        api.update_status(status=reply3, in_reply_to_status_id=update2.id)
                     except tweepy.TweepError as error:
                         if error.api_code == 187:
                             # Do something special
                             print('duplicate message')
                 else:
                     reply = "🤖Hola @" + tweet.user.screen_name + ". En " + comuna + " los casos activos de Covid19 son " + str(casos_ultimo_informe) + " con base en el último informe epidemiológico del @ministeriosalud (" + fecha + "), " + str((-1) * variacion) + " menos que en el informe anterior."
-                    reply2 = "🤖Además, acorde a la información de la campaña #YoMeVacuno ✌️, un " + porcentaje1 + "% de la población objetivo tiene su primera dosis, y un " + porcentaje2 + "% tiene pauta completa. Un promedio diario de " + promedio + " personas han recibido su vacuna en " + comuna + " esta semana 🦾."
+                    reply2 = "🤖Además, acorde a la información de la campaña #YoMeVacuno ✌️, un " + porcentaje1 + "% de la población objetivo tiene su primera dosis, un " + porcentaje2 + "% tiene pauta completa, y un " + porcentaje3 + "% tiene dosis de refuerzo 🦾."
+                    reply3 = "🤖Por último, un promedio diario de " + promedio + " personas han recibido su vacuna en " + comuna + " esta semana 🦾."
                     try:
                         update = api.update_status(status=reply, in_reply_to_status_id=tweet.id)
-                        api.update_status(status=reply2, in_reply_to_status_id=update.id)
+                        update2 = api.update_status(status=reply2, in_reply_to_status_id=update.id)
+                        api.update_status(status=reply3, in_reply_to_status_id=update2.id)
                     except tweepy.TweepError as error:
                         if error.api_code == 187:
                             # Do something special
@@ -231,6 +241,12 @@ def check_mentions(api, keywords, since_id):
                             v3 = int(dfve3_T.sum())
                             porcentaje2 = str(min(100,round(100 * (v2+v3) / tot)))
 
+                            # Porcentaje refuerzo
+                            dfveR_T = dfveR_T[5:][n + 1]
+                            dfveR_T = dfveR_T.astype(float)
+                            r1 = int(dfveR_T.sum())
+                            porcentaje3 = str(min(100, round(100 * r1 / tot)))
+
                             # Rolling mean last week
                             dfv1_T = dfv1_T[5:][n + 1]
                             dfv2_T = dfv2_T[5:][n + 1]
@@ -249,10 +265,12 @@ def check_mentions(api, keywords, since_id):
                                 reply = "🤖Hola @" + tweet.user.screen_name + ". En " + word + " los casos activos de Covid19 son " + str(
                                     casos_ultimo_informe) + " con base en el último informe epidemiológico del @ministeriosalud (" + fecha + "), " + str(
                                     variacion) + " más que en el informe anterior."
-                                reply2 = "🤖Además, acorde a la información de la campaña #YoMeVacuno ✌️, un " + porcentaje1 + "% de la población objetivo tiene su primera dosis, y un " + porcentaje2 + "% tiene pauta completa. Un promedio diario de " + promedio + " personas han recibido su vacuna en " + word + " esta semana 🦾."
+                                reply2 = "🤖Además, acorde a la información de la campaña #YoMeVacuno ✌️, un " + porcentaje1 + "% de la población objetivo tiene su primera dosis, un " + porcentaje2 + "% tiene pauta completa, y un " + porcentaje3 + "% tiene dosis de refuerzo 🦾."
+                                reply3 = "🤖Por último, un promedio diario de " + promedio + " personas han recibido su vacuna en " + word + " esta semana 🦾."
                                 try:
                                     update = api.update_status(status=reply, in_reply_to_status_id=tweet.id)
-                                    api.update_status(status=reply2, in_reply_to_status_id=update.id)
+                                    update2 = api.update_status(status=reply2, in_reply_to_status_id=update.id)
+                                    api.update_status(status=reply3, in_reply_to_status_id=update2.id)
                                 except tweepy.TweepError as error:
                                     if error.api_code == 187:
                                         # Do something special
@@ -261,10 +279,12 @@ def check_mentions(api, keywords, since_id):
                                 reply = "🤖Hola @" + tweet.user.screen_name + ". En " + word + " los casos activos de Covid19 son " + str(
                                     casos_ultimo_informe) + " con base en el último informe epidemiológico del @ministeriosalud (" + fecha + "), " + str(
                                     (-1) * variacion) + " menos que en el informe anterior."
-                                reply2 = "🤖Además, acorde a la información de la campaña #YoMeVacuno ✌️, un " + porcentaje1 + "% de la población objetivo tiene su primera dosis, y un " + porcentaje2 + "% tiene pauta completa. Un promedio diario de " + promedio + " personas han recibido su vacuna en " + comuna + " esta semana 🦾."
+                                reply2 = "🤖Además, acorde a la información de la campaña #YoMeVacuno ✌️, un " + porcentaje1 + "% de la población objetivo tiene su primera dosis, un " + porcentaje2 + "% tiene pauta completa, y un " + porcentaje3 + "% tiene dosis de refuerzo 🦾."
+                                reply3 = "🤖Por último, un promedio diario de " + promedio + " personas han recibido su vacuna en " + word + " esta semana 🦾."
                                 try:
                                     update = api.update_status(status=reply, in_reply_to_status_id=tweet.id)
-                                    api.update_status(status=reply2, in_reply_to_status_id=update.id)
+                                    update2 = api.update_status(status=reply2, in_reply_to_status_id=update.id)
+                                    api.update_status(status=reply3, in_reply_to_status_id=update2.id)
                                 except tweepy.TweepError as error:
                                     if error.api_code == 187:
                                         # Do something special
@@ -273,7 +293,7 @@ def check_mentions(api, keywords, since_id):
 
 def main(a,b,c,d):
     api = create_api(a,b,c,d)
-    since_id = 1429432857223737353
+    since_id = 1462506562694443012
     my_files = {
         'activos':
             'https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto19/CasosActivosPorComuna.csv',
