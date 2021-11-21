@@ -125,7 +125,7 @@ def check_mentions(api, keywords, since_id):
                 porcentaje2 = str(min(100, round(100 * (v2 + v3) / tot)))
 
                 # Porcentaje refuerzo
-                dfveR_T = dfveR_T[5:][n + 1]
+                dfveR_T = dfvR_T[5:][n + 1]
                 dfveR_T = dfveR_T.astype(float)
                 r1 = int(dfveR_T.sum())
                 porcentaje3 = str(min(100, round(100 * r1 / tot)))
