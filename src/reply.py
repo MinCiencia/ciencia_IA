@@ -185,8 +185,8 @@ def check_mentions(api, keywords, since_id):
             reply7_text = '🤖En los últimos 7 días, un promedio de ' + str(
                 promedio_semanal) + ' personas han recibido su vacuna en Chile🇨🇱 diariamente.'
             try:
-                tweet = api.update_status(status=tweet_text)
-                tweet2 = api.update_status(status=reply1_text, in_reply_to_status_id=tweet.id)
+                tweet1 = api.update_status(status=tweet_text, in_reply_to_status_id=tweet.id)
+                tweet2 = api.update_status(status=reply1_text, in_reply_to_status_id=tweet1.id)
                 tweet3 = api.update_status(status=reply2_text, in_reply_to_status_id=tweet2.id)
                 tweet4 = api.update_status(status=reply3_text, in_reply_to_status_id=tweet3.id)
                 tweet5 = api.update_status(status=reply4_text, in_reply_to_status_id=tweet4.id)
