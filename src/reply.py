@@ -39,7 +39,17 @@ def check_mentions(api, keywords, since_id):
         'vacunacion3_dosis_t':
             'https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto80/vacunacion_comuna_UnicaDosis_T.csv',
         'vacunacionR_dosis_t':
-            'https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto80/vacunacion_comuna_Refuerzo_T.csv'
+            'https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto80/vacunacion_comuna_Refuerzo_T.csv',
+        'positividad':
+            'https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto49/Positividad_Diaria_Media_T.csv',
+        'positividad_ag':
+            'https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto49/Positividad_Diaria_Media_Ag_T.csv',
+        'mediamovil':
+            'https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto75/MediaMovil_casos_nuevos_T.csv',
+        'casosnuevostotales':
+            'https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto5/TotalesNacionales_T.csv',
+        'vacunacionnacional':
+            'https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto76/vacunacion_t.csv'
     }
     for tweet in tweepy.Cursor(api.mentions_timeline,since_id=since_id,tweet_mode='extended').items():
         new_since_id = max(tweet.id, new_since_id)
@@ -55,137 +65,141 @@ def check_mentions(api, keywords, since_id):
         texto = texto.replace('ü', 'u')
         texto = texto.replace('?', '')
         texto = texto.replace('¿', '')
-        if any(keyword in texto for keyword in keywords):
+        if texto.replace('@min_ciencia_ia ','') == 'chile':
+            logger.info(f"Answering to {tweet.user.name}")
+            # retrive data
+            # first the files
+            content = requests.get(my_files['positividad']).content
+            my_positividad = pd.read_csv(io.StringIO(content.decode('utf-8')))
+
+            content = requests.get(my_files['positividad_ag']).content
+            my_positividad_ag = pd.read_csv(io.StringIO(content.decode('utf-8')))
+
+            content = requests.get(my_files['mediamovil']).content
+            my_mediamovil = pd.read_csv(io.StringIO(content.decode('utf-8')))
+
+            content = requests.get(my_files['casosnuevostotales']).content
+            my_casos_nuevos_totales = pd.read_csv(io.StringIO(content.decode('utf-8')))
+
+            content = requests.get(my_files['vacunacionnacional']).content
+            my_vacunacion = pd.read_csv(io.StringIO(content.decode('utf-8')))
+
+            # now the metrics
+            vacunados = int(pd.to_numeric(my_vacunacion.iloc[my_vacunacion.index.max()][1]))
+            vacunados_segunda = int(pd.to_numeric(my_vacunacion.iloc[my_vacunacion.index.max()][2]))
+            vacunados_pauta_completa = int(pd.to_numeric(my_vacunacion.iloc[my_vacunacion.index.max()][2])) + int(
+                pd.to_numeric(my_vacunacion.iloc[my_vacunacion.index.max()][3]))
+            vacunados_unica = int(pd.to_numeric(my_vacunacion.iloc[my_vacunacion.index.max()][3]))
+            vacunados_refuerzo = int(pd.to_numeric(my_vacunacion.iloc[my_vacunacion.index.max()][4]))
+            vacunados_total = vacunados + vacunados_unica + vacunados_refuerzo + vacunados_segunda
+            my_vacunacion_avance = 100 * vacunados / 16696002
+            my_vacunacion_avance = ("%.2f" % my_vacunacion_avance)
+            my_vacunacion_avance_pauta_completa = 100 * vacunados_pauta_completa / 16696002
+            my_vacunacion_avance_refuerzo = 100 * vacunados_refuerzo / 16696002
+            my_vacunacion_avance_refuerzo = ("%.2f" % my_vacunacion_avance_refuerzo)
+            my_vacunacion_avance_pauta_completa = ("%.2f" % my_vacunacion_avance_pauta_completa)
+            dosis_dia = vacunados + vacunados_pauta_completa + int(
+                pd.to_numeric(my_vacunacion.iloc[my_vacunacion.index.max()][4])) - (pd.to_numeric(
+                my_vacunacion.iloc[my_vacunacion.index.max() - 1][1]) + pd.to_numeric(
+                my_vacunacion.iloc[my_vacunacion.index.max() - 1][2]) + pd.to_numeric(
+                my_vacunacion.iloc[my_vacunacion.index.max() - 1][3]) + pd.to_numeric(
+                my_vacunacion.iloc[my_vacunacion.index.max() - 1][4]))
+            my_vacunacion = my_vacunacion[1:]
+            my_vacunacion['total_dosis'] = pd.to_numeric(my_vacunacion['Total']) + pd.to_numeric(
+                my_vacunacion['Total.1']) + pd.to_numeric(my_vacunacion['Total.2']) + pd.to_numeric(
+                my_vacunacion['Total.3'])
+            new = my_vacunacion.iloc[:my_vacunacion.index.max(), 35:]
+            new.reset_index(drop=True, inplace=True)
+            my_vacunacion['total_manana'] = new['total_dosis']
+            my_vacunacion.reset_index(drop=True, inplace=True)
+            my_vacunacion['avance_diario'] = my_vacunacion['total_manana'].fillna(0) - my_vacunacion['total_dosis']
+            my_vacunacion['mediamovil'] = my_vacunacion['avance_diario'].rolling(7).mean().round(4)
+            promedio_semanal = int(pd.to_numeric(my_vacunacion.iloc[my_vacunacion.index.max() - 1][72]))
+            casos_nuevos_totales = int(
+                pd.to_numeric(my_casos_nuevos_totales.iloc[my_casos_nuevos_totales.index.max()][7]))
+            casos_nuevos_antigeno = int(
+                pd.to_numeric(my_casos_nuevos_totales.iloc[my_casos_nuevos_totales.index.max()][19]))
+            mediamovil_nacional = int(pd.to_numeric(my_mediamovil.iloc[my_mediamovil.index.max()][17]))
+            variacion_nacional = float(
+                100 * (pd.to_numeric(my_mediamovil.iloc[my_mediamovil.index.max()][17]) - pd.to_numeric(
+                    my_mediamovil.iloc[my_mediamovil.index.max() - 7][17])) / pd.to_numeric(
+                    my_mediamovil.iloc[my_mediamovil.index.max()][17]))
+            positividad_nacional = float(100 * pd.to_numeric(my_positividad.iloc[my_positividad.index.max()][5]))
+            variacion_positividad = float(
+                100 * (pd.to_numeric(my_positividad.iloc[my_positividad.index.max()][5]) - pd.to_numeric(
+                    my_positividad.iloc[my_positividad.index.max() - 7][5])) / pd.to_numeric(
+                    my_positividad.iloc[my_positividad.index.max()][5]))
+            positividad_nacional = ("%.2f" % positividad_nacional)
+            positividad = float(100 * pd.to_numeric(my_positividad.iloc[my_positividad.index.max()][4]))
+            positividad_hoy = ("%.2f" % positividad)
+            casos_nuevos = str(int(my_positividad.iloc[my_positividad.index.max()][2]))
+            muestras = str(int(my_positividad.iloc[my_positividad.index.max()][1]))
+            tests_antigeno = str(int(my_positividad_ag.iloc[my_positividad_ag.index.max()][1]))
+            positividad_ag = float(100 * pd.to_numeric(my_positividad_ag.iloc[my_positividad_ag.index.max()][4]))
+            positividad_ag_hoy = ("%.2f" % positividad_ag)
+
+            # tweet
+            tweet_text = '🤖Hola @' + tweet.user.screen_name + '. En 🇨🇱, hay ' + str(
+                mediamovil_nacional) + ' casos nuevos promedio en los últimos 7 días, con positividad de ' + str(
+                positividad_nacional) + '%.'
+            reply2_text = '🤖El total de casos confirmados hoy es ' + str(
+                casos_nuevos_totales) + ', de los cuales ' + str(
+                casos_nuevos_antigeno) + ' fueron confirmados con test de antígeno y ' + casos_nuevos + ' con PCR+. De las ' + muestras + ' muestras que se analizaron en las últimas 24 horas en laboratorios nacionales, un ' + positividad_hoy + '% resultó positivo.'
+            reply3_text = '🤖Además, de los ' + str(
+                tests_antigeno) + ' tests de antígeno realizados en el territorio nacional durante las últimas 24h, un ' + positividad_ag_hoy + '% resultó positivo.'
+            if variacion_nacional >= 0 and variacion_positividad >= 0:
+                variacion_nacional = ("%.2f" % variacion_nacional)
+                variacion_positividad = ("%.2f" % variacion_positividad)
+                reply1_text = '🤖 En comparación con la semana anterior, la media móvil de los últimos 7 días para casos nuevos creció en ' + str(
+                    variacion_nacional) + '% y la positividad en ' + str(
+                    variacion_positividad) + '% a nivel nacional.'
+
+            elif variacion_nacional >= 0 and variacion_positividad < 0:
+                variacion_nacional = ("%.2f" % variacion_nacional)
+                variacion_positividad = ("%.2f" % variacion_positividad)
+                reply1_text = '🤖 En comparación con la semana anterior, la media móvil de los últimos 7 días para casos nuevos creció en ' + str(
+                    variacion_nacional) + '% y la positividad bajó en ' + str(
+                    variacion_positividad) + '% a nivel nacional.'
+
+            elif variacion_nacional < 0 and variacion_positividad < 0:
+                variacion_nacional = ("%.2f" % variacion_nacional)
+                variacion_positividad = ("%.2f" % variacion_positividad)
+                reply1_text = '🤖 En comparación con la semana anterior, la media móvil de los últimos 7 días para casos nuevos bajó en ' + str(
+                    variacion_nacional) + '% y la positividad en ' + str(
+                    variacion_positividad) + '% a nivel nacional.'
+
+            elif variacion_nacional < 0 and variacion_positividad >= 0:
+                variacion_nacional = ("%.2f" % variacion_nacional)
+                variacion_positividad = ("%.2f" % variacion_positividad)
+                reply1_text = '🤖 En comparación con la semana anterior, la media móvil de los últimos 7 días para casos nuevos bajó en ' + str(
+                    variacion_nacional) + '% y la positividad aumentó en ' + str(
+                    variacion_positividad) + '% a nivel nacional.'
+
+            reply4_text = '🤖Respecto del avance en la campaña de vacunación #YoMeVacuno 💫. Se ha puesto un total de ' + str(
+                vacunados_total) + ' dosis contra COVID-19 en 🇨🇱'
+            reply5_text = '🤖En 🇨🇱, un total de ' + str(
+                vacunados_pauta_completa) + ' personas tienen pauta completa, correspondiente a un ' + my_vacunacion_avance_pauta_completa + '% de los mayores de 12, mientras un ' + my_vacunacion_avance_refuerzo + '% ya tiene dosis de refuerzo.'
+            reply6_text = '🤖A las 9pm del ' + my_vacunacion.iloc[my_vacunacion.index.max()][
+                0] + ', un total de ' + str(
+                int(dosis_dia)) + ' recibieron la vacuna contra COVID-19.'
+            reply7_text = '🤖En los últimos 7 días, un promedio de ' + str(
+                promedio_semanal) + ' personas han recibido su vacuna en Chile🇨🇱 diariamente.'
+            try:
+                tweet = api.update_status(status=tweet_text)
+                tweet2 = api.update_status(status=reply1_text, in_reply_to_status_id=tweet.id)
+                tweet3 = api.update_status(status=reply2_text, in_reply_to_status_id=tweet2.id)
+                tweet4 = api.update_status(status=reply3_text, in_reply_to_status_id=tweet3.id)
+                tweet5 = api.update_status(status=reply4_text, in_reply_to_status_id=tweet4.id)
+                tweet6 = api.update_status(status=reply5_text, in_reply_to_status_id=tweet5.id)
+                tweet7 = api.update_status(status=reply6_text, in_reply_to_status_id=tweet6.id)
+                tweet8 = api.update_status(status=reply7_text, in_reply_to_status_id=tweet7.id)
+            except tweepy.TweepError as error:
+                if error.api_code == 187:
+                    # Do something special
+                    print('duplicate message')
+        elif any(keyword in texto for keyword in keywords):
             comuna = texto.replace('@min_ciencia_ia ', '')
-            if comuna == 'chile':
-                logger.info(f"Answering to {tweet.user.name}")
-                # retrive data
-                # first the files
-                content = requests.get(my_files['positividad']).content
-                my_positividad = pd.read_csv(io.StringIO(content.decode('utf-8')))
-
-                content = requests.get(my_files['positividad_ag']).content
-                my_positividad_ag = pd.read_csv(io.StringIO(content.decode('utf-8')))
-
-                content = requests.get(my_files['mediamovil']).content
-                my_mediamovil = pd.read_csv(io.StringIO(content.decode('utf-8')))
-
-                content = requests.get(my_files['casosnuevostotales']).content
-                my_casos_nuevos_totales = pd.read_csv(io.StringIO(content.decode('utf-8')))
-
-                content = requests.get(my_files['vacunacionnacional']).content
-                my_vacunacion = pd.read_csv(io.StringIO(content.decode('utf-8')))
-
-                # now the metrics
-                vacunados = int(pd.to_numeric(my_vacunacion.iloc[my_vacunacion.index.max()][1]))
-                vacunados_segunda = int(pd.to_numeric(my_vacunacion.iloc[my_vacunacion.index.max()][2]))
-                vacunados_pauta_completa = int(pd.to_numeric(my_vacunacion.iloc[my_vacunacion.index.max()][2])) + int(
-                    pd.to_numeric(my_vacunacion.iloc[my_vacunacion.index.max()][3]))
-                vacunados_unica = int(pd.to_numeric(my_vacunacion.iloc[my_vacunacion.index.max()][3]))
-                vacunados_refuerzo = int(pd.to_numeric(my_vacunacion.iloc[my_vacunacion.index.max()][4]))
-                vacunados_total = vacunados + vacunados_unica + vacunados_refuerzo + vacunados_segunda
-                my_vacunacion_avance = 100 * vacunados / 16696002
-                my_vacunacion_avance = ("%.2f" % my_vacunacion_avance)
-                my_vacunacion_avance_pauta_completa = 100 * vacunados_pauta_completa / 16696002
-                my_vacunacion_avance_refuerzo = 100 * vacunados_refuerzo / 16696002
-                my_vacunacion_avance_refuerzo = ("%.2f" % my_vacunacion_avance_refuerzo)
-                my_vacunacion_avance_pauta_completa = ("%.2f" % my_vacunacion_avance_pauta_completa)
-                dosis_dia = vacunados + vacunados_pauta_completa + int(
-                    pd.to_numeric(my_vacunacion.iloc[my_vacunacion.index.max()][4])) - (pd.to_numeric(
-                    my_vacunacion.iloc[my_vacunacion.index.max() - 1][1]) + pd.to_numeric(
-                    my_vacunacion.iloc[my_vacunacion.index.max() - 1][2]) + pd.to_numeric(
-                    my_vacunacion.iloc[my_vacunacion.index.max() - 1][3]) + pd.to_numeric(
-                    my_vacunacion.iloc[my_vacunacion.index.max() - 1][4]))
-                my_vacunacion = my_vacunacion[1:]
-                my_vacunacion['total_dosis'] = pd.to_numeric(my_vacunacion['Total']) + pd.to_numeric(
-                    my_vacunacion['Total.1']) + pd.to_numeric(my_vacunacion['Total.2']) + pd.to_numeric(
-                    my_vacunacion['Total.3'])
-                new = my_vacunacion.iloc[:my_vacunacion.index.max(), 35:]
-                new.reset_index(drop=True, inplace=True)
-                my_vacunacion['total_manana'] = new['total_dosis']
-                my_vacunacion.reset_index(drop=True, inplace=True)
-                my_vacunacion['avance_diario'] = my_vacunacion['total_manana'].fillna(0) - my_vacunacion['total_dosis']
-                my_vacunacion['mediamovil'] = my_vacunacion['avance_diario'].rolling(7).mean().round(4)
-                promedio_semanal = int(pd.to_numeric(my_vacunacion.iloc[my_vacunacion.index.max() - 1][72]))
-                casos_nuevos_totales = int(
-                    pd.to_numeric(my_casos_nuevos_totales.iloc[my_casos_nuevos_totales.index.max()][7]))
-                casos_nuevos_antigeno = int(
-                    pd.to_numeric(my_casos_nuevos_totales.iloc[my_casos_nuevos_totales.index.max()][19]))
-                mediamovil_nacional = int(pd.to_numeric(my_mediamovil.iloc[my_mediamovil.index.max()][17]))
-                variacion_nacional = float(
-                    100 * (pd.to_numeric(my_mediamovil.iloc[my_mediamovil.index.max()][17]) - pd.to_numeric(
-                        my_mediamovil.iloc[my_mediamovil.index.max() - 7][17])) / pd.to_numeric(
-                        my_mediamovil.iloc[my_mediamovil.index.max()][17]))
-                positividad_nacional = float(100 * pd.to_numeric(my_positividad.iloc[my_positividad.index.max()][5]))
-                variacion_positividad = float(
-                    100 * (pd.to_numeric(my_positividad.iloc[my_positividad.index.max()][5]) - pd.to_numeric(
-                        my_positividad.iloc[my_positividad.index.max() - 7][5])) / pd.to_numeric(
-                        my_positividad.iloc[my_positividad.index.max()][5]))
-                positividad_nacional = ("%.2f" % positividad_nacional)
-                positividad = float(100 * pd.to_numeric(my_positividad.iloc[my_positividad.index.max()][4]))
-                positividad_hoy = ("%.2f" % positividad)
-                casos_nuevos = str(int(my_positividad.iloc[my_positividad.index.max()][2]))
-                muestras = str(int(my_positividad.iloc[my_positividad.index.max()][1]))
-                tests_antigeno = str(int(my_positividad_ag.iloc[my_positividad_ag.index.max()][1]))
-                positividad_ag = float(100 * pd.to_numeric(my_positividad_ag.iloc[my_positividad_ag.index.max()][4]))
-                positividad_ag_hoy = ("%.2f" % positividad_ag)
-
-                # tweet
-                tweet_text = '🤖En 🇨🇱, hay ' + str(
-                    mediamovil_nacional) + ' casos nuevos promedio en los últimos 7 días, con positividad de ' + str(
-                    positividad_nacional) + '%. Más detalles en los productos en la imagen.  https://github.com/MinCiencia/Datos-COVID19'
-                reply2_text = '🤖El total de casos confirmados hoy es ' + str(
-                    casos_nuevos_totales) + ', de los cuales ' + str(
-                    casos_nuevos_antigeno) + ' fueron confirmados con test de antígeno y ' + casos_nuevos + ' con PCR+. De las ' + muestras + ' muestras que se analizaron en las últimas 24 horas en laboratorios nacionales, un ' + positividad_hoy + '% resultó positivo.'
-                reply3_text = '🤖Además, de los ' + str(
-                    tests_antigeno) + ' tests de antígeno realizados en el territorio nacional durante las últimas 24h, un ' + positividad_ag_hoy + '% resultó positivo.'
-                if variacion_nacional >= 0 and variacion_positividad >= 0:
-                    variacion_nacional = ("%.2f" % variacion_nacional)
-                    variacion_positividad = ("%.2f" % variacion_positividad)
-                    reply1_text = '🤖 En comparación con la semana anterior, la media móvil de los últimos 7 días para casos nuevos creció en ' + str(
-                        variacion_nacional) + '% y la positividad en ' + str(
-                        variacion_positividad) + '% a nivel nacional. Detalles a nivel regional en: https://github.com/MinCiencia/Datos-COVID19/tree/master/output/producto75 y https://github.com/MinCiencia/Datos-COVID19/tree/master/output/producto49'
-
-                elif variacion_nacional >= 0 and variacion_positividad < 0:
-                    variacion_nacional = ("%.2f" % variacion_nacional)
-                    variacion_positividad = ("%.2f" % variacion_positividad)
-                    reply1_text = '🤖 En comparación con la semana anterior, la media móvil de los últimos 7 días para casos nuevos creció en ' + str(
-                        variacion_nacional) + '% y la positividad bajó en ' + str(
-                        variacion_positividad) + '% a nivel nacional. Detalles a nivel regional en: https://github.com/MinCiencia/Datos-COVID19/tree/master/output/producto75 y https://github.com/MinCiencia/Datos-COVID19/tree/master/output/producto49'
-
-                elif variacion_nacional < 0 and variacion_positividad < 0:
-                    variacion_nacional = ("%.2f" % variacion_nacional)
-                    variacion_positividad = ("%.2f" % variacion_positividad)
-                    reply1_text = '🤖 En comparación con la semana anterior, la media móvil de los últimos 7 días para casos nuevos bajó en ' + str(
-                        variacion_nacional) + '% y la positividad en ' + str(
-                        variacion_positividad) + '% a nivel nacional. Detalles a nivel regional en: https://github.com/MinCiencia/Datos-COVID19/tree/master/output/producto75 y https://github.com/MinCiencia/Datos-COVID19/tree/master/output/producto49'
-
-                elif variacion_nacional < 0 and variacion_positividad >= 0:
-                    variacion_nacional = ("%.2f" % variacion_nacional)
-                    variacion_positividad = ("%.2f" % variacion_positividad)
-                    reply1_text = '🤖 En comparación con la semana anterior, la media móvil de los últimos 7 días para casos nuevos bajó en ' + str(
-                        variacion_nacional) + '% y la positividad aumentó en ' + str(
-                        variacion_positividad) + '% a nivel nacional. Detalles a nivel regional en: https://github.com/MinCiencia/Datos-COVID19/tree/master/output/producto75 y https://github.com/MinCiencia/Datos-COVID19/tree/master/output/producto49'
-
-                reply4_text = '🤖Respecto del avance en la campaña de vacunación #YoMeVacuno de hoy 💫. Se ha puesto un total de ' + str(
-                    vacunados_total) + ' dosis contra COVID-19 en 🇨🇱'
-                reply5_text = '🤖En 🇨🇱, un total de ' + str(
-                    vacunados_pauta_completa) + ' personas tienen pauta completa, correspondiente a un ' + my_vacunacion_avance_pauta_completa + '% de los mayores de 12, mientras un ' + my_vacunacion_avance_refuerzo + '% ya tiene dosis de refuerzo. Detalles en https://github.com/MinCiencia/Datos-COVID19'
-                reply6_text = '🤖A las 9pm del ' + my_vacunacion.iloc[my_vacunacion.index.max()][
-                    0] + ', un total de ' + str(
-                    int(dosis_dia)) + ' recibieron la vacuna contra COVID-19. Detalles por comuna, edad, fabricante y prioridad en https://github.com/MinCiencia/Datos-COVID19'
-                reply7_text = '🤖En los últimos 7 días, un promedio de ' + str(
-                    promedio_semanal) + ' personas han recibido su vacuna en Chile🇨🇱 diariamente.'
-
-                tweet = my_api.update_status(status=tweet_text)
-                tweet2 = my_api.update_status(status=reply1_text, in_reply_to_status_id=tweet.id)
-                tweet3 = my_api.update_status(status=reply2_text, in_reply_to_status_id=tweet2.id)
-                tweet4 = my_api.update_status(status=reply3_text, in_reply_to_status_id=tweet3.id)
-                tweet5 = my_api.update_status(status=reply4_text, in_reply_to_status_id=tweet4.id)
-                tweet6 = my_api.update_status(status=reply5_text, in_reply_to_status_id=tweet5.id)
-                tweet7 = my_api.update_status(status=reply6_text, in_reply_to_status_id=tweet6.id)
-                tweet8 = my_api.update_status(status=reply7_text, in_reply_to_status_id=tweet7.id)
-            elif comuna in keywords:
+            if comuna in keywords:
                 logger.info(f"Answering to {tweet.user.name}")
                 #casos activos
                 content = requests.get(my_files['activos']).content
