@@ -92,10 +92,10 @@ def check_mentions(api, keywords, since_id):
             vacunados_unica = int(pd.to_numeric(my_vacunacion.iloc[my_vacunacion.index.max()][3]))
             vacunados_refuerzo = int(pd.to_numeric(my_vacunacion.iloc[my_vacunacion.index.max()][4]))
             vacunados_total = vacunados + vacunados_unica + vacunados_refuerzo + vacunados_segunda
-            my_vacunacion_avance = 100 * vacunados / 16696002
+            my_vacunacion_avance = 100 * vacunados / 18972800
             my_vacunacion_avance = ("%.2f" % my_vacunacion_avance)
-            my_vacunacion_avance_pauta_completa = 100 * vacunados_pauta_completa / 16696002
-            my_vacunacion_avance_refuerzo = 100 * vacunados_refuerzo / 16696002
+            my_vacunacion_avance_pauta_completa = 100 * vacunados_pauta_completa / 18972800
+            my_vacunacion_avance_refuerzo = 100 * vacunados_refuerzo / 18972800
             my_vacunacion_avance_refuerzo = ("%.2f" % my_vacunacion_avance_refuerzo)
             my_vacunacion_avance_pauta_completa = ("%.2f" % my_vacunacion_avance_pauta_completa)
             dosis_dia = vacunados + vacunados_pauta_completa + int(
@@ -178,7 +178,7 @@ def check_mentions(api, keywords, since_id):
             reply4_text = '🤖Respecto del avance en la campaña de vacunación #YoMeVacuno 💫. Se ha puesto un total de ' + str(
                 vacunados_total) + ' dosis contra COVID-19 en 🇨🇱'
             reply5_text = '🤖En 🇨🇱, un total de ' + str(
-                vacunados_pauta_completa) + ' personas tienen pauta completa, correspondiente a un ' + my_vacunacion_avance_pauta_completa + '% de los mayores de 12, mientras un ' + my_vacunacion_avance_refuerzo + '% ya tiene dosis de refuerzo.'
+                vacunados_pauta_completa) + ' personas tienen pauta completa, correspondiente a un ' + my_vacunacion_avance_pauta_completa + '% de los mayores de 3, mientras un ' + my_vacunacion_avance_refuerzo + '% ya tiene dosis de refuerzo.'
             reply6_text = '🤖A las 9pm del ' + my_vacunacion.iloc[my_vacunacion.index.max()][
                 0] + ', un total de ' + str(
                 int(dosis_dia)) + ' recibieron la vacuna contra COVID-19.'
