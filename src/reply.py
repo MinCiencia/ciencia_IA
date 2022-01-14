@@ -360,6 +360,9 @@ def check_mentions(api, keywords, since_id):
                             content = requests.get(my_files['vacunacion3_dosis_t']).content
                             dfv3_T = pd.read_csv(io.StringIO(content.decode('utf-8')), header=None)
 
+                            content = requests.get(my_files['vacunacionR_dosis_t']).content
+                            dfvR_T = pd.read_csv(io.StringIO(content.decode('utf-8')), header=None)
+
                             dfve1["Comuna"] = dfve1["Comuna"].str.lower()
                             n = dfve1.index[dfve1['Comuna'] == word]
 
@@ -435,7 +438,7 @@ def check_mentions(api, keywords, since_id):
 
 def main(a,b,c,d):
     api = create_api(a,b,c,d)
-    since_id = 1478498064159559680
+    since_id = 1481764291938189317
     my_files = {
         'activos':
             'https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto19/CasosActivosPorComuna.csv',
