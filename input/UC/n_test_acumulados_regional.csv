@@ -667,86 +667,94 @@ fecha,ntestcum,codigo_region,region_residencia
 2022-01-09,653726,1,Región de Tarapacá
 2022-01-10,657256,1,Región de Tarapacá
 2022-01-11,660480,1,Región de Tarapacá
-2022-01-12,663632,1,Región de Tarapacá
-2022-01-13,666435,1,Región de Tarapacá
-2022-01-14,670198,1,Región de Tarapacá
-2022-01-15,672389,1,Región de Tarapacá
-2022-01-16,673856,1,Región de Tarapacá
-2022-01-17,677439,1,Región de Tarapacá
-2022-01-18,680717,1,Región de Tarapacá
-2022-01-19,683388,1,Región de Tarapacá
-2022-01-20,685405,1,Región de Tarapacá
-2022-01-21,688165,1,Región de Tarapacá
-2022-01-22,690010,1,Región de Tarapacá
-2022-01-23,691157,1,Región de Tarapacá
-2022-01-24,694392,1,Región de Tarapacá
-2022-01-25,696911,1,Región de Tarapacá
-2022-01-26,699135,1,Región de Tarapacá
-2022-01-27,700872,1,Región de Tarapacá
-2022-01-28,703041,1,Región de Tarapacá
-2022-01-29,704542,1,Región de Tarapacá
-2022-01-30,705473,1,Región de Tarapacá
-2022-01-31,707716,1,Región de Tarapacá
-2022-02-01,709819,1,Región de Tarapacá
-2022-02-02,711470,1,Región de Tarapacá
-2022-02-03,712721,1,Región de Tarapacá
-2022-02-04,714186,1,Región de Tarapacá
-2022-02-05,715378,1,Región de Tarapacá
-2022-02-06,716139,1,Región de Tarapacá
-2022-02-07,718148,1,Región de Tarapacá
-2022-02-08,719637,1,Región de Tarapacá
-2022-02-09,720873,1,Región de Tarapacá
-2022-02-10,722175,1,Región de Tarapacá
-2022-02-11,723234,1,Región de Tarapacá
-2022-02-12,724032,1,Región de Tarapacá
-2022-02-13,724641,1,Región de Tarapacá
-2022-02-14,726246,1,Región de Tarapacá
-2022-02-15,727879,1,Región de Tarapacá
-2022-02-16,729011,1,Región de Tarapacá
-2022-02-17,729888,1,Región de Tarapacá
-2022-02-18,730948,1,Región de Tarapacá
-2022-02-19,732156,1,Región de Tarapacá
-2022-02-20,732853,1,Región de Tarapacá
-2022-02-21,734605,1,Región de Tarapacá
-2022-02-22,735912,1,Región de Tarapacá
-2022-02-23,737014,1,Región de Tarapacá
-2022-02-24,737797,1,Región de Tarapacá
-2022-02-25,739047,1,Región de Tarapacá
-2022-02-26,739711,1,Región de Tarapacá
-2022-02-27,740218,1,Región de Tarapacá
-2022-02-28,741840,1,Región de Tarapacá
-2022-03-01,743119,1,Región de Tarapacá
-2022-03-02,744336,1,Región de Tarapacá
-2022-03-03,745140,1,Región de Tarapacá
-2022-03-04,746162,1,Región de Tarapacá
-2022-03-05,747224,1,Región de Tarapacá
-2022-03-06,747748,1,Región de Tarapacá
-2022-03-07,749530,1,Región de Tarapacá
-2022-03-08,750748,1,Región de Tarapacá
-2022-03-09,751647,1,Región de Tarapacá
-2022-03-10,752380,1,Región de Tarapacá
-2022-03-11,753567,1,Región de Tarapacá
-2022-03-12,754792,1,Región de Tarapacá
-2022-03-13,755341,1,Región de Tarapacá
-2022-03-14,757028,1,Región de Tarapacá
-2022-03-15,758429,1,Región de Tarapacá
-2022-03-16,759667,1,Región de Tarapacá
-2022-03-17,760482,1,Región de Tarapacá
-2022-03-18,761799,1,Región de Tarapacá
-2022-03-19,762956,1,Región de Tarapacá
-2022-03-20,763511,1,Región de Tarapacá
-2022-03-21,765372,1,Región de Tarapacá
-2022-03-22,767057,1,Región de Tarapacá
-2022-03-23,768108,1,Región de Tarapacá
-2022-03-24,768906,1,Región de Tarapacá
-2022-03-25,769917,1,Región de Tarapacá
-2022-03-26,770927,1,Región de Tarapacá
-2022-03-27,771463,1,Región de Tarapacá
-2022-03-28,773068,1,Región de Tarapacá
-2022-03-29,774315,1,Región de Tarapacá
-2022-03-30,775351,1,Región de Tarapacá
-2022-03-31,776375,1,Región de Tarapacá
-2022-04-01,777530,1,Región de Tarapacá
+2022-01-12,663631,1,Región de Tarapacá
+2022-01-13,666434,1,Región de Tarapacá
+2022-01-14,670197,1,Región de Tarapacá
+2022-01-15,672388,1,Región de Tarapacá
+2022-01-16,673855,1,Región de Tarapacá
+2022-01-17,677440,1,Región de Tarapacá
+2022-01-18,680719,1,Región de Tarapacá
+2022-01-19,683390,1,Región de Tarapacá
+2022-01-20,685409,1,Región de Tarapacá
+2022-01-21,688170,1,Región de Tarapacá
+2022-01-22,690015,1,Región de Tarapacá
+2022-01-23,691163,1,Región de Tarapacá
+2022-01-24,694401,1,Región de Tarapacá
+2022-01-25,696923,1,Región de Tarapacá
+2022-01-26,699151,1,Región de Tarapacá
+2022-01-27,700888,1,Región de Tarapacá
+2022-01-28,703059,1,Región de Tarapacá
+2022-01-29,704563,1,Región de Tarapacá
+2022-01-30,705494,1,Región de Tarapacá
+2022-01-31,707738,1,Región de Tarapacá
+2022-02-01,709841,1,Región de Tarapacá
+2022-02-02,711492,1,Región de Tarapacá
+2022-02-03,712744,1,Región de Tarapacá
+2022-02-04,714212,1,Región de Tarapacá
+2022-02-05,715405,1,Región de Tarapacá
+2022-02-06,716166,1,Región de Tarapacá
+2022-02-07,718177,1,Región de Tarapacá
+2022-02-08,719667,1,Región de Tarapacá
+2022-02-09,720904,1,Región de Tarapacá
+2022-02-10,722207,1,Región de Tarapacá
+2022-02-11,723266,1,Región de Tarapacá
+2022-02-12,724063,1,Región de Tarapacá
+2022-02-13,724672,1,Región de Tarapacá
+2022-02-14,726279,1,Región de Tarapacá
+2022-02-15,727917,1,Región de Tarapacá
+2022-02-16,729051,1,Región de Tarapacá
+2022-02-17,729930,1,Región de Tarapacá
+2022-02-18,730990,1,Región de Tarapacá
+2022-02-19,732200,1,Región de Tarapacá
+2022-02-20,732899,1,Región de Tarapacá
+2022-02-21,734653,1,Región de Tarapacá
+2022-02-22,735962,1,Región de Tarapacá
+2022-02-23,737067,1,Región de Tarapacá
+2022-02-24,737851,1,Región de Tarapacá
+2022-02-25,739106,1,Región de Tarapacá
+2022-02-26,739771,1,Región de Tarapacá
+2022-02-27,740277,1,Región de Tarapacá
+2022-02-28,741901,1,Región de Tarapacá
+2022-03-01,743182,1,Región de Tarapacá
+2022-03-02,744404,1,Región de Tarapacá
+2022-03-03,745209,1,Región de Tarapacá
+2022-03-04,746239,1,Región de Tarapacá
+2022-03-05,747300,1,Región de Tarapacá
+2022-03-06,747825,1,Región de Tarapacá
+2022-03-07,749609,1,Región de Tarapacá
+2022-03-08,750830,1,Región de Tarapacá
+2022-03-09,751729,1,Región de Tarapacá
+2022-03-10,752463,1,Región de Tarapacá
+2022-03-11,753650,1,Región de Tarapacá
+2022-03-12,754873,1,Región de Tarapacá
+2022-03-13,755422,1,Región de Tarapacá
+2022-03-14,757113,1,Región de Tarapacá
+2022-03-15,758515,1,Región de Tarapacá
+2022-03-16,759753,1,Región de Tarapacá
+2022-03-17,760568,1,Región de Tarapacá
+2022-03-18,761887,1,Región de Tarapacá
+2022-03-19,763044,1,Región de Tarapacá
+2022-03-20,763599,1,Región de Tarapacá
+2022-03-21,765460,1,Región de Tarapacá
+2022-03-22,767146,1,Región de Tarapacá
+2022-03-23,768197,1,Región de Tarapacá
+2022-03-24,768991,1,Región de Tarapacá
+2022-03-25,770039,1,Región de Tarapacá
+2022-03-26,771068,1,Región de Tarapacá
+2022-03-27,771603,1,Región de Tarapacá
+2022-03-28,773211,1,Región de Tarapacá
+2022-03-29,774459,1,Región de Tarapacá
+2022-03-30,775499,1,Región de Tarapacá
+2022-03-31,776538,1,Región de Tarapacá
+2022-04-01,777833,1,Región de Tarapacá
+2022-04-02,778956,1,Región de Tarapacá
+2022-04-03,779432,1,Región de Tarapacá
+2022-04-04,781159,1,Región de Tarapacá
+2022-04-05,782406,1,Región de Tarapacá
+2022-04-06,783337,1,Región de Tarapacá
+2022-04-07,783935,1,Región de Tarapacá
+2022-04-08,785042,1,Región de Tarapacá
+2022-04-09,786067,1,Región de Tarapacá
 2020-03-15,10,2,Región de Antofagasta
 2020-03-16,29,2,Región de Antofagasta
 2020-03-17,62,2,Región de Antofagasta
@@ -1420,81 +1428,89 @@ fecha,ntestcum,codigo_region,region_residencia
 2022-01-14,1377040,2,Región de Antofagasta
 2022-01-15,1382545,2,Región de Antofagasta
 2022-01-16,1384713,2,Región de Antofagasta
-2022-01-17,1391762,2,Región de Antofagasta
-2022-01-18,1396854,2,Región de Antofagasta
-2022-01-19,1400777,2,Región de Antofagasta
-2022-01-20,1405246,2,Región de Antofagasta
-2022-01-21,1410935,2,Región de Antofagasta
-2022-01-22,1416422,2,Región de Antofagasta
-2022-01-23,1418708,2,Región de Antofagasta
-2022-01-24,1425052,2,Región de Antofagasta
-2022-01-25,1430557,2,Región de Antofagasta
-2022-01-26,1435973,2,Región de Antofagasta
-2022-01-27,1440473,2,Región de Antofagasta
-2022-01-28,1446310,2,Región de Antofagasta
-2022-01-29,1451838,2,Región de Antofagasta
-2022-01-30,1453879,2,Región de Antofagasta
-2022-01-31,1460455,2,Región de Antofagasta
-2022-02-01,1465051,2,Región de Antofagasta
-2022-02-02,1469359,2,Región de Antofagasta
-2022-02-03,1473169,2,Región de Antofagasta
-2022-02-04,1477911,2,Región de Antofagasta
-2022-02-05,1482826,2,Región de Antofagasta
-2022-02-06,1484448,2,Región de Antofagasta
-2022-02-07,1489835,2,Región de Antofagasta
-2022-02-08,1493593,2,Región de Antofagasta
-2022-02-09,1496659,2,Región de Antofagasta
-2022-02-10,1499732,2,Región de Antofagasta
-2022-02-11,1503255,2,Región de Antofagasta
-2022-02-12,1506812,2,Región de Antofagasta
-2022-02-13,1507803,2,Región de Antofagasta
-2022-02-14,1511874,2,Región de Antofagasta
-2022-02-15,1514590,2,Región de Antofagasta
-2022-02-16,1517229,2,Región de Antofagasta
-2022-02-17,1519729,2,Región de Antofagasta
-2022-02-18,1523031,2,Región de Antofagasta
-2022-02-19,1526754,2,Región de Antofagasta
-2022-02-20,1527595,2,Región de Antofagasta
-2022-02-21,1531712,2,Región de Antofagasta
-2022-02-22,1534273,2,Región de Antofagasta
-2022-02-23,1536713,2,Región de Antofagasta
-2022-02-24,1538758,2,Región de Antofagasta
-2022-02-25,1541663,2,Región de Antofagasta
-2022-02-26,1544885,2,Región de Antofagasta
-2022-02-27,1545718,2,Región de Antofagasta
-2022-02-28,1549452,2,Región de Antofagasta
-2022-03-01,1551486,2,Región de Antofagasta
-2022-03-02,1553330,2,Región de Antofagasta
-2022-03-03,1555170,2,Región de Antofagasta
-2022-03-04,1557717,2,Región de Antofagasta
-2022-03-05,1561136,2,Región de Antofagasta
-2022-03-06,1561883,2,Región de Antofagasta
-2022-03-07,1565444,2,Región de Antofagasta
-2022-03-08,1567297,2,Región de Antofagasta
-2022-03-09,1569268,2,Región de Antofagasta
-2022-03-10,1571086,2,Región de Antofagasta
-2022-03-11,1573735,2,Región de Antofagasta
-2022-03-12,1577027,2,Región de Antofagasta
-2022-03-13,1577787,2,Región de Antofagasta
-2022-03-14,1581498,2,Región de Antofagasta
-2022-03-15,1583666,2,Región de Antofagasta
-2022-03-16,1585527,2,Región de Antofagasta
-2022-03-17,1587250,2,Región de Antofagasta
-2022-03-18,1589672,2,Región de Antofagasta
-2022-03-19,1592860,2,Región de Antofagasta
-2022-03-20,1593636,2,Región de Antofagasta
-2022-03-21,1596966,2,Región de Antofagasta
-2022-03-22,1598849,2,Región de Antofagasta
-2022-03-23,1600534,2,Región de Antofagasta
-2022-03-24,1602222,2,Región de Antofagasta
-2022-03-25,1604626,2,Región de Antofagasta
-2022-03-26,1607616,2,Región de Antofagasta
-2022-03-27,1608321,2,Región de Antofagasta
-2022-03-28,1611567,2,Región de Antofagasta
-2022-03-29,1613188,2,Región de Antofagasta
-2022-03-30,1614781,2,Región de Antofagasta
-2022-03-31,1616375,2,Región de Antofagasta
-2022-04-01,1618629,2,Región de Antofagasta
+2022-01-17,1391763,2,Región de Antofagasta
+2022-01-18,1396856,2,Región de Antofagasta
+2022-01-19,1400780,2,Región de Antofagasta
+2022-01-20,1405281,2,Región de Antofagasta
+2022-01-21,1410990,2,Región de Antofagasta
+2022-01-22,1416488,2,Región de Antofagasta
+2022-01-23,1418790,2,Región de Antofagasta
+2022-01-24,1425151,2,Región de Antofagasta
+2022-01-25,1430669,2,Región de Antofagasta
+2022-01-26,1436097,2,Región de Antofagasta
+2022-01-27,1440609,2,Región de Antofagasta
+2022-01-28,1446484,2,Región de Antofagasta
+2022-01-29,1452022,2,Región de Antofagasta
+2022-01-30,1454070,2,Región de Antofagasta
+2022-01-31,1460657,2,Región de Antofagasta
+2022-02-01,1465313,2,Región de Antofagasta
+2022-02-02,1469712,2,Región de Antofagasta
+2022-02-03,1473564,2,Región de Antofagasta
+2022-02-04,1478352,2,Región de Antofagasta
+2022-02-05,1483278,2,Región de Antofagasta
+2022-02-06,1484903,2,Región de Antofagasta
+2022-02-07,1490313,2,Región de Antofagasta
+2022-02-08,1494088,2,Región de Antofagasta
+2022-02-09,1497165,2,Región de Antofagasta
+2022-02-10,1500255,2,Región de Antofagasta
+2022-02-11,1503790,2,Región de Antofagasta
+2022-02-12,1507353,2,Región de Antofagasta
+2022-02-13,1508344,2,Región de Antofagasta
+2022-02-14,1512424,2,Región de Antofagasta
+2022-02-15,1515151,2,Región de Antofagasta
+2022-02-16,1517798,2,Región de Antofagasta
+2022-02-17,1520306,2,Región de Antofagasta
+2022-02-18,1523617,2,Región de Antofagasta
+2022-02-19,1527344,2,Región de Antofagasta
+2022-02-20,1528188,2,Región de Antofagasta
+2022-02-21,1532314,2,Región de Antofagasta
+2022-02-22,1534883,2,Región de Antofagasta
+2022-02-23,1537324,2,Región de Antofagasta
+2022-02-24,1539376,2,Región de Antofagasta
+2022-02-25,1542289,2,Región de Antofagasta
+2022-02-26,1545514,2,Región de Antofagasta
+2022-02-27,1546350,2,Región de Antofagasta
+2022-02-28,1550092,2,Región de Antofagasta
+2022-03-01,1552133,2,Región de Antofagasta
+2022-03-02,1553980,2,Región de Antofagasta
+2022-03-03,1555824,2,Región de Antofagasta
+2022-03-04,1558375,2,Región de Antofagasta
+2022-03-05,1561800,2,Región de Antofagasta
+2022-03-06,1562547,2,Región de Antofagasta
+2022-03-07,1566116,2,Región de Antofagasta
+2022-03-08,1567974,2,Región de Antofagasta
+2022-03-09,1569948,2,Región de Antofagasta
+2022-03-10,1571770,2,Región de Antofagasta
+2022-03-11,1574421,2,Región de Antofagasta
+2022-03-12,1577715,2,Región de Antofagasta
+2022-03-13,1578476,2,Región de Antofagasta
+2022-03-14,1582193,2,Región de Antofagasta
+2022-03-15,1584364,2,Región de Antofagasta
+2022-03-16,1586227,2,Región de Antofagasta
+2022-03-17,1587957,2,Región de Antofagasta
+2022-03-18,1590385,2,Región de Antofagasta
+2022-03-19,1593578,2,Región de Antofagasta
+2022-03-20,1594359,2,Región de Antofagasta
+2022-03-21,1597693,2,Región de Antofagasta
+2022-03-22,1599580,2,Región de Antofagasta
+2022-03-23,1601269,2,Región de Antofagasta
+2022-03-24,1602965,2,Región de Antofagasta
+2022-03-25,1605381,2,Región de Antofagasta
+2022-03-26,1608388,2,Región de Antofagasta
+2022-03-27,1609101,2,Región de Antofagasta
+2022-03-28,1612365,2,Región de Antofagasta
+2022-03-29,1614006,2,Región de Antofagasta
+2022-03-30,1615615,2,Región de Antofagasta
+2022-03-31,1617289,2,Región de Antofagasta
+2022-04-01,1619727,2,Región de Antofagasta
+2022-04-02,1622725,2,Región de Antofagasta
+2022-04-03,1623333,2,Región de Antofagasta
+2022-04-04,1626653,2,Región de Antofagasta
+2022-04-05,1628238,2,Región de Antofagasta
+2022-04-06,1629711,2,Región de Antofagasta
+2022-04-07,1631086,2,Región de Antofagasta
+2022-04-08,1633365,2,Región de Antofagasta
+2022-04-09,1636414,2,Región de Antofagasta
 2020-03-15,9,3,Región de Atacama
 2020-03-16,25,3,Región de Atacama
 2020-03-17,37,3,Región de Atacama
@@ -2170,79 +2186,87 @@ fecha,ntestcum,codigo_region,region_residencia
 2022-01-16,574519,3,Región de Atacama
 2022-01-17,577267,3,Región de Atacama
 2022-01-18,579592,3,Región de Atacama
-2022-01-19,582141,3,Región de Atacama
-2022-01-20,584811,3,Región de Atacama
-2022-01-21,587904,3,Región de Atacama
-2022-01-22,588944,3,Región de Atacama
-2022-01-23,589580,3,Región de Atacama
-2022-01-24,593457,3,Región de Atacama
-2022-01-25,596789,3,Región de Atacama
-2022-01-26,600234,3,Región de Atacama
-2022-01-27,603443,3,Región de Atacama
-2022-01-28,607108,3,Región de Atacama
-2022-01-29,608254,3,Región de Atacama
-2022-01-30,608870,3,Región de Atacama
-2022-01-31,612511,3,Región de Atacama
-2022-02-01,614930,3,Región de Atacama
-2022-02-02,617465,3,Región de Atacama
-2022-02-03,619862,3,Región de Atacama
-2022-02-04,622267,3,Región de Atacama
-2022-02-05,623230,3,Región de Atacama
-2022-02-06,623873,3,Región de Atacama
-2022-02-07,626876,3,Región de Atacama
-2022-02-08,629142,3,Región de Atacama
-2022-02-09,630788,3,Región de Atacama
-2022-02-10,632434,3,Región de Atacama
-2022-02-11,634352,3,Región de Atacama
-2022-02-12,635253,3,Región de Atacama
-2022-02-13,635790,3,Región de Atacama
-2022-02-14,638038,3,Región de Atacama
-2022-02-15,639789,3,Región de Atacama
-2022-02-16,641432,3,Región de Atacama
-2022-02-17,642946,3,Región de Atacama
-2022-02-18,644831,3,Región de Atacama
-2022-02-19,645609,3,Región de Atacama
-2022-02-20,646065,3,Región de Atacama
-2022-02-21,648110,3,Región de Atacama
-2022-02-22,649790,3,Región de Atacama
-2022-02-23,651421,3,Región de Atacama
-2022-02-24,652724,3,Región de Atacama
-2022-02-25,654601,3,Región de Atacama
-2022-02-26,655289,3,Región de Atacama
-2022-02-27,655639,3,Región de Atacama
-2022-02-28,657762,3,Región de Atacama
-2022-03-01,659344,3,Región de Atacama
-2022-03-02,660493,3,Región de Atacama
-2022-03-03,661516,3,Región de Atacama
-2022-03-04,663095,3,Región de Atacama
-2022-03-05,663702,3,Región de Atacama
-2022-03-06,664109,3,Región de Atacama
-2022-03-07,665893,3,Región de Atacama
-2022-03-08,667061,3,Región de Atacama
-2022-03-09,668192,3,Región de Atacama
-2022-03-10,669330,3,Región de Atacama
-2022-03-11,670773,3,Región de Atacama
-2022-03-12,671314,3,Región de Atacama
-2022-03-13,671686,3,Región de Atacama
-2022-03-14,673581,3,Región de Atacama
-2022-03-15,674855,3,Región de Atacama
-2022-03-16,675908,3,Región de Atacama
-2022-03-17,677028,3,Región de Atacama
-2022-03-18,678487,3,Región de Atacama
-2022-03-19,679087,3,Región de Atacama
-2022-03-20,679382,3,Región de Atacama
-2022-03-21,681135,3,Región de Atacama
-2022-03-22,682351,3,Región de Atacama
-2022-03-23,683273,3,Región de Atacama
-2022-03-24,684098,3,Región de Atacama
-2022-03-25,685165,3,Región de Atacama
-2022-03-26,685753,3,Región de Atacama
-2022-03-27,686049,3,Región de Atacama
-2022-03-28,687509,3,Región de Atacama
-2022-03-29,688528,3,Región de Atacama
-2022-03-30,689322,3,Región de Atacama
-2022-03-31,690097,3,Región de Atacama
-2022-04-01,691012,3,Región de Atacama
+2022-01-19,582143,3,Región de Atacama
+2022-01-20,584816,3,Región de Atacama
+2022-01-21,587917,3,Región de Atacama
+2022-01-22,588957,3,Región de Atacama
+2022-01-23,589592,3,Región de Atacama
+2022-01-24,593481,3,Región de Atacama
+2022-01-25,596817,3,Región de Atacama
+2022-01-26,600265,3,Región de Atacama
+2022-01-27,603477,3,Región de Atacama
+2022-01-28,607164,3,Región de Atacama
+2022-01-29,608313,3,Región de Atacama
+2022-01-30,608930,3,Región de Atacama
+2022-01-31,612612,3,Región de Atacama
+2022-02-01,615034,3,Región de Atacama
+2022-02-02,617574,3,Región de Atacama
+2022-02-03,619979,3,Región de Atacama
+2022-02-04,622388,3,Región de Atacama
+2022-02-05,623354,3,Región de Atacama
+2022-02-06,624000,3,Región de Atacama
+2022-02-07,627010,3,Región de Atacama
+2022-02-08,629283,3,Región de Atacama
+2022-02-09,630931,3,Región de Atacama
+2022-02-10,632580,3,Región de Atacama
+2022-02-11,634505,3,Región de Atacama
+2022-02-12,635407,3,Región de Atacama
+2022-02-13,635944,3,Región de Atacama
+2022-02-14,638199,3,Región de Atacama
+2022-02-15,639948,3,Región de Atacama
+2022-02-16,641596,3,Región de Atacama
+2022-02-17,643112,3,Región de Atacama
+2022-02-18,645003,3,Región de Atacama
+2022-02-19,645780,3,Región de Atacama
+2022-02-20,646236,3,Región de Atacama
+2022-02-21,648283,3,Región de Atacama
+2022-02-22,649965,3,Región de Atacama
+2022-02-23,651597,3,Región de Atacama
+2022-02-24,652902,3,Región de Atacama
+2022-02-25,654783,3,Región de Atacama
+2022-02-26,655472,3,Región de Atacama
+2022-02-27,655823,3,Región de Atacama
+2022-02-28,657948,3,Región de Atacama
+2022-03-01,659531,3,Región de Atacama
+2022-03-02,660680,3,Región de Atacama
+2022-03-03,661703,3,Región de Atacama
+2022-03-04,663283,3,Región de Atacama
+2022-03-05,663890,3,Región de Atacama
+2022-03-06,664298,3,Región de Atacama
+2022-03-07,666082,3,Región de Atacama
+2022-03-08,667252,3,Región de Atacama
+2022-03-09,668384,3,Región de Atacama
+2022-03-10,669522,3,Región de Atacama
+2022-03-11,670967,3,Región de Atacama
+2022-03-12,671509,3,Región de Atacama
+2022-03-13,671881,3,Región de Atacama
+2022-03-14,673779,3,Región de Atacama
+2022-03-15,675056,3,Región de Atacama
+2022-03-16,676113,3,Región de Atacama
+2022-03-17,677237,3,Región de Atacama
+2022-03-18,678696,3,Región de Atacama
+2022-03-19,679298,3,Región de Atacama
+2022-03-20,679593,3,Región de Atacama
+2022-03-21,681347,3,Región de Atacama
+2022-03-22,682564,3,Región de Atacama
+2022-03-23,683492,3,Región de Atacama
+2022-03-24,684321,3,Región de Atacama
+2022-03-25,685393,3,Región de Atacama
+2022-03-26,686002,3,Región de Atacama
+2022-03-27,686301,3,Región de Atacama
+2022-03-28,687763,3,Región de Atacama
+2022-03-29,688785,3,Región de Atacama
+2022-03-30,689579,3,Región de Atacama
+2022-03-31,690370,3,Región de Atacama
+2022-04-01,691340,3,Región de Atacama
+2022-04-02,691785,3,Región de Atacama
+2022-04-03,692063,3,Región de Atacama
+2022-04-04,693335,3,Región de Atacama
+2022-04-05,694235,3,Región de Atacama
+2022-04-06,694966,3,Región de Atacama
+2022-04-07,695594,3,Región de Atacama
+2022-04-08,696551,3,Región de Atacama
+2022-04-09,697035,3,Región de Atacama
 2020-03-15,7,4,Región de Coquimbo
 2020-03-16,21,4,Región de Coquimbo
 2020-03-17,60,4,Región de Coquimbo
@@ -2918,79 +2942,87 @@ fecha,ntestcum,codigo_region,region_residencia
 2022-01-16,1049040,4,Región de Coquimbo
 2022-01-17,1052781,4,Región de Coquimbo
 2022-01-18,1056330,4,Región de Coquimbo
-2022-01-19,1059877,4,Región de Coquimbo
-2022-01-20,1063701,4,Región de Coquimbo
-2022-01-21,1067651,4,Región de Coquimbo
-2022-01-22,1070368,4,Región de Coquimbo
-2022-01-23,1072254,4,Región de Coquimbo
-2022-01-24,1076833,4,Región de Coquimbo
-2022-01-25,1081662,4,Región de Coquimbo
-2022-01-26,1086115,4,Región de Coquimbo
-2022-01-27,1090779,4,Región de Coquimbo
-2022-01-28,1095499,4,Región de Coquimbo
-2022-01-29,1098800,4,Región de Coquimbo
-2022-01-30,1100672,4,Región de Coquimbo
-2022-01-31,1105590,4,Región de Coquimbo
-2022-02-01,1110614,4,Región de Coquimbo
-2022-02-02,1115278,4,Región de Coquimbo
-2022-02-03,1119694,4,Región de Coquimbo
-2022-02-04,1124037,4,Región de Coquimbo
-2022-02-05,1127266,4,Región de Coquimbo
-2022-02-06,1129026,4,Región de Coquimbo
-2022-02-07,1133405,4,Región de Coquimbo
-2022-02-08,1137896,4,Región de Coquimbo
-2022-02-09,1142094,4,Región de Coquimbo
-2022-02-10,1146168,4,Región de Coquimbo
-2022-02-11,1150276,4,Región de Coquimbo
-2022-02-12,1152486,4,Región de Coquimbo
-2022-02-13,1153854,4,Región de Coquimbo
-2022-02-14,1157183,4,Región de Coquimbo
-2022-02-15,1160350,4,Región de Coquimbo
-2022-02-16,1163652,4,Región de Coquimbo
-2022-02-17,1166823,4,Región de Coquimbo
-2022-02-18,1170150,4,Región de Coquimbo
-2022-02-19,1172378,4,Región de Coquimbo
-2022-02-20,1173653,4,Región de Coquimbo
-2022-02-21,1176868,4,Región de Coquimbo
-2022-02-22,1180147,4,Región de Coquimbo
-2022-02-23,1183193,4,Región de Coquimbo
-2022-02-24,1185880,4,Región de Coquimbo
-2022-02-25,1188601,4,Región de Coquimbo
-2022-02-26,1190755,4,Región de Coquimbo
-2022-02-27,1191799,4,Región de Coquimbo
-2022-02-28,1194887,4,Región de Coquimbo
-2022-03-01,1197858,4,Región de Coquimbo
-2022-03-02,1200520,4,Región de Coquimbo
-2022-03-03,1203092,4,Región de Coquimbo
-2022-03-04,1205918,4,Región de Coquimbo
-2022-03-05,1207808,4,Región de Coquimbo
-2022-03-06,1208942,4,Región de Coquimbo
-2022-03-07,1212106,4,Región de Coquimbo
-2022-03-08,1214919,4,Región de Coquimbo
-2022-03-09,1217611,4,Región de Coquimbo
-2022-03-10,1220262,4,Región de Coquimbo
-2022-03-11,1222792,4,Región de Coquimbo
-2022-03-12,1224494,4,Región de Coquimbo
-2022-03-13,1225516,4,Región de Coquimbo
-2022-03-14,1229162,4,Región de Coquimbo
-2022-03-15,1232238,4,Región de Coquimbo
-2022-03-16,1235147,4,Región de Coquimbo
-2022-03-17,1237860,4,Región de Coquimbo
-2022-03-18,1240508,4,Región de Coquimbo
-2022-03-19,1242284,4,Región de Coquimbo
-2022-03-20,1243312,4,Región de Coquimbo
-2022-03-21,1246673,4,Región de Coquimbo
-2022-03-22,1249866,4,Región de Coquimbo
-2022-03-23,1252744,4,Región de Coquimbo
-2022-03-24,1255235,4,Región de Coquimbo
-2022-03-25,1257674,4,Región de Coquimbo
-2022-03-26,1259271,4,Región de Coquimbo
-2022-03-27,1260154,4,Región de Coquimbo
-2022-03-28,1263353,4,Región de Coquimbo
-2022-03-29,1265992,4,Región de Coquimbo
-2022-03-30,1268346,4,Región de Coquimbo
-2022-03-31,1270343,4,Región de Coquimbo
-2022-04-01,1271867,4,Región de Coquimbo
+2022-01-19,1059878,4,Región de Coquimbo
+2022-01-20,1063702,4,Región de Coquimbo
+2022-01-21,1067653,4,Región de Coquimbo
+2022-01-22,1070374,4,Región de Coquimbo
+2022-01-23,1072260,4,Región de Coquimbo
+2022-01-24,1076841,4,Región de Coquimbo
+2022-01-25,1081677,4,Región de Coquimbo
+2022-01-26,1086133,4,Región de Coquimbo
+2022-01-27,1090800,4,Región de Coquimbo
+2022-01-28,1095524,4,Región de Coquimbo
+2022-01-29,1098827,4,Región de Coquimbo
+2022-01-30,1100699,4,Región de Coquimbo
+2022-01-31,1105621,4,Región de Coquimbo
+2022-02-01,1110645,4,Región de Coquimbo
+2022-02-02,1115312,4,Región de Coquimbo
+2022-02-03,1119730,4,Región de Coquimbo
+2022-02-04,1124076,4,Región de Coquimbo
+2022-02-05,1127310,4,Región de Coquimbo
+2022-02-06,1129070,4,Región de Coquimbo
+2022-02-07,1133457,4,Región de Coquimbo
+2022-02-08,1137952,4,Región de Coquimbo
+2022-02-09,1142149,4,Región de Coquimbo
+2022-02-10,1146226,4,Región de Coquimbo
+2022-02-11,1150338,4,Región de Coquimbo
+2022-02-12,1152550,4,Región de Coquimbo
+2022-02-13,1153919,4,Región de Coquimbo
+2022-02-14,1157249,4,Región de Coquimbo
+2022-02-15,1160419,4,Región de Coquimbo
+2022-02-16,1163722,4,Región de Coquimbo
+2022-02-17,1166896,4,Región de Coquimbo
+2022-02-18,1170225,4,Región de Coquimbo
+2022-02-19,1172457,4,Región de Coquimbo
+2022-02-20,1173733,4,Región de Coquimbo
+2022-02-21,1176951,4,Región de Coquimbo
+2022-02-22,1180232,4,Región de Coquimbo
+2022-02-23,1183278,4,Región de Coquimbo
+2022-02-24,1185969,4,Región de Coquimbo
+2022-02-25,1188691,4,Región de Coquimbo
+2022-02-26,1190848,4,Región de Coquimbo
+2022-02-27,1191893,4,Región de Coquimbo
+2022-02-28,1194985,4,Región de Coquimbo
+2022-03-01,1197966,4,Región de Coquimbo
+2022-03-02,1200631,4,Región de Coquimbo
+2022-03-03,1203205,4,Región de Coquimbo
+2022-03-04,1206033,4,Región de Coquimbo
+2022-03-05,1207928,4,Región de Coquimbo
+2022-03-06,1209064,4,Región de Coquimbo
+2022-03-07,1212231,4,Región de Coquimbo
+2022-03-08,1215050,4,Región de Coquimbo
+2022-03-09,1217746,4,Región de Coquimbo
+2022-03-10,1220408,4,Región de Coquimbo
+2022-03-11,1222947,4,Región de Coquimbo
+2022-03-12,1224654,4,Región de Coquimbo
+2022-03-13,1225676,4,Región de Coquimbo
+2022-03-14,1229326,4,Región de Coquimbo
+2022-03-15,1232404,4,Región de Coquimbo
+2022-03-16,1235315,4,Región de Coquimbo
+2022-03-17,1238033,4,Región de Coquimbo
+2022-03-18,1240687,4,Región de Coquimbo
+2022-03-19,1242472,4,Región de Coquimbo
+2022-03-20,1243502,4,Región de Coquimbo
+2022-03-21,1246868,4,Región de Coquimbo
+2022-03-22,1250066,4,Región de Coquimbo
+2022-03-23,1252947,4,Región de Coquimbo
+2022-03-24,1255440,4,Región de Coquimbo
+2022-03-25,1257885,4,Región de Coquimbo
+2022-03-26,1259568,4,Región de Coquimbo
+2022-03-27,1260470,4,Región de Coquimbo
+2022-03-28,1263680,4,Región de Coquimbo
+2022-03-29,1266380,4,Región de Coquimbo
+2022-03-30,1268783,4,Región de Coquimbo
+2022-03-31,1270917,4,Región de Coquimbo
+2022-04-01,1273084,4,Región de Coquimbo
+2022-04-02,1274576,4,Región de Coquimbo
+2022-04-03,1275272,4,Región de Coquimbo
+2022-04-04,1278138,4,Región de Coquimbo
+2022-04-05,1280358,4,Región de Coquimbo
+2022-04-06,1282201,4,Región de Coquimbo
+2022-04-07,1284203,4,Región de Coquimbo
+2022-04-08,1286125,4,Región de Coquimbo
+2022-04-09,1287336,4,Región de Coquimbo
 2020-03-15,33,5,Región de Valparaíso
 2020-03-16,95,5,Región de Valparaíso
 2020-03-17,200,5,Región de Valparaíso
@@ -3664,81 +3696,89 @@ fecha,ntestcum,codigo_region,region_residencia
 2022-01-14,2078585,5,Región de Valparaíso
 2022-01-15,2082572,5,Región de Valparaíso
 2022-01-16,2085071,5,Región de Valparaíso
-2022-01-17,2093399,5,Región de Valparaíso
-2022-01-18,2101253,5,Región de Valparaíso
-2022-01-19,2109048,5,Región de Valparaíso
-2022-01-20,2117140,5,Región de Valparaíso
-2022-01-21,2125834,5,Región de Valparaíso
-2022-01-22,2130980,5,Región de Valparaíso
-2022-01-23,2134493,5,Región de Valparaíso
-2022-01-24,2144212,5,Región de Valparaíso
-2022-01-25,2154530,5,Región de Valparaíso
-2022-01-26,2165254,5,Región de Valparaíso
-2022-01-27,2174627,5,Región de Valparaíso
-2022-01-28,2183916,5,Región de Valparaíso
-2022-01-29,2189703,5,Región de Valparaíso
-2022-01-30,2193786,5,Región de Valparaíso
-2022-01-31,2203492,5,Región de Valparaíso
-2022-02-01,2213962,5,Región de Valparaíso
-2022-02-02,2223767,5,Región de Valparaíso
-2022-02-03,2233255,5,Región de Valparaíso
-2022-02-04,2242309,5,Región de Valparaíso
-2022-02-05,2247437,5,Región de Valparaíso
-2022-02-06,2251867,5,Región de Valparaíso
-2022-02-07,2261208,5,Región de Valparaíso
-2022-02-08,2271148,5,Región de Valparaíso
-2022-02-09,2280312,5,Región de Valparaíso
-2022-02-10,2289199,5,Región de Valparaíso
-2022-02-11,2297467,5,Región de Valparaíso
-2022-02-12,2302044,5,Región de Valparaíso
-2022-02-13,2305159,5,Región de Valparaíso
-2022-02-14,2314235,5,Región de Valparaíso
-2022-02-15,2322463,5,Región de Valparaíso
-2022-02-16,2329675,5,Región de Valparaíso
-2022-02-17,2336299,5,Región de Valparaíso
-2022-02-18,2343235,5,Región de Valparaíso
-2022-02-19,2346974,5,Región de Valparaíso
-2022-02-20,2349567,5,Región de Valparaíso
-2022-02-21,2357015,5,Región de Valparaíso
-2022-02-22,2364388,5,Región de Valparaíso
-2022-02-23,2370768,5,Región de Valparaíso
-2022-02-24,2376065,5,Región de Valparaíso
-2022-02-25,2381808,5,Región de Valparaíso
-2022-02-26,2385530,5,Región de Valparaíso
-2022-02-27,2387916,5,Región de Valparaíso
-2022-02-28,2395028,5,Región de Valparaíso
-2022-03-01,2400759,5,Región de Valparaíso
-2022-03-02,2406181,5,Región de Valparaíso
-2022-03-03,2410735,5,Región de Valparaíso
-2022-03-04,2415550,5,Región de Valparaíso
-2022-03-05,2418597,5,Región de Valparaíso
-2022-03-06,2421284,5,Región de Valparaíso
-2022-03-07,2427736,5,Región de Valparaíso
-2022-03-08,2433167,5,Región de Valparaíso
-2022-03-09,2438398,5,Región de Valparaíso
-2022-03-10,2443750,5,Región de Valparaíso
-2022-03-11,2448558,5,Región de Valparaíso
-2022-03-12,2451725,5,Región de Valparaíso
-2022-03-13,2453991,5,Región de Valparaíso
-2022-03-14,2461276,5,Región de Valparaíso
-2022-03-15,2466876,5,Región de Valparaíso
-2022-03-16,2472303,5,Región de Valparaíso
-2022-03-17,2477556,5,Región de Valparaíso
-2022-03-18,2482655,5,Región de Valparaíso
-2022-03-19,2485288,5,Región de Valparaíso
-2022-03-20,2487304,5,Región de Valparaíso
-2022-03-21,2493492,5,Región de Valparaíso
-2022-03-22,2499085,5,Región de Valparaíso
-2022-03-23,2503773,5,Región de Valparaíso
-2022-03-24,2508345,5,Región de Valparaíso
-2022-03-25,2512556,5,Región de Valparaíso
-2022-03-26,2515355,5,Región de Valparaíso
-2022-03-27,2516940,5,Región de Valparaíso
-2022-03-28,2522349,5,Región de Valparaíso
-2022-03-29,2526639,5,Región de Valparaíso
-2022-03-30,2530802,5,Región de Valparaíso
-2022-03-31,2534947,5,Región de Valparaíso
-2022-04-01,2537881,5,Región de Valparaíso
+2022-01-17,2093400,5,Región de Valparaíso
+2022-01-18,2101255,5,Región de Valparaíso
+2022-01-19,2109052,5,Región de Valparaíso
+2022-01-20,2117156,5,Región de Valparaíso
+2022-01-21,2125862,5,Región de Valparaíso
+2022-01-22,2131014,5,Región de Valparaíso
+2022-01-23,2134531,5,Región de Valparaíso
+2022-01-24,2144267,5,Región de Valparaíso
+2022-01-25,2154609,5,Región de Valparaíso
+2022-01-26,2165341,5,Región de Valparaíso
+2022-01-27,2174732,5,Región de Valparaíso
+2022-01-28,2184037,5,Región de Valparaíso
+2022-01-29,2189827,5,Región de Valparaíso
+2022-01-30,2193916,5,Región de Valparaíso
+2022-01-31,2203632,5,Región de Valparaíso
+2022-02-01,2214119,5,Región de Valparaíso
+2022-02-02,2223947,5,Región de Valparaíso
+2022-02-03,2233473,5,Región de Valparaíso
+2022-02-04,2242625,5,Región de Valparaíso
+2022-02-05,2247791,5,Región de Valparaíso
+2022-02-06,2252257,5,Región de Valparaíso
+2022-02-07,2261623,5,Región de Valparaíso
+2022-02-08,2271589,5,Región de Valparaíso
+2022-02-09,2280802,5,Región de Valparaíso
+2022-02-10,2289756,5,Región de Valparaíso
+2022-02-11,2298094,5,Región de Valparaíso
+2022-02-12,2302676,5,Región de Valparaíso
+2022-02-13,2305796,5,Región de Valparaíso
+2022-02-14,2314901,5,Región de Valparaíso
+2022-02-15,2323153,5,Región de Valparaíso
+2022-02-16,2330384,5,Región de Valparaíso
+2022-02-17,2337024,5,Región de Valparaíso
+2022-02-18,2343978,5,Región de Valparaíso
+2022-02-19,2347726,5,Región de Valparaíso
+2022-02-20,2350323,5,Región de Valparaíso
+2022-02-21,2357789,5,Región de Valparaíso
+2022-02-22,2365169,5,Región de Valparaíso
+2022-02-23,2371558,5,Región de Valparaíso
+2022-02-24,2376872,5,Región de Valparaíso
+2022-02-25,2382629,5,Región de Valparaíso
+2022-02-26,2386364,5,Región de Valparaíso
+2022-02-27,2388756,5,Región de Valparaíso
+2022-02-28,2395875,5,Región de Valparaíso
+2022-03-01,2401618,5,Región de Valparaíso
+2022-03-02,2407057,5,Región de Valparaíso
+2022-03-03,2411618,5,Región de Valparaíso
+2022-03-04,2416441,5,Región de Valparaíso
+2022-03-05,2419492,5,Región de Valparaíso
+2022-03-06,2422182,5,Región de Valparaíso
+2022-03-07,2428646,5,Región de Valparaíso
+2022-03-08,2434091,5,Región de Valparaíso
+2022-03-09,2439334,5,Región de Valparaíso
+2022-03-10,2444703,5,Región de Valparaíso
+2022-03-11,2449538,5,Región de Valparaíso
+2022-03-12,2452714,5,Región de Valparaíso
+2022-03-13,2454986,5,Región de Valparaíso
+2022-03-14,2462293,5,Región de Valparaíso
+2022-03-15,2467910,5,Región de Valparaíso
+2022-03-16,2473356,5,Región de Valparaíso
+2022-03-17,2478624,5,Región de Valparaíso
+2022-03-18,2483738,5,Región de Valparaíso
+2022-03-19,2486381,5,Región de Valparaíso
+2022-03-20,2488402,5,Región de Valparaíso
+2022-03-21,2494610,5,Región de Valparaíso
+2022-03-22,2500216,5,Región de Valparaíso
+2022-03-23,2504924,5,Región de Valparaíso
+2022-03-24,2509519,5,Región de Valparaíso
+2022-03-25,2513791,5,Región de Valparaíso
+2022-03-26,2516599,5,Región de Valparaíso
+2022-03-27,2518190,5,Región de Valparaíso
+2022-03-28,2523632,5,Región de Valparaíso
+2022-03-29,2527944,5,Región de Valparaíso
+2022-03-30,2532120,5,Región de Valparaíso
+2022-03-31,2536334,5,Región de Valparaíso
+2022-04-01,2539531,5,Región de Valparaíso
+2022-04-02,2541716,5,Región de Valparaíso
+2022-04-03,2543227,5,Región de Valparaíso
+2022-04-04,2547990,5,Región de Valparaíso
+2022-04-05,2551702,5,Región de Valparaíso
+2022-04-06,2555258,5,Región de Valparaíso
+2022-04-07,2558233,5,Región de Valparaíso
+2022-04-08,2561211,5,Región de Valparaíso
+2022-04-09,2562879,5,Región de Valparaíso
 2020-03-15,17,6,Región del Libertador General Bernardo OHiggins
 2020-03-16,49,6,Región del Libertador General Bernardo OHiggins
 2020-03-17,95,6,Región del Libertador General Bernardo OHiggins
@@ -4413,80 +4453,88 @@ fecha,ntestcum,codigo_region,region_residencia
 2022-01-15,1056775,6,Región del Libertador General Bernardo OHiggins
 2022-01-16,1057650,6,Región del Libertador General Bernardo OHiggins
 2022-01-17,1061007,6,Región del Libertador General Bernardo OHiggins
-2022-01-18,1064568,6,Región del Libertador General Bernardo OHiggins
-2022-01-19,1067653,6,Región del Libertador General Bernardo OHiggins
-2022-01-20,1071358,6,Región del Libertador General Bernardo OHiggins
-2022-01-21,1074832,6,Región del Libertador General Bernardo OHiggins
-2022-01-22,1076556,6,Región del Libertador General Bernardo OHiggins
-2022-01-23,1077868,6,Región del Libertador General Bernardo OHiggins
-2022-01-24,1082301,6,Región del Libertador General Bernardo OHiggins
-2022-01-25,1086249,6,Región del Libertador General Bernardo OHiggins
-2022-01-26,1090722,6,Región del Libertador General Bernardo OHiggins
-2022-01-27,1095328,6,Región del Libertador General Bernardo OHiggins
-2022-01-28,1099672,6,Región del Libertador General Bernardo OHiggins
-2022-01-29,1101872,6,Región del Libertador General Bernardo OHiggins
-2022-01-30,1103627,6,Región del Libertador General Bernardo OHiggins
-2022-01-31,1107943,6,Región del Libertador General Bernardo OHiggins
-2022-02-01,1112338,6,Región del Libertador General Bernardo OHiggins
-2022-02-02,1116762,6,Región del Libertador General Bernardo OHiggins
-2022-02-03,1120813,6,Región del Libertador General Bernardo OHiggins
-2022-02-04,1124600,6,Región del Libertador General Bernardo OHiggins
-2022-02-05,1126764,6,Región del Libertador General Bernardo OHiggins
-2022-02-06,1128299,6,Región del Libertador General Bernardo OHiggins
-2022-02-07,1132593,6,Región del Libertador General Bernardo OHiggins
-2022-02-08,1136401,6,Región del Libertador General Bernardo OHiggins
-2022-02-09,1140241,6,Región del Libertador General Bernardo OHiggins
-2022-02-10,1144030,6,Región del Libertador General Bernardo OHiggins
-2022-02-11,1147524,6,Región del Libertador General Bernardo OHiggins
-2022-02-12,1149315,6,Región del Libertador General Bernardo OHiggins
-2022-02-13,1150624,6,Región del Libertador General Bernardo OHiggins
-2022-02-14,1154415,6,Región del Libertador General Bernardo OHiggins
-2022-02-15,1157596,6,Región del Libertador General Bernardo OHiggins
-2022-02-16,1160417,6,Región del Libertador General Bernardo OHiggins
-2022-02-17,1162896,6,Región del Libertador General Bernardo OHiggins
-2022-02-18,1165450,6,Región del Libertador General Bernardo OHiggins
-2022-02-19,1166909,6,Región del Libertador General Bernardo OHiggins
-2022-02-20,1167946,6,Región del Libertador General Bernardo OHiggins
-2022-02-21,1170873,6,Región del Libertador General Bernardo OHiggins
-2022-02-22,1173531,6,Región del Libertador General Bernardo OHiggins
-2022-02-23,1176167,6,Región del Libertador General Bernardo OHiggins
-2022-02-24,1178570,6,Región del Libertador General Bernardo OHiggins
-2022-02-25,1180907,6,Región del Libertador General Bernardo OHiggins
-2022-02-26,1182398,6,Región del Libertador General Bernardo OHiggins
-2022-02-27,1183401,6,Región del Libertador General Bernardo OHiggins
-2022-02-28,1186075,6,Región del Libertador General Bernardo OHiggins
-2022-03-01,1188534,6,Región del Libertador General Bernardo OHiggins
-2022-03-02,1190880,6,Región del Libertador General Bernardo OHiggins
-2022-03-03,1193137,6,Región del Libertador General Bernardo OHiggins
-2022-03-04,1195332,6,Región del Libertador General Bernardo OHiggins
-2022-03-05,1196542,6,Región del Libertador General Bernardo OHiggins
-2022-03-06,1197508,6,Región del Libertador General Bernardo OHiggins
-2022-03-07,1200278,6,Región del Libertador General Bernardo OHiggins
-2022-03-08,1202804,6,Región del Libertador General Bernardo OHiggins
-2022-03-09,1205226,6,Región del Libertador General Bernardo OHiggins
-2022-03-10,1207476,6,Región del Libertador General Bernardo OHiggins
-2022-03-11,1209572,6,Región del Libertador General Bernardo OHiggins
-2022-03-12,1210803,6,Región del Libertador General Bernardo OHiggins
-2022-03-13,1211814,6,Región del Libertador General Bernardo OHiggins
-2022-03-14,1214931,6,Región del Libertador General Bernardo OHiggins
-2022-03-15,1217617,6,Región del Libertador General Bernardo OHiggins
-2022-03-16,1220164,6,Región del Libertador General Bernardo OHiggins
-2022-03-17,1222616,6,Región del Libertador General Bernardo OHiggins
-2022-03-18,1224869,6,Región del Libertador General Bernardo OHiggins
-2022-03-19,1226031,6,Región del Libertador General Bernardo OHiggins
-2022-03-20,1226999,6,Región del Libertador General Bernardo OHiggins
-2022-03-21,1229822,6,Región del Libertador General Bernardo OHiggins
-2022-03-22,1232394,6,Región del Libertador General Bernardo OHiggins
-2022-03-23,1234501,6,Región del Libertador General Bernardo OHiggins
-2022-03-24,1236362,6,Región del Libertador General Bernardo OHiggins
-2022-03-25,1238160,6,Región del Libertador General Bernardo OHiggins
-2022-03-26,1239094,6,Región del Libertador General Bernardo OHiggins
-2022-03-27,1239834,6,Región del Libertador General Bernardo OHiggins
-2022-03-28,1242167,6,Región del Libertador General Bernardo OHiggins
-2022-03-29,1244055,6,Región del Libertador General Bernardo OHiggins
-2022-03-30,1245941,6,Región del Libertador General Bernardo OHiggins
-2022-03-31,1247582,6,Región del Libertador General Bernardo OHiggins
-2022-04-01,1248778,6,Región del Libertador General Bernardo OHiggins
+2022-01-18,1064571,6,Región del Libertador General Bernardo OHiggins
+2022-01-19,1067656,6,Región del Libertador General Bernardo OHiggins
+2022-01-20,1071366,6,Región del Libertador General Bernardo OHiggins
+2022-01-21,1074843,6,Región del Libertador General Bernardo OHiggins
+2022-01-22,1076569,6,Región del Libertador General Bernardo OHiggins
+2022-01-23,1077882,6,Región del Libertador General Bernardo OHiggins
+2022-01-24,1082318,6,Región del Libertador General Bernardo OHiggins
+2022-01-25,1086269,6,Región del Libertador General Bernardo OHiggins
+2022-01-26,1090744,6,Región del Libertador General Bernardo OHiggins
+2022-01-27,1095351,6,Región del Libertador General Bernardo OHiggins
+2022-01-28,1099698,6,Región del Libertador General Bernardo OHiggins
+2022-01-29,1101896,6,Región del Libertador General Bernardo OHiggins
+2022-01-30,1103652,6,Región del Libertador General Bernardo OHiggins
+2022-01-31,1107971,6,Región del Libertador General Bernardo OHiggins
+2022-02-01,1112371,6,Región del Libertador General Bernardo OHiggins
+2022-02-02,1116795,6,Región del Libertador General Bernardo OHiggins
+2022-02-03,1120844,6,Región del Libertador General Bernardo OHiggins
+2022-02-04,1124634,6,Región del Libertador General Bernardo OHiggins
+2022-02-05,1126804,6,Región del Libertador General Bernardo OHiggins
+2022-02-06,1128339,6,Región del Libertador General Bernardo OHiggins
+2022-02-07,1132634,6,Región del Libertador General Bernardo OHiggins
+2022-02-08,1136447,6,Región del Libertador General Bernardo OHiggins
+2022-02-09,1140286,6,Región del Libertador General Bernardo OHiggins
+2022-02-10,1144079,6,Región del Libertador General Bernardo OHiggins
+2022-02-11,1147578,6,Región del Libertador General Bernardo OHiggins
+2022-02-12,1149372,6,Región del Libertador General Bernardo OHiggins
+2022-02-13,1150681,6,Región del Libertador General Bernardo OHiggins
+2022-02-14,1154475,6,Región del Libertador General Bernardo OHiggins
+2022-02-15,1157658,6,Región del Libertador General Bernardo OHiggins
+2022-02-16,1160481,6,Región del Libertador General Bernardo OHiggins
+2022-02-17,1162960,6,Región del Libertador General Bernardo OHiggins
+2022-02-18,1165514,6,Región del Libertador General Bernardo OHiggins
+2022-02-19,1166976,6,Región del Libertador General Bernardo OHiggins
+2022-02-20,1168013,6,Región del Libertador General Bernardo OHiggins
+2022-02-21,1170945,6,Región del Libertador General Bernardo OHiggins
+2022-02-22,1173605,6,Región del Libertador General Bernardo OHiggins
+2022-02-23,1176241,6,Región del Libertador General Bernardo OHiggins
+2022-02-24,1178642,6,Región del Libertador General Bernardo OHiggins
+2022-02-25,1180984,6,Región del Libertador General Bernardo OHiggins
+2022-02-26,1182474,6,Región del Libertador General Bernardo OHiggins
+2022-02-27,1183478,6,Región del Libertador General Bernardo OHiggins
+2022-02-28,1186153,6,Región del Libertador General Bernardo OHiggins
+2022-03-01,1188616,6,Región del Libertador General Bernardo OHiggins
+2022-03-02,1190962,6,Región del Libertador General Bernardo OHiggins
+2022-03-03,1193220,6,Región del Libertador General Bernardo OHiggins
+2022-03-04,1195418,6,Región del Libertador General Bernardo OHiggins
+2022-03-05,1196630,6,Región del Libertador General Bernardo OHiggins
+2022-03-06,1197597,6,Región del Libertador General Bernardo OHiggins
+2022-03-07,1200373,6,Región del Libertador General Bernardo OHiggins
+2022-03-08,1202902,6,Región del Libertador General Bernardo OHiggins
+2022-03-09,1205328,6,Región del Libertador General Bernardo OHiggins
+2022-03-10,1207577,6,Región del Libertador General Bernardo OHiggins
+2022-03-11,1209674,6,Región del Libertador General Bernardo OHiggins
+2022-03-12,1210906,6,Región del Libertador General Bernardo OHiggins
+2022-03-13,1211917,6,Región del Libertador General Bernardo OHiggins
+2022-03-14,1215037,6,Región del Libertador General Bernardo OHiggins
+2022-03-15,1217724,6,Región del Libertador General Bernardo OHiggins
+2022-03-16,1220276,6,Región del Libertador General Bernardo OHiggins
+2022-03-17,1222731,6,Región del Libertador General Bernardo OHiggins
+2022-03-18,1224987,6,Región del Libertador General Bernardo OHiggins
+2022-03-19,1226149,6,Región del Libertador General Bernardo OHiggins
+2022-03-20,1227119,6,Región del Libertador General Bernardo OHiggins
+2022-03-21,1229944,6,Región del Libertador General Bernardo OHiggins
+2022-03-22,1232517,6,Región del Libertador General Bernardo OHiggins
+2022-03-23,1234631,6,Región del Libertador General Bernardo OHiggins
+2022-03-24,1236494,6,Región del Libertador General Bernardo OHiggins
+2022-03-25,1238294,6,Región del Libertador General Bernardo OHiggins
+2022-03-26,1239254,6,Región del Libertador General Bernardo OHiggins
+2022-03-27,1239995,6,Región del Libertador General Bernardo OHiggins
+2022-03-28,1242363,6,Región del Libertador General Bernardo OHiggins
+2022-03-29,1244271,6,Región del Libertador General Bernardo OHiggins
+2022-03-30,1246165,6,Región del Libertador General Bernardo OHiggins
+2022-03-31,1247832,6,Región del Libertador General Bernardo OHiggins
+2022-04-01,1249199,6,Región del Libertador General Bernardo OHiggins
+2022-04-02,1249935,6,Región del Libertador General Bernardo OHiggins
+2022-04-03,1250523,6,Región del Libertador General Bernardo OHiggins
+2022-04-04,1252111,6,Región del Libertador General Bernardo OHiggins
+2022-04-05,1253683,6,Región del Libertador General Bernardo OHiggins
+2022-04-06,1255163,6,Región del Libertador General Bernardo OHiggins
+2022-04-07,1256427,6,Región del Libertador General Bernardo OHiggins
+2022-04-08,1257620,6,Región del Libertador General Bernardo OHiggins
+2022-04-09,1258238,6,Región del Libertador General Bernardo OHiggins
 2020-03-15,18,7,Región del Maule
 2020-03-16,55,7,Región del Maule
 2020-03-17,126,7,Región del Maule
@@ -5162,79 +5210,87 @@ fecha,ntestcum,codigo_region,region_residencia
 2022-01-16,1435559,7,Región del Maule
 2022-01-17,1440516,7,Región del Maule
 2022-01-18,1445016,7,Región del Maule
-2022-01-19,1449610,7,Región del Maule
-2022-01-20,1454451,7,Región del Maule
-2022-01-21,1459788,7,Región del Maule
-2022-01-22,1461962,7,Región del Maule
-2022-01-23,1463535,7,Región del Maule
-2022-01-24,1470591,7,Región del Maule
-2022-01-25,1477063,7,Región del Maule
-2022-01-26,1484400,7,Región del Maule
-2022-01-27,1491426,7,Región del Maule
-2022-01-28,1498552,7,Región del Maule
-2022-01-29,1501584,7,Región del Maule
-2022-01-30,1503508,7,Región del Maule
-2022-01-31,1511332,7,Región del Maule
-2022-02-01,1518205,7,Región del Maule
-2022-02-02,1525391,7,Región del Maule
-2022-02-03,1533236,7,Región del Maule
-2022-02-04,1540437,7,Región del Maule
-2022-02-05,1543332,7,Región del Maule
-2022-02-06,1545339,7,Región del Maule
-2022-02-07,1553140,7,Región del Maule
-2022-02-08,1561360,7,Región del Maule
-2022-02-09,1569223,7,Región del Maule
-2022-02-10,1576260,7,Región del Maule
-2022-02-11,1582668,7,Región del Maule
-2022-02-12,1585746,7,Región del Maule
-2022-02-13,1587646,7,Región del Maule
-2022-02-14,1594833,7,Región del Maule
-2022-02-15,1600844,7,Región del Maule
-2022-02-16,1606851,7,Región del Maule
-2022-02-17,1612897,7,Región del Maule
-2022-02-18,1618453,7,Región del Maule
-2022-02-19,1620735,7,Región del Maule
-2022-02-20,1622208,7,Región del Maule
-2022-02-21,1628265,7,Región del Maule
-2022-02-22,1633189,7,Región del Maule
-2022-02-23,1637664,7,Región del Maule
-2022-02-24,1642265,7,Región del Maule
-2022-02-25,1646591,7,Región del Maule
-2022-02-26,1648417,7,Región del Maule
-2022-02-27,1649714,7,Región del Maule
-2022-02-28,1655481,7,Región del Maule
-2022-03-01,1660381,7,Región del Maule
-2022-03-02,1665325,7,Región del Maule
-2022-03-03,1669601,7,Región del Maule
-2022-03-04,1674220,7,Región del Maule
-2022-03-05,1675881,7,Región del Maule
-2022-03-06,1677238,7,Región del Maule
-2022-03-07,1682713,7,Región del Maule
-2022-03-08,1687313,7,Región del Maule
-2022-03-09,1692196,7,Región del Maule
-2022-03-10,1696877,7,Región del Maule
-2022-03-11,1701509,7,Región del Maule
-2022-03-12,1703163,7,Región del Maule
-2022-03-13,1704710,7,Región del Maule
-2022-03-14,1710081,7,Región del Maule
-2022-03-15,1715019,7,Región del Maule
-2022-03-16,1719643,7,Región del Maule
-2022-03-17,1723795,7,Región del Maule
-2022-03-18,1727624,7,Región del Maule
-2022-03-19,1729097,7,Región del Maule
-2022-03-20,1730289,7,Región del Maule
-2022-03-21,1735143,7,Región del Maule
-2022-03-22,1739376,7,Región del Maule
-2022-03-23,1743291,7,Región del Maule
-2022-03-24,1746879,7,Región del Maule
-2022-03-25,1750015,7,Región del Maule
-2022-03-26,1751198,7,Región del Maule
-2022-03-27,1752090,7,Región del Maule
-2022-03-28,1755642,7,Región del Maule
-2022-03-29,1758958,7,Región del Maule
-2022-03-30,1762281,7,Región del Maule
-2022-03-31,1764986,7,Región del Maule
-2022-04-01,1767261,7,Región del Maule
+2022-01-19,1449613,7,Región del Maule
+2022-01-20,1454459,7,Región del Maule
+2022-01-21,1459799,7,Región del Maule
+2022-01-22,1461972,7,Región del Maule
+2022-01-23,1463546,7,Región del Maule
+2022-01-24,1470608,7,Región del Maule
+2022-01-25,1477086,7,Región del Maule
+2022-01-26,1484429,7,Región del Maule
+2022-01-27,1491460,7,Región del Maule
+2022-01-28,1498594,7,Región del Maule
+2022-01-29,1501629,7,Región del Maule
+2022-01-30,1503555,7,Región del Maule
+2022-01-31,1511383,7,Región del Maule
+2022-02-01,1518258,7,Región del Maule
+2022-02-02,1525449,7,Región del Maule
+2022-02-03,1533300,7,Región del Maule
+2022-02-04,1540506,7,Región del Maule
+2022-02-05,1543405,7,Región del Maule
+2022-02-06,1545413,7,Región del Maule
+2022-02-07,1553218,7,Región del Maule
+2022-02-08,1561453,7,Región del Maule
+2022-02-09,1569324,7,Región del Maule
+2022-02-10,1576367,7,Región del Maule
+2022-02-11,1582778,7,Región del Maule
+2022-02-12,1585856,7,Región del Maule
+2022-02-13,1587757,7,Región del Maule
+2022-02-14,1594952,7,Región del Maule
+2022-02-15,1600967,7,Región del Maule
+2022-02-16,1606979,7,Región del Maule
+2022-02-17,1613030,7,Región del Maule
+2022-02-18,1618590,7,Región del Maule
+2022-02-19,1620872,7,Región del Maule
+2022-02-20,1622346,7,Región del Maule
+2022-02-21,1628407,7,Región del Maule
+2022-02-22,1633334,7,Región del Maule
+2022-02-23,1637816,7,Región del Maule
+2022-02-24,1642420,7,Región del Maule
+2022-02-25,1646752,7,Región del Maule
+2022-02-26,1648580,7,Región del Maule
+2022-02-27,1649878,7,Región del Maule
+2022-02-28,1655652,7,Región del Maule
+2022-03-01,1660553,7,Región del Maule
+2022-03-02,1665499,7,Región del Maule
+2022-03-03,1669780,7,Región del Maule
+2022-03-04,1674403,7,Región del Maule
+2022-03-05,1676065,7,Región del Maule
+2022-03-06,1677422,7,Región del Maule
+2022-03-07,1682902,7,Región del Maule
+2022-03-08,1687511,7,Región del Maule
+2022-03-09,1692407,7,Región del Maule
+2022-03-10,1697093,7,Región del Maule
+2022-03-11,1701733,7,Región del Maule
+2022-03-12,1703387,7,Región del Maule
+2022-03-13,1704936,7,Región del Maule
+2022-03-14,1710319,7,Región del Maule
+2022-03-15,1715266,7,Región del Maule
+2022-03-16,1719908,7,Región del Maule
+2022-03-17,1724074,7,Región del Maule
+2022-03-18,1727909,7,Región del Maule
+2022-03-19,1729382,7,Región del Maule
+2022-03-20,1730577,7,Región del Maule
+2022-03-21,1735443,7,Región del Maule
+2022-03-22,1739695,7,Región del Maule
+2022-03-23,1743616,7,Región del Maule
+2022-03-24,1747212,7,Región del Maule
+2022-03-25,1750357,7,Región del Maule
+2022-03-26,1751543,7,Región del Maule
+2022-03-27,1752436,7,Región del Maule
+2022-03-28,1755996,7,Región del Maule
+2022-03-29,1759322,7,Región del Maule
+2022-03-30,1762662,7,Región del Maule
+2022-03-31,1765427,7,Región del Maule
+2022-04-01,1767859,7,Región del Maule
+2022-04-02,1768771,7,Región del Maule
+2022-04-03,1769524,7,Región del Maule
+2022-04-04,1772430,7,Región del Maule
+2022-04-05,1775002,7,Región del Maule
+2022-04-06,1777708,7,Región del Maule
+2022-04-07,1780090,7,Región del Maule
+2022-04-08,1782162,7,Región del Maule
+2022-04-09,1782869,7,Región del Maule
 2020-03-15,32,8,Región del Biobío
 2020-03-16,142,8,Región del Biobío
 2020-03-17,300,8,Región del Biobío
@@ -5910,79 +5966,87 @@ fecha,ntestcum,codigo_region,region_residencia
 2022-01-16,2493258,8,Región del Biobío
 2022-01-17,2500390,8,Región del Biobío
 2022-01-18,2508014,8,Región del Biobío
-2022-01-19,2514566,8,Región del Biobío
-2022-01-20,2521523,8,Región del Biobío
-2022-01-21,2528384,8,Región del Biobío
-2022-01-22,2532831,8,Región del Biobío
-2022-01-23,2536375,8,Región del Biobío
-2022-01-24,2546004,8,Región del Biobío
-2022-01-25,2556216,8,Región del Biobío
-2022-01-26,2566301,8,Región del Biobío
-2022-01-27,2575978,8,Región del Biobío
-2022-01-28,2584963,8,Región del Biobío
-2022-01-29,2590723,8,Región del Biobío
-2022-01-30,2594894,8,Región del Biobío
-2022-01-31,2605549,8,Región del Biobío
-2022-02-01,2617182,8,Región del Biobío
-2022-02-02,2627689,8,Región del Biobío
-2022-02-03,2638863,8,Región del Biobío
-2022-02-04,2649546,8,Región del Biobío
-2022-02-05,2655791,8,Región del Biobío
-2022-02-06,2660331,8,Región del Biobío
-2022-02-07,2669884,8,Región del Biobío
-2022-02-08,2681614,8,Región del Biobío
-2022-02-09,2692145,8,Región del Biobío
-2022-02-10,2701460,8,Región del Biobío
-2022-02-11,2710101,8,Región del Biobío
-2022-02-12,2715821,8,Región del Biobío
-2022-02-13,2719876,8,Región del Biobío
-2022-02-14,2728789,8,Región del Biobío
-2022-02-15,2737842,8,Región del Biobío
-2022-02-16,2745555,8,Región del Biobío
-2022-02-17,2753354,8,Región del Biobío
-2022-02-18,2760412,8,Región del Biobío
-2022-02-19,2764813,8,Región del Biobío
-2022-02-20,2767789,8,Región del Biobío
-2022-02-21,2776257,8,Región del Biobío
-2022-02-22,2785276,8,Región del Biobío
-2022-02-23,2793803,8,Región del Biobío
-2022-02-24,2801219,8,Región del Biobío
-2022-02-25,2807898,8,Región del Biobío
-2022-02-26,2812144,8,Región del Biobío
-2022-02-27,2815478,8,Región del Biobío
-2022-02-28,2823349,8,Región del Biobío
-2022-03-01,2830273,8,Región del Biobío
-2022-03-02,2836690,8,Región del Biobío
-2022-03-03,2843041,8,Región del Biobío
-2022-03-04,2849522,8,Región del Biobío
-2022-03-05,2853445,8,Región del Biobío
-2022-03-06,2856864,8,Región del Biobío
-2022-03-07,2864547,8,Región del Biobío
-2022-03-08,2871463,8,Región del Biobío
-2022-03-09,2878129,8,Región del Biobío
-2022-03-10,2884624,8,Región del Biobío
-2022-03-11,2891008,8,Región del Biobío
-2022-03-12,2895090,8,Región del Biobío
-2022-03-13,2898152,8,Región del Biobío
-2022-03-14,2906202,8,Región del Biobío
-2022-03-15,2913456,8,Región del Biobío
-2022-03-16,2920180,8,Región del Biobío
-2022-03-17,2926345,8,Región del Biobío
-2022-03-18,2931886,8,Región del Biobío
-2022-03-19,2935416,8,Región del Biobío
-2022-03-20,2938316,8,Región del Biobío
-2022-03-21,2945252,8,Región del Biobío
-2022-03-22,2951713,8,Región del Biobío
-2022-03-23,2957100,8,Región del Biobío
-2022-03-24,2961702,8,Región del Biobío
-2022-03-25,2965911,8,Región del Biobío
-2022-03-26,2968688,8,Región del Biobío
-2022-03-27,2970834,8,Región del Biobío
-2022-03-28,2976206,8,Región del Biobío
-2022-03-29,2981348,8,Región del Biobío
-2022-03-30,2985598,8,Región del Biobío
-2022-03-31,2989935,8,Región del Biobío
-2022-04-01,2993038,8,Región del Biobío
+2022-01-19,2514567,8,Región del Biobío
+2022-01-20,2521535,8,Región del Biobío
+2022-01-21,2528410,8,Región del Biobío
+2022-01-22,2532864,8,Región del Biobío
+2022-01-23,2536410,8,Región del Biobío
+2022-01-24,2546046,8,Región del Biobío
+2022-01-25,2556273,8,Región del Biobío
+2022-01-26,2566372,8,Región del Biobío
+2022-01-27,2576062,8,Región del Biobío
+2022-01-28,2585064,8,Región del Biobío
+2022-01-29,2590832,8,Región del Biobío
+2022-01-30,2595005,8,Región del Biobío
+2022-01-31,2605676,8,Región del Biobío
+2022-02-01,2617335,8,Región del Biobío
+2022-02-02,2627865,8,Región del Biobío
+2022-02-03,2639066,8,Región del Biobío
+2022-02-04,2649766,8,Región del Biobío
+2022-02-05,2656020,8,Región del Biobío
+2022-02-06,2660567,8,Región del Biobío
+2022-02-07,2670130,8,Región del Biobío
+2022-02-08,2681875,8,Región del Biobío
+2022-02-09,2692419,8,Región del Biobío
+2022-02-10,2701747,8,Región del Biobío
+2022-02-11,2710406,8,Región del Biobío
+2022-02-12,2716135,8,Región del Biobío
+2022-02-13,2720194,8,Región del Biobío
+2022-02-14,2729132,8,Región del Biobío
+2022-02-15,2738202,8,Región del Biobío
+2022-02-16,2745928,8,Región del Biobío
+2022-02-17,2753737,8,Región del Biobío
+2022-02-18,2760818,8,Región del Biobío
+2022-02-19,2765227,8,Región del Biobío
+2022-02-20,2768207,8,Región del Biobío
+2022-02-21,2776684,8,Región del Biobío
+2022-02-22,2785718,8,Región del Biobío
+2022-02-23,2794265,8,Región del Biobío
+2022-02-24,2801698,8,Región del Biobío
+2022-02-25,2808392,8,Región del Biobío
+2022-02-26,2812642,8,Región del Biobío
+2022-02-27,2815981,8,Región del Biobío
+2022-02-28,2823878,8,Región del Biobío
+2022-03-01,2830814,8,Región del Biobío
+2022-03-02,2837241,8,Región del Biobío
+2022-03-03,2843609,8,Región del Biobío
+2022-03-04,2850104,8,Región del Biobío
+2022-03-05,2854029,8,Región del Biobío
+2022-03-06,2857452,8,Región del Biobío
+2022-03-07,2865154,8,Región del Biobío
+2022-03-08,2872086,8,Región del Biobío
+2022-03-09,2878771,8,Región del Biobío
+2022-03-10,2885289,8,Región del Biobío
+2022-03-11,2891699,8,Región del Biobío
+2022-03-12,2895802,8,Región del Biobío
+2022-03-13,2898871,8,Región del Biobío
+2022-03-14,2906941,8,Región del Biobío
+2022-03-15,2914205,8,Región del Biobío
+2022-03-16,2920954,8,Región del Biobío
+2022-03-17,2927148,8,Región del Biobío
+2022-03-18,2932695,8,Región del Biobío
+2022-03-19,2936226,8,Región del Biobío
+2022-03-20,2939128,8,Región del Biobío
+2022-03-21,2946081,8,Región del Biobío
+2022-03-22,2952563,8,Región del Biobío
+2022-03-23,2957963,8,Región del Biobío
+2022-03-24,2962575,8,Región del Biobío
+2022-03-25,2966822,8,Región del Biobío
+2022-03-26,2969738,8,Región del Biobío
+2022-03-27,2971891,8,Región del Biobío
+2022-03-28,2977285,8,Región del Biobío
+2022-03-29,2982446,8,Región del Biobío
+2022-03-30,2986714,8,Región del Biobío
+2022-03-31,2991121,8,Región del Biobío
+2022-04-01,2994630,8,Región del Biobío
+2022-04-02,2996926,8,Región del Biobío
+2022-04-03,2998529,8,Región del Biobío
+2022-04-04,3003228,8,Región del Biobío
+2022-04-05,3007752,8,Región del Biobío
+2022-04-06,3011606,8,Región del Biobío
+2022-04-07,3015192,8,Región del Biobío
+2022-04-08,3018066,8,Región del Biobío
+2022-04-09,3020025,8,Región del Biobío
 2020-03-15,58,9,Región de la Araucanía
 2020-03-16,170,9,Región de la Araucanía
 2020-03-17,271,9,Región de la Araucanía
@@ -6651,86 +6715,94 @@ fecha,ntestcum,codigo_region,region_residencia
 2022-01-09,1192605,9,Región de la Araucanía
 2022-01-10,1196596,9,Región de la Araucanía
 2022-01-11,1200539,9,Región de la Araucanía
-2022-01-12,1204777,9,Región de la Araucanía
-2022-01-13,1209076,9,Región de la Araucanía
-2022-01-14,1213568,9,Región de la Araucanía
-2022-01-15,1215530,9,Región de la Araucanía
-2022-01-16,1216908,9,Región de la Araucanía
-2022-01-17,1221766,9,Región de la Araucanía
-2022-01-18,1226303,9,Región de la Araucanía
-2022-01-19,1231355,9,Región de la Araucanía
-2022-01-20,1236565,9,Región de la Araucanía
-2022-01-21,1241973,9,Región de la Araucanía
-2022-01-22,1244508,9,Región de la Araucanía
-2022-01-23,1246310,9,Región de la Araucanía
-2022-01-24,1252753,9,Región de la Araucanía
-2022-01-25,1259158,9,Región de la Araucanía
-2022-01-26,1266140,9,Región de la Araucanía
-2022-01-27,1272932,9,Región de la Araucanía
-2022-01-28,1278824,9,Región de la Araucanía
-2022-01-29,1281179,9,Región de la Araucanía
-2022-01-30,1283190,9,Región de la Araucanía
-2022-01-31,1290093,9,Región de la Araucanía
-2022-02-01,1296798,9,Región de la Araucanía
-2022-02-02,1303702,9,Región de la Araucanía
-2022-02-03,1310736,9,Región de la Araucanía
-2022-02-04,1317609,9,Región de la Araucanía
-2022-02-05,1320809,9,Región de la Araucanía
-2022-02-06,1323128,9,Región de la Araucanía
-2022-02-07,1330033,9,Región de la Araucanía
-2022-02-08,1336687,9,Región de la Araucanía
-2022-02-09,1342767,9,Región de la Araucanía
-2022-02-10,1348595,9,Región de la Araucanía
-2022-02-11,1353875,9,Región de la Araucanía
-2022-02-12,1356616,9,Región de la Araucanía
-2022-02-13,1358561,9,Región de la Araucanía
-2022-02-14,1363224,9,Región de la Araucanía
-2022-02-15,1368140,9,Región de la Araucanía
-2022-02-16,1373102,9,Región de la Araucanía
-2022-02-17,1378145,9,Región de la Araucanía
-2022-02-18,1383323,9,Región de la Araucanía
-2022-02-19,1386120,9,Región de la Araucanía
-2022-02-20,1388157,9,Región de la Araucanía
-2022-02-21,1393060,9,Región de la Araucanía
-2022-02-22,1397848,9,Región de la Araucanía
-2022-02-23,1402214,9,Región de la Araucanía
-2022-02-24,1406545,9,Región de la Araucanía
-2022-02-25,1410712,9,Región de la Araucanía
-2022-02-26,1412964,9,Región de la Araucanía
-2022-02-27,1414852,9,Región de la Araucanía
-2022-02-28,1419725,9,Región de la Araucanía
-2022-03-01,1423977,9,Región de la Araucanía
-2022-03-02,1427652,9,Región de la Araucanía
-2022-03-03,1431339,9,Región de la Araucanía
-2022-03-04,1434641,9,Región de la Araucanía
-2022-03-05,1436497,9,Región de la Araucanía
-2022-03-06,1437794,9,Región de la Araucanía
-2022-03-07,1441672,9,Región de la Araucanía
-2022-03-08,1445114,9,Región de la Araucanía
-2022-03-09,1448647,9,Región de la Araucanía
-2022-03-10,1452393,9,Región de la Araucanía
-2022-03-11,1456234,9,Región de la Araucanía
-2022-03-12,1458208,9,Región de la Araucanía
-2022-03-13,1459673,9,Región de la Araucanía
-2022-03-14,1464376,9,Región de la Araucanía
-2022-03-15,1468803,9,Región de la Araucanía
-2022-03-16,1473303,9,Región de la Araucanía
-2022-03-17,1477441,9,Región de la Araucanía
-2022-03-18,1481173,9,Región de la Araucanía
-2022-03-19,1482907,9,Región de la Araucanía
-2022-03-20,1484311,9,Región de la Araucanía
-2022-03-21,1488444,9,Región de la Araucanía
-2022-03-22,1492187,9,Región de la Araucanía
-2022-03-23,1495589,9,Región de la Araucanía
-2022-03-24,1498350,9,Región de la Araucanía
-2022-03-25,1501370,9,Región de la Araucanía
-2022-03-26,1502814,9,Región de la Araucanía
-2022-03-27,1503704,9,Región de la Araucanía
-2022-03-28,1506623,9,Región de la Araucanía
-2022-03-29,1509089,9,Región de la Araucanía
-2022-03-30,1511879,9,Región de la Araucanía
-2022-03-31,1514335,9,Región de la Araucanía
-2022-04-01,1516331,9,Región de la Araucanía
+2022-01-12,1204778,9,Región de la Araucanía
+2022-01-13,1209077,9,Región de la Araucanía
+2022-01-14,1213569,9,Región de la Araucanía
+2022-01-15,1215531,9,Región de la Araucanía
+2022-01-16,1216909,9,Región de la Araucanía
+2022-01-17,1221767,9,Región de la Araucanía
+2022-01-18,1226304,9,Región de la Araucanía
+2022-01-19,1231356,9,Región de la Araucanía
+2022-01-20,1236572,9,Región de la Araucanía
+2022-01-21,1241987,9,Región de la Araucanía
+2022-01-22,1244525,9,Región de la Araucanía
+2022-01-23,1246331,9,Región de la Araucanía
+2022-01-24,1252778,9,Región de la Araucanía
+2022-01-25,1259189,9,Región de la Araucanía
+2022-01-26,1266182,9,Región de la Araucanía
+2022-01-27,1272983,9,Región de la Araucanía
+2022-01-28,1278880,9,Región de la Araucanía
+2022-01-29,1281241,9,Región de la Araucanía
+2022-01-30,1283254,9,Región de la Araucanía
+2022-01-31,1290164,9,Región de la Araucanía
+2022-02-01,1296879,9,Región de la Araucanía
+2022-02-02,1303792,9,Región de la Araucanía
+2022-02-03,1310836,9,Región de la Araucanía
+2022-02-04,1317719,9,Región de la Araucanía
+2022-02-05,1320925,9,Región de la Araucanía
+2022-02-06,1323248,9,Región de la Araucanía
+2022-02-07,1330158,9,Región de la Araucanía
+2022-02-08,1336817,9,Región de la Araucanía
+2022-02-09,1342904,9,Región de la Araucanía
+2022-02-10,1348741,9,Región de la Araucanía
+2022-02-11,1354025,9,Región de la Araucanía
+2022-02-12,1356767,9,Región de la Araucanía
+2022-02-13,1358712,9,Región de la Araucanía
+2022-02-14,1363381,9,Región de la Araucanía
+2022-02-15,1368302,9,Región de la Araucanía
+2022-02-16,1373268,9,Región de la Araucanía
+2022-02-17,1378317,9,Región de la Araucanía
+2022-02-18,1383503,9,Región de la Araucanía
+2022-02-19,1386307,9,Región de la Araucanía
+2022-02-20,1388350,9,Región de la Araucanía
+2022-02-21,1393262,9,Región de la Araucanía
+2022-02-22,1398055,9,Región de la Araucanía
+2022-02-23,1402424,9,Región de la Araucanía
+2022-02-24,1406763,9,Región de la Araucanía
+2022-02-25,1410931,9,Región de la Araucanía
+2022-02-26,1413188,9,Región de la Araucanía
+2022-02-27,1415079,9,Región de la Araucanía
+2022-02-28,1419958,9,Región de la Araucanía
+2022-03-01,1424216,9,Región de la Araucanía
+2022-03-02,1427903,9,Región de la Araucanía
+2022-03-03,1431593,9,Región de la Araucanía
+2022-03-04,1434901,9,Región de la Araucanía
+2022-03-05,1436762,9,Región de la Araucanía
+2022-03-06,1438060,9,Región de la Araucanía
+2022-03-07,1441946,9,Región de la Araucanía
+2022-03-08,1445399,9,Región de la Araucanía
+2022-03-09,1448936,9,Región de la Araucanía
+2022-03-10,1452696,9,Región de la Araucanía
+2022-03-11,1456554,9,Región de la Araucanía
+2022-03-12,1458534,9,Región de la Araucanía
+2022-03-13,1460004,9,Región de la Araucanía
+2022-03-14,1464722,9,Región de la Araucanía
+2022-03-15,1469161,9,Región de la Araucanía
+2022-03-16,1473671,9,Región de la Araucanía
+2022-03-17,1477832,9,Región de la Araucanía
+2022-03-18,1481575,9,Región de la Araucanía
+2022-03-19,1483318,9,Región de la Araucanía
+2022-03-20,1484724,9,Región de la Araucanía
+2022-03-21,1488868,9,Región de la Araucanía
+2022-03-22,1492621,9,Región de la Araucanía
+2022-03-23,1496028,9,Región de la Araucanía
+2022-03-24,1498794,9,Región de la Araucanía
+2022-03-25,1501829,9,Región de la Araucanía
+2022-03-26,1503279,9,Región de la Araucanía
+2022-03-27,1504175,9,Región de la Araucanía
+2022-03-28,1507101,9,Región de la Araucanía
+2022-03-29,1509588,9,Región de la Araucanía
+2022-03-30,1512397,9,Región de la Araucanía
+2022-03-31,1514880,9,Región de la Araucanía
+2022-04-01,1517165,9,Región de la Araucanía
+2022-04-02,1518077,9,Región de la Araucanía
+2022-04-03,1518861,9,Región de la Araucanía
+2022-04-04,1521284,9,Región de la Araucanía
+2022-04-05,1523385,9,Región de la Araucanía
+2022-04-06,1525275,9,Región de la Araucanía
+2022-04-07,1527141,9,Región de la Araucanía
+2022-04-08,1529080,9,Región de la Araucanía
+2022-04-09,1529774,9,Región de la Araucanía
 2020-03-15,26,10,Región de Los Lagos
 2020-03-16,77,10,Región de Los Lagos
 2020-03-17,132,10,Región de Los Lagos
@@ -7408,77 +7480,85 @@ fecha,ntestcum,codigo_region,region_residencia
 2022-01-18,2007825,10,Región de Los Lagos
 2022-01-19,2012591,10,Región de Los Lagos
 2022-01-20,2016944,10,Región de Los Lagos
-2022-01-21,2022445,10,Región de Los Lagos
-2022-01-22,2024713,10,Región de Los Lagos
-2022-01-23,2026256,10,Región de Los Lagos
-2022-01-24,2033054,10,Región de Los Lagos
-2022-01-25,2039563,10,Región de Los Lagos
-2022-01-26,2046631,10,Región de Los Lagos
-2022-01-27,2053712,10,Región de Los Lagos
-2022-01-28,2060119,10,Región de Los Lagos
-2022-01-29,2063434,10,Región de Los Lagos
-2022-01-30,2065675,10,Región de Los Lagos
-2022-01-31,2073945,10,Región de Los Lagos
-2022-02-01,2081953,10,Región de Los Lagos
-2022-02-02,2090765,10,Región de Los Lagos
-2022-02-03,2099167,10,Región de Los Lagos
-2022-02-04,2108015,10,Región de Los Lagos
-2022-02-05,2111723,10,Región de Los Lagos
-2022-02-06,2113983,10,Región de Los Lagos
-2022-02-07,2123376,10,Región de Los Lagos
-2022-02-08,2132064,10,Región de Los Lagos
-2022-02-09,2140324,10,Región de Los Lagos
-2022-02-10,2148350,10,Región de Los Lagos
-2022-02-11,2154741,10,Región de Los Lagos
-2022-02-12,2158066,10,Región de Los Lagos
-2022-02-13,2160046,10,Región de Los Lagos
-2022-02-14,2167826,10,Región de Los Lagos
-2022-02-15,2175022,10,Región de Los Lagos
-2022-02-16,2182147,10,Región de Los Lagos
-2022-02-17,2188221,10,Región de Los Lagos
-2022-02-18,2193997,10,Región de Los Lagos
-2022-02-19,2197341,10,Región de Los Lagos
-2022-02-20,2198772,10,Región de Los Lagos
-2022-02-21,2205436,10,Región de Los Lagos
-2022-02-22,2210825,10,Región de Los Lagos
-2022-02-23,2216240,10,Región de Los Lagos
-2022-02-24,2220678,10,Región de Los Lagos
-2022-02-25,2224880,10,Región de Los Lagos
-2022-02-26,2227139,10,Región de Los Lagos
-2022-02-27,2228527,10,Región de Los Lagos
-2022-02-28,2233404,10,Región de Los Lagos
-2022-03-01,2237946,10,Región de Los Lagos
-2022-03-02,2242077,10,Región de Los Lagos
-2022-03-03,2245263,10,Región de Los Lagos
-2022-03-04,2248598,10,Región de Los Lagos
-2022-03-05,2250428,10,Región de Los Lagos
-2022-03-06,2251401,10,Región de Los Lagos
-2022-03-07,2256526,10,Región de Los Lagos
-2022-03-08,2260047,10,Región de Los Lagos
-2022-03-09,2263453,10,Región de Los Lagos
-2022-03-10,2267009,10,Región de Los Lagos
-2022-03-11,2270247,10,Región de Los Lagos
-2022-03-12,2271745,10,Región de Los Lagos
-2022-03-13,2272555,10,Región de Los Lagos
-2022-03-14,2278006,10,Región de Los Lagos
-2022-03-15,2282308,10,Región de Los Lagos
-2022-03-16,2286130,10,Región de Los Lagos
-2022-03-17,2289531,10,Región de Los Lagos
-2022-03-18,2292728,10,Región de Los Lagos
-2022-03-19,2294377,10,Región de Los Lagos
-2022-03-20,2295495,10,Región de Los Lagos
-2022-03-21,2300428,10,Región de Los Lagos
-2022-03-22,2304769,10,Región de Los Lagos
-2022-03-23,2307930,10,Región de Los Lagos
-2022-03-24,2310675,10,Región de Los Lagos
-2022-03-25,2313486,10,Región de Los Lagos
-2022-03-26,2314778,10,Región de Los Lagos
-2022-03-27,2315591,10,Región de Los Lagos
-2022-03-28,2319752,10,Región de Los Lagos
-2022-03-29,2322730,10,Región de Los Lagos
-2022-03-30,2325574,10,Región de Los Lagos
-2022-03-31,2327992,10,Región de Los Lagos
-2022-04-01,2330189,10,Región de Los Lagos
+2022-01-21,2022450,10,Región de Los Lagos
+2022-01-22,2024718,10,Región de Los Lagos
+2022-01-23,2026260,10,Región de Los Lagos
+2022-01-24,2033067,10,Región de Los Lagos
+2022-01-25,2039579,10,Región de Los Lagos
+2022-01-26,2046650,10,Región de Los Lagos
+2022-01-27,2053736,10,Región de Los Lagos
+2022-01-28,2060145,10,Región de Los Lagos
+2022-01-29,2063460,10,Región de Los Lagos
+2022-01-30,2065703,10,Región de Los Lagos
+2022-01-31,2073975,10,Región de Los Lagos
+2022-02-01,2081986,10,Región de Los Lagos
+2022-02-02,2090806,10,Región de Los Lagos
+2022-02-03,2099209,10,Región de Los Lagos
+2022-02-04,2108056,10,Región de Los Lagos
+2022-02-05,2111767,10,Región de Los Lagos
+2022-02-06,2114027,10,Región de Los Lagos
+2022-02-07,2123427,10,Región de Los Lagos
+2022-02-08,2132119,10,Región de Los Lagos
+2022-02-09,2140388,10,Región de Los Lagos
+2022-02-10,2148420,10,Región de Los Lagos
+2022-02-11,2154810,10,Región de Los Lagos
+2022-02-12,2158136,10,Región de Los Lagos
+2022-02-13,2160116,10,Región de Los Lagos
+2022-02-14,2167901,10,Región de Los Lagos
+2022-02-15,2175103,10,Región de Los Lagos
+2022-02-16,2182234,10,Región de Los Lagos
+2022-02-17,2188310,10,Región de Los Lagos
+2022-02-18,2194089,10,Región de Los Lagos
+2022-02-19,2197436,10,Región de Los Lagos
+2022-02-20,2198869,10,Región de Los Lagos
+2022-02-21,2205537,10,Región de Los Lagos
+2022-02-22,2210932,10,Región de Los Lagos
+2022-02-23,2216348,10,Región de Los Lagos
+2022-02-24,2220790,10,Región de Los Lagos
+2022-02-25,2224994,10,Región de Los Lagos
+2022-02-26,2227250,10,Región de Los Lagos
+2022-02-27,2228637,10,Región de Los Lagos
+2022-02-28,2233515,10,Región de Los Lagos
+2022-03-01,2238062,10,Región de Los Lagos
+2022-03-02,2242193,10,Región de Los Lagos
+2022-03-03,2245380,10,Región de Los Lagos
+2022-03-04,2248717,10,Región de Los Lagos
+2022-03-05,2250545,10,Región de Los Lagos
+2022-03-06,2251522,10,Región de Los Lagos
+2022-03-07,2256653,10,Región de Los Lagos
+2022-03-08,2260181,10,Región de Los Lagos
+2022-03-09,2263587,10,Región de Los Lagos
+2022-03-10,2267144,10,Región de Los Lagos
+2022-03-11,2270387,10,Región de Los Lagos
+2022-03-12,2271885,10,Región de Los Lagos
+2022-03-13,2272697,10,Región de Los Lagos
+2022-03-14,2278152,10,Región de Los Lagos
+2022-03-15,2282457,10,Región de Los Lagos
+2022-03-16,2286281,10,Región de Los Lagos
+2022-03-17,2289687,10,Región de Los Lagos
+2022-03-18,2292886,10,Región de Los Lagos
+2022-03-19,2294536,10,Región de Los Lagos
+2022-03-20,2295655,10,Región de Los Lagos
+2022-03-21,2300596,10,Región de Los Lagos
+2022-03-22,2304944,10,Región de Los Lagos
+2022-03-23,2308112,10,Región de Los Lagos
+2022-03-24,2310860,10,Región de Los Lagos
+2022-03-25,2313679,10,Región de Los Lagos
+2022-03-26,2314977,10,Región de Los Lagos
+2022-03-27,2315791,10,Región de Los Lagos
+2022-03-28,2319968,10,Región de Los Lagos
+2022-03-29,2322956,10,Región de Los Lagos
+2022-03-30,2325814,10,Región de Los Lagos
+2022-03-31,2328254,10,Región de Los Lagos
+2022-04-01,2330712,10,Región de Los Lagos
+2022-04-02,2331809,10,Región de Los Lagos
+2022-04-03,2332521,10,Región de Los Lagos
+2022-04-04,2336353,10,Región de Los Lagos
+2022-04-05,2338894,10,Región de Los Lagos
+2022-04-06,2341299,10,Región de Los Lagos
+2022-04-07,2343521,10,Región de Los Lagos
+2022-04-08,2345342,10,Región de Los Lagos
+2022-04-09,2346264,10,Región de Los Lagos
 2020-03-15,4,11,Región de Aysén del General Carlos Ibáñez del Campo
 2020-03-16,9,11,Región de Aysén del General Carlos Ibáñez del Campo
 2020-03-17,20,11,Región de Aysén del General Carlos Ibáñez del Campo
@@ -8156,77 +8236,85 @@ fecha,ntestcum,codigo_region,region_residencia
 2022-01-18,315553,11,Región de Aysén del General Carlos Ibáñez del Campo
 2022-01-19,316378,11,Región de Aysén del General Carlos Ibáñez del Campo
 2022-01-20,317466,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-01-21,318624,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-01-22,319040,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-01-23,319372,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-01-24,320898,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-01-25,322203,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-01-26,323545,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-01-27,324590,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-01-28,325676,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-01-29,326219,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-01-30,326554,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-01-31,327860,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-01,329015,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-02,330268,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-03,331550,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-04,332891,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-05,333348,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-06,333702,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-07,335178,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-08,336308,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-09,337506,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-10,338531,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-11,339514,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-12,339935,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-13,340245,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-14,341362,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-15,342198,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-16,343029,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-17,343903,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-18,344707,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-19,345026,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-20,345234,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-21,346116,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-22,346876,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-23,347511,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-24,348176,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-25,348706,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-26,348942,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-27,349125,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-02-28,349873,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-01,350339,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-02,350879,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-03,351367,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-04,351817,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-05,352012,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-06,352185,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-07,352939,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-08,353473,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-09,354029,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-10,354671,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-11,355163,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-12,355334,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-13,355498,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-14,356299,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-15,356879,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-16,357472,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-17,358007,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-18,358516,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-19,358689,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-20,358815,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-21,359495,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-22,359997,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-23,360453,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-24,360885,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-25,361306,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-26,361457,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-27,361574,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-28,362080,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-29,362405,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-30,362835,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-03-31,363205,11,Región de Aysén del General Carlos Ibáñez del Campo
-2022-04-01,363526,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-01-21,318625,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-01-22,319041,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-01-23,319374,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-01-24,320903,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-01-25,322208,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-01-26,323552,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-01-27,324599,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-01-28,325685,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-01-29,326229,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-01-30,326564,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-01-31,327872,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-01,329029,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-02,330283,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-03,331566,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-04,332910,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-05,333369,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-06,333723,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-07,335201,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-08,336332,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-09,337535,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-10,338561,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-11,339545,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-12,339968,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-13,340278,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-14,341395,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-15,342233,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-16,343064,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-17,343939,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-18,344743,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-19,345062,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-20,345271,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-21,346155,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-22,346915,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-23,347551,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-24,348217,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-25,348748,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-26,348987,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-27,349170,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-02-28,349921,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-01,350390,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-02,350930,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-03,351418,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-04,351868,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-05,352063,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-06,352236,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-07,352991,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-08,353525,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-09,354084,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-10,354727,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-11,355220,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-12,355391,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-13,355555,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-14,356358,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-15,356939,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-16,357532,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-17,358067,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-18,358577,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-19,358749,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-20,358876,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-21,359557,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-22,360061,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-23,360517,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-24,360950,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-25,361373,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-26,361525,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-27,361642,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-28,362153,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-29,362481,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-30,362918,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-03-31,363307,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-04-01,363663,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-04-02,363794,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-04-03,363872,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-04-04,364334,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-04-05,364687,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-04-06,365016,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-04-07,365276,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-04-08,365599,11,Región de Aysén del General Carlos Ibáñez del Campo
+2022-04-09,365712,11,Región de Aysén del General Carlos Ibáñez del Campo
 2020-03-15,9,12,Región de Magallanes y la Antártica Chilena
 2020-03-16,35,12,Región de Magallanes y la Antártica Chilena
 2020-03-17,59,12,Región de Magallanes y la Antártica Chilena
@@ -8901,80 +8989,88 @@ fecha,ntestcum,codigo_region,region_residencia
 2022-01-15,387608,12,Región de Magallanes y la Antártica Chilena
 2022-01-16,387935,12,Región de Magallanes y la Antártica Chilena
 2022-01-17,389780,12,Región de Magallanes y la Antártica Chilena
-2022-01-18,391302,12,Región de Magallanes y la Antártica Chilena
-2022-01-19,392886,12,Región de Magallanes y la Antártica Chilena
-2022-01-20,394346,12,Región de Magallanes y la Antártica Chilena
-2022-01-21,396080,12,Región de Magallanes y la Antártica Chilena
-2022-01-22,396804,12,Región de Magallanes y la Antártica Chilena
-2022-01-23,397363,12,Región de Magallanes y la Antártica Chilena
-2022-01-24,399220,12,Región de Magallanes y la Antártica Chilena
-2022-01-25,400827,12,Región de Magallanes y la Antártica Chilena
-2022-01-26,402388,12,Región de Magallanes y la Antártica Chilena
-2022-01-27,403631,12,Región de Magallanes y la Antártica Chilena
-2022-01-28,404908,12,Región de Magallanes y la Antártica Chilena
-2022-01-29,405623,12,Región de Magallanes y la Antártica Chilena
-2022-01-30,406179,12,Región de Magallanes y la Antártica Chilena
-2022-01-31,407591,12,Región de Magallanes y la Antártica Chilena
-2022-02-01,408892,12,Región de Magallanes y la Antártica Chilena
-2022-02-02,410229,12,Región de Magallanes y la Antártica Chilena
-2022-02-03,411330,12,Región de Magallanes y la Antártica Chilena
-2022-02-04,412402,12,Región de Magallanes y la Antártica Chilena
-2022-02-05,412961,12,Región de Magallanes y la Antártica Chilena
-2022-02-06,413354,12,Región de Magallanes y la Antártica Chilena
-2022-02-07,414524,12,Región de Magallanes y la Antártica Chilena
-2022-02-08,415467,12,Región de Magallanes y la Antártica Chilena
-2022-02-09,416462,12,Región de Magallanes y la Antártica Chilena
-2022-02-10,417296,12,Región de Magallanes y la Antártica Chilena
-2022-02-11,418171,12,Región de Magallanes y la Antártica Chilena
-2022-02-12,418596,12,Región de Magallanes y la Antártica Chilena
-2022-02-13,418851,12,Región de Magallanes y la Antártica Chilena
-2022-02-14,419766,12,Región de Magallanes y la Antártica Chilena
-2022-02-15,420633,12,Región de Magallanes y la Antártica Chilena
-2022-02-16,421472,12,Región de Magallanes y la Antártica Chilena
-2022-02-17,422274,12,Región de Magallanes y la Antártica Chilena
-2022-02-18,423001,12,Región de Magallanes y la Antártica Chilena
-2022-02-19,423328,12,Región de Magallanes y la Antártica Chilena
-2022-02-20,423573,12,Región de Magallanes y la Antártica Chilena
-2022-02-21,424554,12,Región de Magallanes y la Antártica Chilena
-2022-02-22,425320,12,Región de Magallanes y la Antártica Chilena
-2022-02-23,426014,12,Región de Magallanes y la Antártica Chilena
-2022-02-24,426829,12,Región de Magallanes y la Antártica Chilena
-2022-02-25,427442,12,Región de Magallanes y la Antártica Chilena
-2022-02-26,427713,12,Región de Magallanes y la Antártica Chilena
-2022-02-27,427904,12,Región de Magallanes y la Antártica Chilena
-2022-02-28,428678,12,Región de Magallanes y la Antártica Chilena
-2022-03-01,429265,12,Región de Magallanes y la Antártica Chilena
-2022-03-02,429761,12,Región de Magallanes y la Antártica Chilena
-2022-03-03,430362,12,Región de Magallanes y la Antártica Chilena
-2022-03-04,431004,12,Región de Magallanes y la Antártica Chilena
-2022-03-05,431329,12,Región de Magallanes y la Antártica Chilena
-2022-03-06,431612,12,Región de Magallanes y la Antártica Chilena
-2022-03-07,432401,12,Región de Magallanes y la Antártica Chilena
-2022-03-08,433037,12,Región de Magallanes y la Antártica Chilena
-2022-03-09,433638,12,Región de Magallanes y la Antártica Chilena
-2022-03-10,434169,12,Región de Magallanes y la Antártica Chilena
-2022-03-11,434947,12,Región de Magallanes y la Antártica Chilena
-2022-03-12,435311,12,Región de Magallanes y la Antártica Chilena
-2022-03-13,435625,12,Región de Magallanes y la Antártica Chilena
-2022-03-14,436659,12,Región de Magallanes y la Antártica Chilena
-2022-03-15,437599,12,Región de Magallanes y la Antártica Chilena
-2022-03-16,438409,12,Región de Magallanes y la Antártica Chilena
-2022-03-17,439164,12,Región de Magallanes y la Antártica Chilena
-2022-03-18,439866,12,Región de Magallanes y la Antártica Chilena
-2022-03-19,440208,12,Región de Magallanes y la Antártica Chilena
-2022-03-20,440496,12,Región de Magallanes y la Antártica Chilena
-2022-03-21,441432,12,Región de Magallanes y la Antártica Chilena
-2022-03-22,442233,12,Región de Magallanes y la Antártica Chilena
-2022-03-23,442859,12,Región de Magallanes y la Antártica Chilena
-2022-03-24,443418,12,Región de Magallanes y la Antártica Chilena
-2022-03-25,443992,12,Región de Magallanes y la Antártica Chilena
-2022-03-26,444309,12,Región de Magallanes y la Antártica Chilena
-2022-03-27,444566,12,Región de Magallanes y la Antártica Chilena
-2022-03-28,445260,12,Región de Magallanes y la Antártica Chilena
-2022-03-29,445849,12,Región de Magallanes y la Antártica Chilena
-2022-03-30,446384,12,Región de Magallanes y la Antártica Chilena
-2022-03-31,446801,12,Región de Magallanes y la Antártica Chilena
-2022-04-01,447244,12,Región de Magallanes y la Antártica Chilena
+2022-01-18,391304,12,Región de Magallanes y la Antártica Chilena
+2022-01-19,392888,12,Región de Magallanes y la Antártica Chilena
+2022-01-20,394350,12,Región de Magallanes y la Antártica Chilena
+2022-01-21,396082,12,Región de Magallanes y la Antártica Chilena
+2022-01-22,396807,12,Región de Magallanes y la Antártica Chilena
+2022-01-23,397367,12,Región de Magallanes y la Antártica Chilena
+2022-01-24,399224,12,Región de Magallanes y la Antártica Chilena
+2022-01-25,400831,12,Región de Magallanes y la Antártica Chilena
+2022-01-26,402393,12,Región de Magallanes y la Antártica Chilena
+2022-01-27,403640,12,Región de Magallanes y la Antártica Chilena
+2022-01-28,404917,12,Región de Magallanes y la Antártica Chilena
+2022-01-29,405630,12,Región de Magallanes y la Antártica Chilena
+2022-01-30,406186,12,Región de Magallanes y la Antártica Chilena
+2022-01-31,407600,12,Región de Magallanes y la Antártica Chilena
+2022-02-01,408900,12,Región de Magallanes y la Antártica Chilena
+2022-02-02,410238,12,Región de Magallanes y la Antártica Chilena
+2022-02-03,411340,12,Región de Magallanes y la Antártica Chilena
+2022-02-04,412412,12,Región de Magallanes y la Antártica Chilena
+2022-02-05,412971,12,Región de Magallanes y la Antártica Chilena
+2022-02-06,413364,12,Región de Magallanes y la Antártica Chilena
+2022-02-07,414535,12,Región de Magallanes y la Antártica Chilena
+2022-02-08,415477,12,Región de Magallanes y la Antártica Chilena
+2022-02-09,416471,12,Región de Magallanes y la Antártica Chilena
+2022-02-10,417304,12,Región de Magallanes y la Antártica Chilena
+2022-02-11,418178,12,Región de Magallanes y la Antártica Chilena
+2022-02-12,418603,12,Región de Magallanes y la Antártica Chilena
+2022-02-13,418858,12,Región de Magallanes y la Antártica Chilena
+2022-02-14,419773,12,Región de Magallanes y la Antártica Chilena
+2022-02-15,420641,12,Región de Magallanes y la Antártica Chilena
+2022-02-16,421477,12,Región de Magallanes y la Antártica Chilena
+2022-02-17,422279,12,Región de Magallanes y la Antártica Chilena
+2022-02-18,423006,12,Región de Magallanes y la Antártica Chilena
+2022-02-19,423333,12,Región de Magallanes y la Antártica Chilena
+2022-02-20,423578,12,Región de Magallanes y la Antártica Chilena
+2022-02-21,424559,12,Región de Magallanes y la Antártica Chilena
+2022-02-22,425326,12,Región de Magallanes y la Antártica Chilena
+2022-02-23,426024,12,Región de Magallanes y la Antártica Chilena
+2022-02-24,426837,12,Región de Magallanes y la Antártica Chilena
+2022-02-25,427452,12,Región de Magallanes y la Antártica Chilena
+2022-02-26,427726,12,Región de Magallanes y la Antártica Chilena
+2022-02-27,427920,12,Región de Magallanes y la Antártica Chilena
+2022-02-28,428723,12,Región de Magallanes y la Antártica Chilena
+2022-03-01,429312,12,Región de Magallanes y la Antártica Chilena
+2022-03-02,429808,12,Región de Magallanes y la Antártica Chilena
+2022-03-03,430412,12,Región de Magallanes y la Antártica Chilena
+2022-03-04,431054,12,Región de Magallanes y la Antártica Chilena
+2022-03-05,431380,12,Región de Magallanes y la Antártica Chilena
+2022-03-06,431663,12,Región de Magallanes y la Antártica Chilena
+2022-03-07,432450,12,Región de Magallanes y la Antártica Chilena
+2022-03-08,433086,12,Región de Magallanes y la Antártica Chilena
+2022-03-09,433689,12,Región de Magallanes y la Antártica Chilena
+2022-03-10,434220,12,Región de Magallanes y la Antártica Chilena
+2022-03-11,435002,12,Región de Magallanes y la Antártica Chilena
+2022-03-12,435368,12,Región de Magallanes y la Antártica Chilena
+2022-03-13,435684,12,Región de Magallanes y la Antártica Chilena
+2022-03-14,436716,12,Región de Magallanes y la Antártica Chilena
+2022-03-15,437655,12,Región de Magallanes y la Antártica Chilena
+2022-03-16,438465,12,Región de Magallanes y la Antártica Chilena
+2022-03-17,439220,12,Región de Magallanes y la Antártica Chilena
+2022-03-18,439925,12,Región de Magallanes y la Antártica Chilena
+2022-03-19,440266,12,Región de Magallanes y la Antártica Chilena
+2022-03-20,440555,12,Región de Magallanes y la Antártica Chilena
+2022-03-21,441491,12,Región de Magallanes y la Antártica Chilena
+2022-03-22,442295,12,Región de Magallanes y la Antártica Chilena
+2022-03-23,442922,12,Región de Magallanes y la Antártica Chilena
+2022-03-24,443483,12,Región de Magallanes y la Antártica Chilena
+2022-03-25,444058,12,Región de Magallanes y la Antártica Chilena
+2022-03-26,444376,12,Región de Magallanes y la Antártica Chilena
+2022-03-27,444632,12,Región de Magallanes y la Antártica Chilena
+2022-03-28,445332,12,Región de Magallanes y la Antártica Chilena
+2022-03-29,445920,12,Región de Magallanes y la Antártica Chilena
+2022-03-30,446458,12,Región de Magallanes y la Antártica Chilena
+2022-03-31,446889,12,Región de Magallanes y la Antártica Chilena
+2022-04-01,447353,12,Región de Magallanes y la Antártica Chilena
+2022-04-02,447626,12,Región de Magallanes y la Antártica Chilena
+2022-04-03,447820,12,Región de Magallanes y la Antártica Chilena
+2022-04-04,448383,12,Región de Magallanes y la Antártica Chilena
+2022-04-05,448818,12,Región de Magallanes y la Antártica Chilena
+2022-04-06,449223,12,Región de Magallanes y la Antártica Chilena
+2022-04-07,449574,12,Región de Magallanes y la Antártica Chilena
+2022-04-08,449944,12,Región de Magallanes y la Antártica Chilena
+2022-04-09,450173,12,Región de Magallanes y la Antártica Chilena
 2020-03-15,542,13,Región Metropolitana de Santiago
 2020-03-16,1767,13,Región Metropolitana de Santiago
 2020-03-17,3189,13,Región Metropolitana de Santiago
@@ -9649,80 +9745,88 @@ fecha,ntestcum,codigo_region,region_residencia
 2022-01-15,7716800,13,Región Metropolitana de Santiago
 2022-01-16,7726650,13,Región Metropolitana de Santiago
 2022-01-17,7757212,13,Región Metropolitana de Santiago
-2022-01-18,7788795,13,Región Metropolitana de Santiago
-2022-01-19,7820794,13,Región Metropolitana de Santiago
-2022-01-20,7853932,13,Región Metropolitana de Santiago
-2022-01-21,7886122,13,Región Metropolitana de Santiago
-2022-01-22,7905810,13,Región Metropolitana de Santiago
-2022-01-23,7920496,13,Región Metropolitana de Santiago
-2022-01-24,7957129,13,Región Metropolitana de Santiago
-2022-01-25,7996232,13,Región Metropolitana de Santiago
-2022-01-26,8036965,13,Región Metropolitana de Santiago
-2022-01-27,8073496,13,Región Metropolitana de Santiago
-2022-01-28,8110370,13,Región Metropolitana de Santiago
-2022-01-29,8132481,13,Región Metropolitana de Santiago
-2022-01-30,8146889,13,Región Metropolitana de Santiago
-2022-01-31,8183678,13,Región Metropolitana de Santiago
-2022-02-01,8220780,13,Región Metropolitana de Santiago
-2022-02-02,8255571,13,Región Metropolitana de Santiago
-2022-02-03,8288659,13,Región Metropolitana de Santiago
-2022-02-04,8319897,13,Región Metropolitana de Santiago
-2022-02-05,8339529,13,Región Metropolitana de Santiago
-2022-02-06,8353724,13,Región Metropolitana de Santiago
-2022-02-07,8386454,13,Región Metropolitana de Santiago
-2022-02-08,8417909,13,Región Metropolitana de Santiago
-2022-02-09,8447299,13,Región Metropolitana de Santiago
-2022-02-10,8475292,13,Región Metropolitana de Santiago
-2022-02-11,8501351,13,Región Metropolitana de Santiago
-2022-02-12,8517921,13,Región Metropolitana de Santiago
-2022-02-13,8530111,13,Región Metropolitana de Santiago
-2022-02-14,8557862,13,Región Metropolitana de Santiago
-2022-02-15,8583495,13,Región Metropolitana de Santiago
-2022-02-16,8607886,13,Región Metropolitana de Santiago
-2022-02-17,8630080,13,Región Metropolitana de Santiago
-2022-02-18,8651628,13,Región Metropolitana de Santiago
-2022-02-19,8665769,13,Región Metropolitana de Santiago
-2022-02-20,8677276,13,Región Metropolitana de Santiago
-2022-02-21,8701391,13,Región Metropolitana de Santiago
-2022-02-22,8724224,13,Región Metropolitana de Santiago
-2022-02-23,8745826,13,Región Metropolitana de Santiago
-2022-02-24,8764624,13,Región Metropolitana de Santiago
-2022-02-25,8784319,13,Región Metropolitana de Santiago
-2022-02-26,8797385,13,Región Metropolitana de Santiago
-2022-02-27,8807787,13,Región Metropolitana de Santiago
-2022-02-28,8830368,13,Región Metropolitana de Santiago
-2022-03-01,8850621,13,Región Metropolitana de Santiago
-2022-03-02,8869918,13,Región Metropolitana de Santiago
-2022-03-03,8887156,13,Región Metropolitana de Santiago
-2022-03-04,8904925,13,Región Metropolitana de Santiago
-2022-03-05,8916933,13,Región Metropolitana de Santiago
-2022-03-06,8926786,13,Región Metropolitana de Santiago
-2022-03-07,8948181,13,Región Metropolitana de Santiago
-2022-03-08,8966404,13,Región Metropolitana de Santiago
-2022-03-09,8984895,13,Región Metropolitana de Santiago
-2022-03-10,9003045,13,Región Metropolitana de Santiago
-2022-03-11,9020054,13,Región Metropolitana de Santiago
-2022-03-12,9031479,13,Región Metropolitana de Santiago
-2022-03-13,9040147,13,Región Metropolitana de Santiago
-2022-03-14,9063105,13,Región Metropolitana de Santiago
-2022-03-15,9083883,13,Región Metropolitana de Santiago
-2022-03-16,9103316,13,Región Metropolitana de Santiago
-2022-03-17,9120963,13,Región Metropolitana de Santiago
-2022-03-18,9137633,13,Región Metropolitana de Santiago
-2022-03-19,9147748,13,Región Metropolitana de Santiago
-2022-03-20,9155495,13,Región Metropolitana de Santiago
-2022-03-21,9175414,13,Región Metropolitana de Santiago
-2022-03-22,9194890,13,Región Metropolitana de Santiago
-2022-03-23,9212515,13,Región Metropolitana de Santiago
-2022-03-24,9227879,13,Región Metropolitana de Santiago
-2022-03-25,9242541,13,Región Metropolitana de Santiago
-2022-03-26,9252452,13,Región Metropolitana de Santiago
-2022-03-27,9259463,13,Región Metropolitana de Santiago
-2022-03-28,9277024,13,Región Metropolitana de Santiago
-2022-03-29,9291790,13,Región Metropolitana de Santiago
-2022-03-30,9306915,13,Región Metropolitana de Santiago
-2022-03-31,9322262,13,Región Metropolitana de Santiago
-2022-04-01,9331841,13,Región Metropolitana de Santiago
+2022-01-18,7788798,13,Región Metropolitana de Santiago
+2022-01-19,7820806,13,Región Metropolitana de Santiago
+2022-01-20,7853976,13,Región Metropolitana de Santiago
+2022-01-21,7886234,13,Región Metropolitana de Santiago
+2022-01-22,7905937,13,Región Metropolitana de Santiago
+2022-01-23,7920645,13,Región Metropolitana de Santiago
+2022-01-24,7957329,13,Región Metropolitana de Santiago
+2022-01-25,7996487,13,Región Metropolitana de Santiago
+2022-01-26,8037275,13,Región Metropolitana de Santiago
+2022-01-27,8073864,13,Región Metropolitana de Santiago
+2022-01-28,8110799,13,Región Metropolitana de Santiago
+2022-01-29,8132932,13,Región Metropolitana de Santiago
+2022-01-30,8147366,13,Región Metropolitana de Santiago
+2022-01-31,8184195,13,Región Metropolitana de Santiago
+2022-02-01,8221352,13,Región Metropolitana de Santiago
+2022-02-02,8256194,13,Región Metropolitana de Santiago
+2022-02-03,8289332,13,Región Metropolitana de Santiago
+2022-02-04,8320619,13,Región Metropolitana de Santiago
+2022-02-05,8340283,13,Región Metropolitana de Santiago
+2022-02-06,8354504,13,Región Metropolitana de Santiago
+2022-02-07,8387294,13,Región Metropolitana de Santiago
+2022-02-08,8418781,13,Región Metropolitana de Santiago
+2022-02-09,8448206,13,Región Metropolitana de Santiago
+2022-02-10,8476240,13,Región Metropolitana de Santiago
+2022-02-11,8502336,13,Región Metropolitana de Santiago
+2022-02-12,8518945,13,Región Metropolitana de Santiago
+2022-02-13,8531150,13,Región Metropolitana de Santiago
+2022-02-14,8558940,13,Región Metropolitana de Santiago
+2022-02-15,8584600,13,Región Metropolitana de Santiago
+2022-02-16,8609035,13,Región Metropolitana de Santiago
+2022-02-17,8631274,13,Región Metropolitana de Santiago
+2022-02-18,8652884,13,Región Metropolitana de Santiago
+2022-02-19,8667053,13,Región Metropolitana de Santiago
+2022-02-20,8678575,13,Región Metropolitana de Santiago
+2022-02-21,8702740,13,Región Metropolitana de Santiago
+2022-02-22,8725608,13,Región Metropolitana de Santiago
+2022-02-23,8747261,13,Región Metropolitana de Santiago
+2022-02-24,8766111,13,Región Metropolitana de Santiago
+2022-02-25,8785851,13,Región Metropolitana de Santiago
+2022-02-26,8798941,13,Región Metropolitana de Santiago
+2022-02-27,8809368,13,Región Metropolitana de Santiago
+2022-02-28,8831980,13,Región Metropolitana de Santiago
+2022-03-01,8852280,13,Región Metropolitana de Santiago
+2022-03-02,8871606,13,Región Metropolitana de Santiago
+2022-03-03,8888879,13,Región Metropolitana de Santiago
+2022-03-04,8906685,13,Región Metropolitana de Santiago
+2022-03-05,8918712,13,Región Metropolitana de Santiago
+2022-03-06,8928577,13,Región Metropolitana de Santiago
+2022-03-07,8949995,13,Región Metropolitana de Santiago
+2022-03-08,8968250,13,Región Metropolitana de Santiago
+2022-03-09,8986777,13,Región Metropolitana de Santiago
+2022-03-10,9004952,13,Región Metropolitana de Santiago
+2022-03-11,9021996,13,Región Metropolitana de Santiago
+2022-03-12,9033444,13,Región Metropolitana de Santiago
+2022-03-13,9042122,13,Región Metropolitana de Santiago
+2022-03-14,9065115,13,Región Metropolitana de Santiago
+2022-03-15,9085931,13,Región Metropolitana de Santiago
+2022-03-16,9105399,13,Región Metropolitana de Santiago
+2022-03-17,9123093,13,Región Metropolitana de Santiago
+2022-03-18,9139796,13,Región Metropolitana de Santiago
+2022-03-19,9149930,13,Región Metropolitana de Santiago
+2022-03-20,9157691,13,Región Metropolitana de Santiago
+2022-03-21,9177643,13,Región Metropolitana de Santiago
+2022-03-22,9197155,13,Región Metropolitana de Santiago
+2022-03-23,9214822,13,Región Metropolitana de Santiago
+2022-03-24,9230221,13,Región Metropolitana de Santiago
+2022-03-25,9244920,13,Región Metropolitana de Santiago
+2022-03-26,9254867,13,Región Metropolitana de Santiago
+2022-03-27,9261916,13,Región Metropolitana de Santiago
+2022-03-28,9279586,13,Región Metropolitana de Santiago
+2022-03-29,9294459,13,Región Metropolitana de Santiago
+2022-03-30,9309676,13,Región Metropolitana de Santiago
+2022-03-31,9325457,13,Región Metropolitana de Santiago
+2022-04-01,9336450,13,Región Metropolitana de Santiago
+2022-04-02,9343406,13,Región Metropolitana de Santiago
+2022-04-03,9349926,13,Región Metropolitana de Santiago
+2022-04-04,9364757,13,Región Metropolitana de Santiago
+2022-04-05,9378162,13,Región Metropolitana de Santiago
+2022-04-06,9390464,13,Región Metropolitana de Santiago
+2022-04-07,9402044,13,Región Metropolitana de Santiago
+2022-04-08,9412601,13,Región Metropolitana de Santiago
+2022-04-09,9419338,13,Región Metropolitana de Santiago
 2020-03-15,8,14,Región de Los Ríos
 2020-03-16,22,14,Región de Los Ríos
 2020-03-17,30,14,Región de Los Ríos
@@ -10399,78 +10503,86 @@ fecha,ntestcum,codigo_region,region_residencia
 2022-01-17,604764,14,Región de Los Ríos
 2022-01-18,606757,14,Región de Los Ríos
 2022-01-19,609011,14,Región de Los Ríos
-2022-01-20,611386,14,Región de Los Ríos
-2022-01-21,613554,14,Región de Los Ríos
-2022-01-22,614665,14,Región de Los Ríos
-2022-01-23,615731,14,Región de Los Ríos
-2022-01-24,618391,14,Región de Los Ríos
-2022-01-25,621036,14,Región de Los Ríos
-2022-01-26,623981,14,Región de Los Ríos
-2022-01-27,626666,14,Región de Los Ríos
-2022-01-28,629403,14,Región de Los Ríos
-2022-01-29,630795,14,Región de Los Ríos
-2022-01-30,632001,14,Región de Los Ríos
-2022-01-31,635439,14,Región de Los Ríos
-2022-02-01,638389,14,Región de Los Ríos
-2022-02-02,641364,14,Región de Los Ríos
-2022-02-03,644300,14,Región de Los Ríos
-2022-02-04,647162,14,Región de Los Ríos
-2022-02-05,648429,14,Región de Los Ríos
-2022-02-06,649437,14,Región de Los Ríos
-2022-02-07,651701,14,Región de Los Ríos
-2022-02-08,653813,14,Región de Los Ríos
-2022-02-09,655974,14,Región de Los Ríos
-2022-02-10,658369,14,Región de Los Ríos
-2022-02-11,660394,14,Región de Los Ríos
-2022-02-12,661635,14,Región de Los Ríos
-2022-02-13,662861,14,Región de Los Ríos
-2022-02-14,665414,14,Región de Los Ríos
-2022-02-15,667797,14,Región de Los Ríos
-2022-02-16,670021,14,Región de Los Ríos
-2022-02-17,672116,14,Región de Los Ríos
-2022-02-18,674129,14,Región de Los Ríos
-2022-02-19,675570,14,Región de Los Ríos
-2022-02-20,676635,14,Región de Los Ríos
-2022-02-21,678720,14,Región de Los Ríos
-2022-02-22,680781,14,Región de Los Ríos
-2022-02-23,682713,14,Región de Los Ríos
-2022-02-24,684325,14,Región de Los Ríos
-2022-02-25,686075,14,Región de Los Ríos
-2022-02-26,687001,14,Región de Los Ríos
-2022-02-27,687720,14,Región de Los Ríos
-2022-02-28,689589,14,Región de Los Ríos
-2022-03-01,690943,14,Región de Los Ríos
-2022-03-02,692448,14,Región de Los Ríos
-2022-03-03,693735,14,Región de Los Ríos
-2022-03-04,694929,14,Región de Los Ríos
-2022-03-05,695558,14,Región de Los Ríos
-2022-03-06,696112,14,Región de Los Ríos
-2022-03-07,697634,14,Región de Los Ríos
-2022-03-08,698694,14,Región de Los Ríos
-2022-03-09,699915,14,Región de Los Ríos
-2022-03-10,701210,14,Región de Los Ríos
-2022-03-11,702310,14,Región de Los Ríos
-2022-03-12,702915,14,Región de Los Ríos
-2022-03-13,703607,14,Región de Los Ríos
-2022-03-14,705129,14,Región de Los Ríos
-2022-03-15,706390,14,Región de Los Ríos
-2022-03-16,707588,14,Región de Los Ríos
-2022-03-17,708663,14,Región de Los Ríos
-2022-03-18,709706,14,Región de Los Ríos
-2022-03-19,710289,14,Región de Los Ríos
-2022-03-20,710769,14,Región de Los Ríos
-2022-03-21,712109,14,Región de Los Ríos
-2022-03-22,713260,14,Región de Los Ríos
-2022-03-23,714277,14,Región de Los Ríos
-2022-03-24,715122,14,Región de Los Ríos
-2022-03-25,715818,14,Región de Los Ríos
-2022-03-26,716238,14,Región de Los Ríos
-2022-03-27,716566,14,Región de Los Ríos
-2022-03-28,717568,14,Región de Los Ríos
-2022-03-29,718391,14,Región de Los Ríos
-2022-03-30,719114,14,Región de Los Ríos
-2022-03-31,719937,14,Región de Los Ríos
-2022-04-01,720466,14,Región de Los Ríos
+2022-01-20,611388,14,Región de Los Ríos
+2022-01-21,613556,14,Región de Los Ríos
+2022-01-22,614670,14,Región de Los Ríos
+2022-01-23,615736,14,Región de Los Ríos
+2022-01-24,618402,14,Región de Los Ríos
+2022-01-25,621051,14,Región de Los Ríos
+2022-01-26,624000,14,Región de Los Ríos
+2022-01-27,626685,14,Región de Los Ríos
+2022-01-28,629426,14,Región de Los Ríos
+2022-01-29,630819,14,Región de Los Ríos
+2022-01-30,632025,14,Región de Los Ríos
+2022-01-31,635468,14,Región de Los Ríos
+2022-02-01,638419,14,Región de Los Ríos
+2022-02-02,641394,14,Región de Los Ríos
+2022-02-03,644335,14,Región de Los Ríos
+2022-02-04,647200,14,Región de Los Ríos
+2022-02-05,648467,14,Región de Los Ríos
+2022-02-06,649476,14,Región de Los Ríos
+2022-02-07,651744,14,Región de Los Ríos
+2022-02-08,653857,14,Región de Los Ríos
+2022-02-09,656018,14,Región de Los Ríos
+2022-02-10,658413,14,Región de Los Ríos
+2022-02-11,660442,14,Región de Los Ríos
+2022-02-12,661683,14,Región de Los Ríos
+2022-02-13,662909,14,Región de Los Ríos
+2022-02-14,665460,14,Región de Los Ríos
+2022-02-15,667847,14,Región de Los Ríos
+2022-02-16,670071,14,Región de Los Ríos
+2022-02-17,672167,14,Región de Los Ríos
+2022-02-18,674182,14,Región de Los Ríos
+2022-02-19,675624,14,Región de Los Ríos
+2022-02-20,676689,14,Región de Los Ríos
+2022-02-21,678775,14,Región de Los Ríos
+2022-02-22,680837,14,Región de Los Ríos
+2022-02-23,682770,14,Región de Los Ríos
+2022-02-24,684383,14,Región de Los Ríos
+2022-02-25,686134,14,Región de Los Ríos
+2022-02-26,687059,14,Región de Los Ríos
+2022-02-27,687778,14,Región de Los Ríos
+2022-02-28,689648,14,Región de Los Ríos
+2022-03-01,691003,14,Región de Los Ríos
+2022-03-02,692510,14,Región de Los Ríos
+2022-03-03,693798,14,Región de Los Ríos
+2022-03-04,694992,14,Región de Los Ríos
+2022-03-05,695621,14,Región de Los Ríos
+2022-03-06,696176,14,Región de Los Ríos
+2022-03-07,697699,14,Región de Los Ríos
+2022-03-08,698760,14,Región de Los Ríos
+2022-03-09,699983,14,Región de Los Ríos
+2022-03-10,701285,14,Región de Los Ríos
+2022-03-11,702385,14,Región de Los Ríos
+2022-03-12,702990,14,Región de Los Ríos
+2022-03-13,703682,14,Región de Los Ríos
+2022-03-14,705205,14,Región de Los Ríos
+2022-03-15,706467,14,Región de Los Ríos
+2022-03-16,707666,14,Región de Los Ríos
+2022-03-17,708743,14,Región de Los Ríos
+2022-03-18,709787,14,Región de Los Ríos
+2022-03-19,710372,14,Región de Los Ríos
+2022-03-20,710852,14,Región de Los Ríos
+2022-03-21,712195,14,Región de Los Ríos
+2022-03-22,713347,14,Región de Los Ríos
+2022-03-23,714363,14,Región de Los Ríos
+2022-03-24,715208,14,Región de Los Ríos
+2022-03-25,715905,14,Región de Los Ríos
+2022-03-26,716325,14,Región de Los Ríos
+2022-03-27,716653,14,Región de Los Ríos
+2022-03-28,717657,14,Región de Los Ríos
+2022-03-29,718483,14,Región de Los Ríos
+2022-03-30,719214,14,Región de Los Ríos
+2022-03-31,720044,14,Región de Los Ríos
+2022-04-01,720665,14,Región de Los Ríos
+2022-04-02,721010,14,Región de Los Ríos
+2022-04-03,721296,14,Región de Los Ríos
+2022-04-04,722109,14,Región de Los Ríos
+2022-04-05,722753,14,Región de Los Ríos
+2022-04-06,723523,14,Región de Los Ríos
+2022-04-07,724090,14,Región de Los Ríos
+2022-04-08,724641,14,Región de Los Ríos
+2022-04-09,724875,14,Región de Los Ríos
 2020-03-15,6,15,Región de Arica y Parinacota
 2020-03-16,14,15,Región de Arica y Parinacota
 2020-03-17,31,15,Región de Arica y Parinacota
@@ -11147,78 +11259,86 @@ fecha,ntestcum,codigo_region,region_residencia
 2022-01-17,609736,15,Región de Arica y Parinacota
 2022-01-18,612414,15,Región de Arica y Parinacota
 2022-01-19,614715,15,Región de Arica y Parinacota
-2022-01-20,617357,15,Región de Arica y Parinacota
-2022-01-21,620109,15,Región de Arica y Parinacota
-2022-01-22,621503,15,Región de Arica y Parinacota
+2022-01-20,617356,15,Región de Arica y Parinacota
+2022-01-21,620107,15,Región de Arica y Parinacota
+2022-01-22,621501,15,Región de Arica y Parinacota
 2022-01-23,622378,15,Región de Arica y Parinacota
-2022-01-24,624733,15,Región de Arica y Parinacota
-2022-01-25,627674,15,Región de Arica y Parinacota
-2022-01-26,629543,15,Región de Arica y Parinacota
-2022-01-27,631433,15,Región de Arica y Parinacota
-2022-01-28,633706,15,Región de Arica y Parinacota
-2022-01-29,635926,15,Región de Arica y Parinacota
-2022-01-30,637113,15,Región de Arica y Parinacota
-2022-01-31,639299,15,Región de Arica y Parinacota
-2022-02-01,641168,15,Región de Arica y Parinacota
-2022-02-02,642863,15,Región de Arica y Parinacota
-2022-02-03,644450,15,Región de Arica y Parinacota
-2022-02-04,646186,15,Región de Arica y Parinacota
-2022-02-05,647420,15,Región de Arica y Parinacota
-2022-02-06,648294,15,Región de Arica y Parinacota
-2022-02-07,650128,15,Región de Arica y Parinacota
-2022-02-08,651771,15,Región de Arica y Parinacota
-2022-02-09,653303,15,Región de Arica y Parinacota
-2022-02-10,654671,15,Región de Arica y Parinacota
-2022-02-11,655773,15,Región de Arica y Parinacota
-2022-02-12,656592,15,Región de Arica y Parinacota
-2022-02-13,657191,15,Región de Arica y Parinacota
-2022-02-14,658589,15,Región de Arica y Parinacota
-2022-02-15,659583,15,Región de Arica y Parinacota
-2022-02-16,660657,15,Región de Arica y Parinacota
-2022-02-17,661647,15,Región de Arica y Parinacota
-2022-02-18,662532,15,Región de Arica y Parinacota
-2022-02-19,663287,15,Región de Arica y Parinacota
-2022-02-20,663857,15,Región de Arica y Parinacota
-2022-02-21,665457,15,Región de Arica y Parinacota
-2022-02-22,666464,15,Región de Arica y Parinacota
-2022-02-23,667402,15,Región de Arica y Parinacota
-2022-02-24,668243,15,Región de Arica y Parinacota
-2022-02-25,669231,15,Región de Arica y Parinacota
-2022-02-26,669883,15,Región de Arica y Parinacota
-2022-02-27,670376,15,Región de Arica y Parinacota
-2022-02-28,671607,15,Región de Arica y Parinacota
-2022-03-01,672434,15,Región de Arica y Parinacota
-2022-03-02,673380,15,Región de Arica y Parinacota
-2022-03-03,674042,15,Región de Arica y Parinacota
-2022-03-04,674804,15,Región de Arica y Parinacota
-2022-03-05,675535,15,Región de Arica y Parinacota
-2022-03-06,675997,15,Región de Arica y Parinacota
-2022-03-07,677029,15,Región de Arica y Parinacota
-2022-03-08,677842,15,Región de Arica y Parinacota
-2022-03-09,678581,15,Región de Arica y Parinacota
-2022-03-10,679196,15,Región de Arica y Parinacota
-2022-03-11,679951,15,Región de Arica y Parinacota
-2022-03-12,680749,15,Región de Arica y Parinacota
-2022-03-13,681168,15,Región de Arica y Parinacota
-2022-03-14,682307,15,Región de Arica y Parinacota
-2022-03-15,683063,15,Región de Arica y Parinacota
-2022-03-16,683752,15,Región de Arica y Parinacota
-2022-03-17,684431,15,Región de Arica y Parinacota
-2022-03-18,685122,15,Región de Arica y Parinacota
-2022-03-19,685854,15,Región de Arica y Parinacota
-2022-03-20,686274,15,Región de Arica y Parinacota
-2022-03-21,687492,15,Región de Arica y Parinacota
-2022-03-22,688662,15,Región de Arica y Parinacota
-2022-03-23,689477,15,Región de Arica y Parinacota
-2022-03-24,690313,15,Región de Arica y Parinacota
-2022-03-25,691248,15,Región de Arica y Parinacota
-2022-03-26,691886,15,Región de Arica y Parinacota
-2022-03-27,692258,15,Región de Arica y Parinacota
-2022-03-28,693296,15,Región de Arica y Parinacota
-2022-03-29,694216,15,Región de Arica y Parinacota
-2022-03-30,694851,15,Región de Arica y Parinacota
-2022-03-31,695409,15,Región de Arica y Parinacota
-2022-04-01,696084,15,Región de Arica y Parinacota
+2022-01-24,624736,15,Región de Arica y Parinacota
+2022-01-25,627682,15,Región de Arica y Parinacota
+2022-01-26,629553,15,Región de Arica y Parinacota
+2022-01-27,631445,15,Región de Arica y Parinacota
+2022-01-28,633719,15,Región de Arica y Parinacota
+2022-01-29,635941,15,Región de Arica y Parinacota
+2022-01-30,637128,15,Región de Arica y Parinacota
+2022-01-31,639316,15,Región de Arica y Parinacota
+2022-02-01,641184,15,Región de Arica y Parinacota
+2022-02-02,642879,15,Región de Arica y Parinacota
+2022-02-03,644468,15,Región de Arica y Parinacota
+2022-02-04,646204,15,Región de Arica y Parinacota
+2022-02-05,647439,15,Región de Arica y Parinacota
+2022-02-06,648313,15,Región de Arica y Parinacota
+2022-02-07,650148,15,Región de Arica y Parinacota
+2022-02-08,651792,15,Región de Arica y Parinacota
+2022-02-09,653328,15,Región de Arica y Parinacota
+2022-02-10,654697,15,Región de Arica y Parinacota
+2022-02-11,655800,15,Región de Arica y Parinacota
+2022-02-12,656620,15,Región de Arica y Parinacota
+2022-02-13,657219,15,Región de Arica y Parinacota
+2022-02-14,658617,15,Región de Arica y Parinacota
+2022-02-15,659612,15,Región de Arica y Parinacota
+2022-02-16,660686,15,Región de Arica y Parinacota
+2022-02-17,661681,15,Región de Arica y Parinacota
+2022-02-18,662566,15,Región de Arica y Parinacota
+2022-02-19,663321,15,Región de Arica y Parinacota
+2022-02-20,663891,15,Región de Arica y Parinacota
+2022-02-21,665493,15,Región de Arica y Parinacota
+2022-02-22,666499,15,Región de Arica y Parinacota
+2022-02-23,667438,15,Región de Arica y Parinacota
+2022-02-24,668278,15,Región de Arica y Parinacota
+2022-02-25,669265,15,Región de Arica y Parinacota
+2022-02-26,669920,15,Región de Arica y Parinacota
+2022-02-27,670413,15,Región de Arica y Parinacota
+2022-02-28,671644,15,Región de Arica y Parinacota
+2022-03-01,672472,15,Región de Arica y Parinacota
+2022-03-02,673419,15,Región de Arica y Parinacota
+2022-03-03,674081,15,Región de Arica y Parinacota
+2022-03-04,674843,15,Región de Arica y Parinacota
+2022-03-05,675575,15,Región de Arica y Parinacota
+2022-03-06,676037,15,Región de Arica y Parinacota
+2022-03-07,677069,15,Región de Arica y Parinacota
+2022-03-08,677882,15,Región de Arica y Parinacota
+2022-03-09,678622,15,Región de Arica y Parinacota
+2022-03-10,679238,15,Región de Arica y Parinacota
+2022-03-11,679994,15,Región de Arica y Parinacota
+2022-03-12,680794,15,Región de Arica y Parinacota
+2022-03-13,681213,15,Región de Arica y Parinacota
+2022-03-14,682354,15,Región de Arica y Parinacota
+2022-03-15,683112,15,Región de Arica y Parinacota
+2022-03-16,683802,15,Región de Arica y Parinacota
+2022-03-17,684481,15,Región de Arica y Parinacota
+2022-03-18,685174,15,Región de Arica y Parinacota
+2022-03-19,685907,15,Región de Arica y Parinacota
+2022-03-20,686327,15,Región de Arica y Parinacota
+2022-03-21,687550,15,Región de Arica y Parinacota
+2022-03-22,688721,15,Región de Arica y Parinacota
+2022-03-23,689537,15,Región de Arica y Parinacota
+2022-03-24,690373,15,Región de Arica y Parinacota
+2022-03-25,691316,15,Región de Arica y Parinacota
+2022-03-26,691955,15,Región de Arica y Parinacota
+2022-03-27,692329,15,Región de Arica y Parinacota
+2022-03-28,693370,15,Región de Arica y Parinacota
+2022-03-29,694291,15,Región de Arica y Parinacota
+2022-03-30,694927,15,Región de Arica y Parinacota
+2022-03-31,695486,15,Región de Arica y Parinacota
+2022-04-01,696173,15,Región de Arica y Parinacota
+2022-04-02,696895,15,Región de Arica y Parinacota
+2022-04-03,697313,15,Región de Arica y Parinacota
+2022-04-04,698316,15,Región de Arica y Parinacota
+2022-04-05,698960,15,Región de Arica y Parinacota
+2022-04-06,699541,15,Región de Arica y Parinacota
+2022-04-07,700100,15,Región de Arica y Parinacota
+2022-04-08,700631,15,Región de Arica y Parinacota
+2022-04-09,701213,15,Región de Arica y Parinacota
 2020-03-15,29,16,Región del Ñuble
 2020-03-16,136,16,Región del Ñuble
 2020-03-17,266,16,Región del Ñuble
@@ -11893,77 +12013,85 @@ fecha,ntestcum,codigo_region,region_residencia
 2022-01-15,622923,16,Región del Ñuble
 2022-01-16,623662,16,Región del Ñuble
 2022-01-17,625556,16,Región del Ñuble
-2022-01-18,627529,16,Región del Ñuble
-2022-01-19,630009,16,Región del Ñuble
-2022-01-20,632518,16,Región del Ñuble
-2022-01-21,634403,16,Región del Ñuble
-2022-01-22,635425,16,Región del Ñuble
-2022-01-23,636221,16,Región del Ñuble
-2022-01-24,638757,16,Región del Ñuble
-2022-01-25,641181,16,Región del Ñuble
-2022-01-26,643386,16,Región del Ñuble
-2022-01-27,645658,16,Región del Ñuble
-2022-01-28,647855,16,Región del Ñuble
-2022-01-29,649904,16,Región del Ñuble
-2022-01-30,651081,16,Región del Ñuble
-2022-01-31,654159,16,Región del Ñuble
-2022-02-01,657325,16,Región del Ñuble
-2022-02-02,660015,16,Región del Ñuble
-2022-02-03,662994,16,Región del Ñuble
-2022-02-04,664927,16,Región del Ñuble
-2022-02-05,665913,16,Región del Ñuble
-2022-02-06,666538,16,Región del Ñuble
-2022-02-07,668337,16,Región del Ñuble
-2022-02-08,670840,16,Región del Ñuble
-2022-02-09,672818,16,Región del Ñuble
-2022-02-10,674836,16,Región del Ñuble
-2022-02-11,676596,16,Región del Ñuble
-2022-02-12,677893,16,Región del Ñuble
-2022-02-13,679121,16,Región del Ñuble
-2022-02-14,681378,16,Región del Ñuble
-2022-02-15,683558,16,Región del Ñuble
-2022-02-16,686225,16,Región del Ñuble
-2022-02-17,688841,16,Región del Ñuble
-2022-02-18,691448,16,Región del Ñuble
-2022-02-19,693017,16,Región del Ñuble
-2022-02-20,694033,16,Región del Ñuble
-2022-02-21,696506,16,Región del Ñuble
-2022-02-22,698815,16,Región del Ñuble
-2022-02-23,700879,16,Región del Ñuble
-2022-02-24,703025,16,Región del Ñuble
-2022-02-25,704896,16,Región del Ñuble
-2022-02-26,705932,16,Región del Ñuble
-2022-02-27,706709,16,Región del Ñuble
-2022-02-28,708611,16,Región del Ñuble
-2022-03-01,710346,16,Región del Ñuble
-2022-03-02,712170,16,Región del Ñuble
-2022-03-03,714078,16,Región del Ñuble
-2022-03-04,715574,16,Región del Ñuble
-2022-03-05,716358,16,Región del Ñuble
-2022-03-06,717142,16,Región del Ñuble
-2022-03-07,718827,16,Región del Ñuble
-2022-03-08,720379,16,Región del Ñuble
-2022-03-09,721884,16,Región del Ñuble
-2022-03-10,723422,16,Región del Ñuble
-2022-03-11,724903,16,Región del Ñuble
-2022-03-12,725622,16,Región del Ñuble
-2022-03-13,726398,16,Región del Ñuble
-2022-03-14,728399,16,Región del Ñuble
-2022-03-15,730342,16,Región del Ñuble
-2022-03-16,732053,16,Región del Ñuble
-2022-03-17,733571,16,Región del Ñuble
-2022-03-18,735084,16,Región del Ñuble
-2022-03-19,735849,16,Región del Ñuble
-2022-03-20,736645,16,Región del Ñuble
-2022-03-21,738662,16,Región del Ñuble
-2022-03-22,740547,16,Región del Ñuble
-2022-03-23,742110,16,Región del Ñuble
-2022-03-24,743367,16,Región del Ñuble
-2022-03-25,744323,16,Región del Ñuble
-2022-03-26,744932,16,Región del Ñuble
-2022-03-27,745385,16,Región del Ñuble
-2022-03-28,746875,16,Región del Ñuble
-2022-03-29,748091,16,Región del Ñuble
-2022-03-30,749337,16,Región del Ñuble
-2022-03-31,750523,16,Región del Ñuble
-2022-04-01,751261,16,Región del Ñuble
+2022-01-18,627531,16,Región del Ñuble
+2022-01-19,630011,16,Región del Ñuble
+2022-01-20,632525,16,Región del Ñuble
+2022-01-21,634413,16,Región del Ñuble
+2022-01-22,635438,16,Región del Ñuble
+2022-01-23,636234,16,Región del Ñuble
+2022-01-24,638771,16,Región del Ñuble
+2022-01-25,641196,16,Región del Ñuble
+2022-01-26,643407,16,Región del Ñuble
+2022-01-27,645680,16,Región del Ñuble
+2022-01-28,647879,16,Región del Ñuble
+2022-01-29,649930,16,Región del Ñuble
+2022-01-30,651110,16,Región del Ñuble
+2022-01-31,654187,16,Región del Ñuble
+2022-02-01,657356,16,Región del Ñuble
+2022-02-02,660045,16,Región del Ñuble
+2022-02-03,663030,16,Región del Ñuble
+2022-02-04,664963,16,Región del Ñuble
+2022-02-05,665951,16,Región del Ñuble
+2022-02-06,666577,16,Región del Ñuble
+2022-02-07,668377,16,Región del Ñuble
+2022-02-08,670887,16,Región del Ñuble
+2022-02-09,672866,16,Región del Ñuble
+2022-02-10,674883,16,Región del Ñuble
+2022-02-11,676645,16,Región del Ñuble
+2022-02-12,677943,16,Región del Ñuble
+2022-02-13,679172,16,Región del Ñuble
+2022-02-14,681433,16,Región del Ñuble
+2022-02-15,683613,16,Región del Ñuble
+2022-02-16,686284,16,Región del Ñuble
+2022-02-17,688905,16,Región del Ñuble
+2022-02-18,691526,16,Región del Ñuble
+2022-02-19,693150,16,Región del Ñuble
+2022-02-20,694189,16,Región del Ñuble
+2022-02-21,696687,16,Región del Ñuble
+2022-02-22,699001,16,Región del Ñuble
+2022-02-23,701063,16,Región del Ñuble
+2022-02-24,703214,16,Región del Ñuble
+2022-02-25,705084,16,Región del Ñuble
+2022-02-26,706120,16,Región del Ñuble
+2022-02-27,706897,16,Región del Ñuble
+2022-02-28,708804,16,Región del Ñuble
+2022-03-01,710541,16,Región del Ñuble
+2022-03-02,712365,16,Región del Ñuble
+2022-03-03,714278,16,Región del Ñuble
+2022-03-04,715777,16,Región del Ñuble
+2022-03-05,716561,16,Región del Ñuble
+2022-03-06,717346,16,Región del Ñuble
+2022-03-07,719035,16,Región del Ñuble
+2022-03-08,720588,16,Región del Ñuble
+2022-03-09,722093,16,Región del Ñuble
+2022-03-10,723633,16,Región del Ñuble
+2022-03-11,725117,16,Región del Ñuble
+2022-03-12,725838,16,Región del Ñuble
+2022-03-13,726617,16,Región del Ñuble
+2022-03-14,728618,16,Región del Ñuble
+2022-03-15,730565,16,Región del Ñuble
+2022-03-16,732277,16,Región del Ñuble
+2022-03-17,733797,16,Región del Ñuble
+2022-03-18,735311,16,Región del Ñuble
+2022-03-19,736076,16,Región del Ñuble
+2022-03-20,736873,16,Región del Ñuble
+2022-03-21,738893,16,Región del Ñuble
+2022-03-22,740780,16,Región del Ñuble
+2022-03-23,742347,16,Región del Ñuble
+2022-03-24,743611,16,Región del Ñuble
+2022-03-25,744719,16,Región del Ñuble
+2022-03-26,745334,16,Región del Ñuble
+2022-03-27,745788,16,Región del Ñuble
+2022-03-28,747281,16,Región del Ñuble
+2022-03-29,748503,16,Región del Ñuble
+2022-03-30,749753,16,Región del Ñuble
+2022-03-31,750956,16,Región del Ñuble
+2022-04-01,751821,16,Región del Ñuble
+2022-04-02,752265,16,Región del Ñuble
+2022-04-03,752664,16,Región del Ñuble
+2022-04-04,753808,16,Región del Ñuble
+2022-04-05,754822,16,Región del Ñuble
+2022-04-06,755777,16,Región del Ñuble
+2022-04-07,756557,16,Región del Ñuble
+2022-04-08,757383,16,Región del Ñuble
+2022-04-09,757907,16,Región del Ñuble
