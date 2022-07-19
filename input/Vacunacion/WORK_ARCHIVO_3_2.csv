@@ -1,61 +1,61 @@
 EDAD_ANOS;SEXO1;SUM_of_1aDOSIS;SUM_of_2aDOSIS;SUM_of_ÚnicaDOSIS;SUM_of_Refuerzo_DOSIS;SUM_of_4_Dosis
-3;Desconocido;31;24;;2;
-3;Hombre;88113;68750;;9113;3
+3;Desconocido;33;26;;2;
+3;Hombre;88441;69110;;9746;3
 3;Intersex (Indeterminado);13;6;;;
-3;Mujer;87401;68759;;9385;2
-4;Desconocido;28;22;;8;
-4;Hombre;86711;72054;;12749;2
+3;Mujer;87740;69101;;10024;3
+4;Desconocido;29;23;;9;
+4;Hombre;86791;72229;;13489;2
 4;Intersex (Indeterminado);13;7;;2;
-4;Mujer;86192;72220;;13250;2
-5;Desconocido;58;51;;22;
-5;Hombre;97965;83695;;20485;4
+4;Mujer;86275;72350;;14025;1
+5;Desconocido;56;51;;23;
+5;Hombre;98051;83866;;21479;5
 5;Intersex (Indeterminado);9;7;;;
-5;Mujer;97680;83941;;21075;1
+5;Mujer;97738;84086;;22078;1
 6;Desconocido;43;42;;25;
-6;Hombre;135978;124557;;64144;12
+6;Hombre;136023;124675;;64984;12
 6;Intersex (Indeterminado);23;22;;10;
-6;Mujer;133495;123014;;64669;10
-7;Desconocido;44;42;;24;
-7;Hombre;120906;113618;;64476;11
+6;Mujer;133537;123116;;65484;10
+7;Desconocido;46;44;;26;
+7;Hombre;120924;113676;;65111;11
 7;Intersex (Indeterminado);26;22;;11;
-7;Mujer;118083;111221;;63994;10
-8;Desconocido;32;30;;17;
-8;Hombre;117246;110893;;64743;8
+7;Mujer;118115;111280;;64688;10
+8;Desconocido;33;31;;19;
+8;Hombre;117264;110945;;65360;8
 8;Intersex (Indeterminado);10;7;;4;
-8;Mujer;114851;109258;;65158;7
-9;Desconocido;38;35;;24;
-9;Hombre;120371;114432;;68171;17
-9;Intersex (Indeterminado);24;22;;9;
-9;Mujer;117400;112237;;68229;9
-10;Desconocido;30;28;;15;
-10;Hombre;123536;117981;;70766;11
+8;Mujer;114867;109302;;65752;7
+9;Desconocido;39;36;;24;
+9;Hombre;120391;114479;;68853;18
+9;Intersex (Indeterminado);25;23;;10;
+9;Mujer;117411;112281;;68910;10
+10;Desconocido;30;28;;16;
+10;Hombre;123550;118024;;71502;10
 10;Intersex (Indeterminado);43;39;;19;
-10;Mujer;120227;115432;;71243;18
-11;Desconocido;36;33;;16;
-11;Hombre;125170;120325;;76384;119
-11;Intersex (Indeterminado);21;20;;10;
-11;Mujer;122538;118275;;77681;97
-12;Desconocido;47;45;;32;3
-12;Hombre;134417;130703;;92848;5044
+10;Mujer;120242;115466;;71943;17
+11;Desconocido;38;35;;20;1
+11;Hombre;125194;120359;;77251;144
+11;Intersex (Indeterminado);22;20;;10;
+11;Mujer;122546;118326;;78554;115
+12;Desconocido;48;46;;33;3
+12;Hombre;134441;130739;;93639;5591
 12;Intersex (Indeterminado);33;32;;22;
-12;Mujer;131959;128713;;94458;4883
-13;Desconocido;41;40;;28;3
-13;Hombre;125864;122716;;87953;5584
+12;Mujer;131979;128748;;95237;5499
+13;Desconocido;43;42;;30;3
+13;Hombre;125878;122760;;88703;6258
 13;Intersex (Indeterminado);37;35;;24;
-13;Mujer;122341;119713;;88774;5738
-14;Desconocido;36;36;;29;7
-14;Hombre;128646;125781;;94458;16452
-14;Intersex (Indeterminado);42;41;;24;5
-14;Mujer;126154;123952;;96834;18106
-15;Desconocido;27;27;;27;8
-15;Hombre;123590;120961;;94239;25134
+13;Mujer;122356;119744;;89445;6441
+14;Desconocido;41;41;;33;12
+14;Hombre;128668;125812;;95085;17787
+14;Intersex (Indeterminado);41;40;;23;5
+14;Mujer;126161;123987;;97467;19498
+15;Desconocido;31;31;;31;12
+15;Hombre;123616;120992;;94690;26585
 15;Intersex (Indeterminado);32;29;;17;
-15;Mujer;121574;119541;;98139;29671
-16;Desconocido;36;33;;30;21
-16;Hombre;123190;120588;;97241;33451
-16;Intersex (Indeterminado);27;26;;23;6
-16;Mujer;120573;118691;;101232;40550
+15;Mujer;121571;119561;;98522;31308
+16;Desconocido;36;33;;30;22
+16;Hombre;123198;120615;;97631;34925
+16;Intersex (Indeterminado);25;24;;21;5
+16;Mujer;120586;118707;;101532;42135
 17;Desconocido;24;21;;19;14
-17;Hombre;120168;117517;;100665;48668
-17;Intersex (Indeterminado);36;34;;26;7
-17;Mujer;119016;117294;;105231;58510
+17;Hombre;120204;117555;;100953;50392
+17;Intersex (Indeterminado);35;33;;25;7
+17;Mujer;119024;117305;;105428;60362
