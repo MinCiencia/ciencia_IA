@@ -1,199 +1,199 @@
 REGION_RESIDENCIA;EDAD_ANOS;SUM_of_1aDOSIS;SUM_of_2aDOSIS;SUM_of_ÚnicaDOSIS;SUM_of_Refuerzo_DOSIS;SUM_of_4_Dosis
-" Aisén Gral. C. Ibáñez Campo";3;963;732;;89;
-" Aisén Gral. C. Ibáñez Campo";4;924;743;;101;
-" Aisén Gral. C. Ibáñez Campo";5;1153;949;;235;
-" Aisén Gral. C. Ibáñez Campo";6;1570;1417;;745;
-" Aisén Gral. C. Ibáñez Campo";7;1433;1341;;796;
-" Aisén Gral. C. Ibáñez Campo";8;1394;1323;;832;
-" Aisén Gral. C. Ibáñez Campo";9;1461;1397;;866;
-" Aisén Gral. C. Ibáñez Campo";10;1479;1412;;871;1
-" Aisén Gral. C. Ibáñez Campo";11;1623;1570;;886;
-" Aisén Gral. C. Ibáñez Campo";12;1855;1805;;1242;170
-" Aisén Gral. C. Ibáñez Campo";13;1699;1650;;1099;199
-" Aisén Gral. C. Ibáñez Campo";14;1670;1633;;1180;292
-" Aisén Gral. C. Ibáñez Campo";15;1578;1548;;1163;349
-" Aisén Gral. C. Ibáñez Campo";16;1636;1595;;1240;455
-" Aisén Gral. C. Ibáñez Campo";17;1435;1408;;1197;586
-" Antofagasta";3;6492;4996;;1005;
-" Antofagasta";4;6605;5387;;1301;
-" Antofagasta";5;7595;6385;;1846;
-" Antofagasta";6;10492;9585;;4876;2
-" Antofagasta";7;9251;8573;;4707;1
-" Antofagasta";8;9095;8576;;4976;1
-" Antofagasta";9;9289;8793;;5278;
-" Antofagasta";10;9440;9013;;5534;3
-" Antofagasta";11;9736;9343;;6161;9
-" Antofagasta";12;10065;9773;;7261;512
-" Antofagasta";13;9401;9159;;6805;564
-" Antofagasta";14;10047;9838;;7736;1912
-" Antofagasta";15;9233;9041;;7365;2489
-" Antofagasta";16;9071;8875;;7436;3125
-" Antofagasta";17;8934;8744;;7770;4352
-" Arica y Parinacota";3;2005;1387;;168;
-" Arica y Parinacota";4;2226;1661;;225;
-" Arica y Parinacota";5;2462;1916;;409;
-" Arica y Parinacota";6;3718;3255;;1600;1
-" Arica y Parinacota";7;3448;3115;;1770;1
-" Arica y Parinacota";8;3412;3140;;1867;
-" Arica y Parinacota";9;3495;3247;;2002;2
-" Arica y Parinacota";10;3662;3426;;2067;
-" Arica y Parinacota";11;3635;3411;;2239;7
-" Arica y Parinacota";12;3999;3851;;2825;341
-" Arica y Parinacota";13;3631;3489;;2601;401
-" Arica y Parinacota";14;3428;3323;;2535;572
-" Arica y Parinacota";15;3401;3292;;2596;731
-" Arica y Parinacota";16;3465;3347;;2715;946
-" Arica y Parinacota";17;3511;3383;;2892;1431
-" Atacama";3;2849;2181;;348;1
-" Atacama";4;3116;2490;;524;
-" Atacama";5;3510;2960;;753;2
-" Atacama";6;4839;4369;;2191;3
-" Atacama";7;4534;4197;;2387;4
-" Atacama";8;4429;4128;;2396;2
-" Atacama";9;4585;4322;;2538;3
-" Atacama";10;4846;4604;;2710;1
-" Atacama";11;4784;4583;;3003;6
-" Atacama";12;5136;4966;;3580;226
-" Atacama";13;4683;4549;;3305;254
-" Atacama";14;4742;4615;;3478;564
-" Atacama";15;4566;4459;;3465;881
-" Atacama";16;4343;4218;;3388;1110
-" Atacama";17;4231;4115;;3533;1640
-" Coquimbo";3;6954;5419;;830;
-" Coquimbo";4;7406;6125;;1151;1
-" Coquimbo";5;8752;7486;;1850;
-" Coquimbo";6;12597;11496;;5693;1
-" Coquimbo";7;11484;10733;;5930;1
-" Coquimbo";8;11464;10837;;6209;
-" Coquimbo";9;11788;11199;;6547;3
-" Coquimbo";10;11975;11480;;6955;2
-" Coquimbo";11;12250;11778;;7797;20
-" Coquimbo";12;13144;12810;;9598;903
-" Coquimbo";13;12013;11763;;8811;969
-" Coquimbo";14;12327;12084;;9559;2297
-" Coquimbo";15;11778;11575;;9352;2984
-" Coquimbo";16;11472;11266;;9419;3444
-" Coquimbo";17;11115;10911;;9601;4954
-" La Araucanía";3;8635;6784;;865;
-" La Araucanía";4;9101;7511;;1387;
-" La Araucanía";5;10280;8761;;2265;
-" La Araucanía";6;14605;13288;;7093;3
-" La Araucanía";7;13111;12267;;7201;1
-" La Araucanía";8;12525;11848;;7285;1
-" La Araucanía";9;13209;12539;;7793;1
-" La Araucanía";10;13531;12891;;8017;1
-" La Araucanía";11;13664;13107;;8292;18
-" La Araucanía";12;14920;14575;;10196;497
-" La Araucanía";13;14266;13896;;9602;606
-" La Araucanía";14;14961;14673;;10715;1794
-" La Araucanía";15;14121;13859;;10501;2594
-" La Araucanía";16;13965;13699;;10776;3522
-" La Araucanía";17;13683;13417;;11348;5269
-" Los Lagos";3;6073;4645;;661;1
-" Los Lagos";4;6860;5585;;1050;
-" Los Lagos";5;8099;6686;;1578;
-" Los Lagos";6;11277;10058;;4254;1
-" Los Lagos";7;10321;9475;;4415;2
-" Los Lagos";8;10214;9439;;4616;2
-" Los Lagos";9;10562;9861;;4956;
-" Los Lagos";10;11391;10701;;5468;2
-" Los Lagos";11;12020;11446;;6721;17
-" Los Lagos";12;13511;13100;;8768;531
-" Los Lagos";13;12711;12372;;8280;630
-" Los Lagos";14;12956;12696;;9095;1719
-" Los Lagos";15;12692;12418;;9425;2571
-" Los Lagos";16;12385;12153;;9429;3308
-" Los Lagos";17;12210;11990;;10244;5116
-" Los Ríos";3;3207;2509;;338;
-" Los Ríos";4;3478;2845;;448;
-" Los Ríos";5;3966;3361;;727;
-" Los Ríos";6;5373;4859;;2116;
-" Los Ríos";7;4939;4598;;2310;
-" Los Ríos";8;4961;4677;;2509;
-" Los Ríos";9;5047;4732;;2589;2
-" Los Ríos";10;5309;5048;;2829;2
-" Los Ríos";11;5468;5243;;3151;18
-" Los Ríos";12;6019;5826;;3884;271
-" Los Ríos";13;5680;5558;;3842;348
-" Los Ríos";14;6110;5993;;4452;923
-" Los Ríos";15;5629;5530;;4306;1174
-" Los Ríos";16;5644;5550;;4466;1606
-" Los Ríos";17;5270;5187;;4508;2351
-" Magallanes y  La Antártica Chilena";3;1387;1065;;119;
-" Magallanes y  La Antártica Chilena";4;1462;1221;;239;
-" Magallanes y  La Antártica Chilena";5;1601;1355;;427;
-" Magallanes y  La Antártica Chilena";6;2357;2189;;1396;1
-" Magallanes y  La Antártica Chilena";7;2081;1983;;1376;1
-" Magallanes y  La Antártica Chilena";8;2040;1946;;1368;1
-" Magallanes y  La Antártica Chilena";9;2096;2013;;1453;
-" Magallanes y  La Antártica Chilena";10;2166;2089;;1534;
-" Magallanes y  La Antártica Chilena";11;2223;2168;;1661;4
-" Magallanes y  La Antártica Chilena";12;2695;2644;;2206;354
-" Magallanes y  La Antártica Chilena";13;2364;2333;;1992;415
-" Magallanes y  La Antártica Chilena";14;2405;2389;;2063;550
-" Magallanes y  La Antártica Chilena";15;2265;2247;;1962;666
-" Magallanes y  La Antártica Chilena";16;2253;2234;;1947;812
-" Magallanes y  La Antártica Chilena";17;2131;2114;;1932;1219
-" Tarapacá";3;3909;2758;;424;
-" Tarapacá";4;3932;2907;;539;
-" Tarapacá";5;4596;3518;;841;
-" Tarapacá";6;6161;5206;;2351;1
-" Tarapacá";7;5750;5024;;2622;
-" Tarapacá";8;5500;4852;;2549;3
-" Tarapacá";9;5725;5158;;2722;
-" Tarapacá";10;5822;5255;;2907;
-" Tarapacá";11;5737;5269;;3281;10
-" Tarapacá";12;6300;5903;;4165;380
-" Tarapacá";13;5833;5480;;3994;516
-" Tarapacá";14;5903;5613;;4314;1022
-" Tarapacá";15;5402;5138;;4052;1312
-" Tarapacá";16;5564;5301;;4296;1649
-" Tarapacá";17;5471;5200;;4405;2285
-" Valparaíso";3;17249;13556;;2209;1
-" Valparaíso";4;16783;14014;;2893;1
-" Valparaíso";5;19416;16742;;4983;
-" Valparaíso";6;26955;24897;;13885;2
-" Valparaíso";7;23796;22405;;13497;1
-" Valparaíso";8;23272;22129;;13684;3
-" Valparaíso";9;23982;22890;;14431;4
-" Valparaíso";10;24232;23193;;14783;6
-" Valparaíso";11;24463;23559;;15452;58
-" Valparaíso";12;26218;25485;;18618;1655
-" Valparaíso";13;24512;23924;;17783;1959
-" Valparaíso";14;25189;24654;;18991;4316
-" Valparaíso";15;25064;24574;;19854;6875
-" Valparaíso";16;24465;23982;;20058;8457
-" Valparaíso";17;23934;23500;;20579;11467
-" Ñuble";3;4791;3972;;839;
-" Ñuble";4;4932;4274;;1144;
-" Ñuble";5;5266;4723;;1733;1
-" Ñuble";6;7298;6864;;4382;
-" Ñuble";7;6297;6048;;4383;1
-" Ñuble";8;6038;5831;;4274;
-" Ñuble";9;6408;6215;;4707;1
-" Ñuble";10;6568;6410;;4780;3
-" Ñuble";11;6680;6520;;4814;11
-" Ñuble";12;7610;7473;;5909;714
-" Ñuble";13;7085;6971;;5491;780
-" Ñuble";14;7511;7432;;6118;1685
-" Ñuble";15;7083;6991;;5847;2013
-" Ñuble";16;7156;7074;;6107;2724
-" Ñuble";17;6887;6813;;6115;3373
-Bíobío;3;14274;11183;;1651;1
-Bíobío;4;14632;12280;;2516;
-Bíobío;5;16771;14406;;4089;1
-Bíobío;6;23496;21585;;11833;5
-Bíobío;7;20516;19310;;11511;3
-Bíobío;8;20007;18969;;11659;
-Bíobío;9;20644;19720;;12340;3
-Bíobío;10;21533;20619;;13013;1
-Bíobío;11;21838;21091;;13837;49
-Bíobío;12;23156;22567;;16491;1349
-Bíobío;13;21893;21439;;15852;1547
-Bíobío;14;23303;22916;;17861;4326
-Bíobío;15;21751;21408;;17334;5633
-Bíobío;16;21619;21302;;17753;7162
-Bíobío;17;21405;21102;;18685;10430
+" Aisén Gral. C. Ibáñez Campo";3;966;735;;97;
+" Aisén Gral. C. Ibáñez Campo";4;924;743;;112;
+" Aisén Gral. C. Ibáñez Campo";5;1153;951;;246;
+" Aisén Gral. C. Ibáñez Campo";6;1571;1418;;753;
+" Aisén Gral. C. Ibáñez Campo";7;1433;1341;;801;
+" Aisén Gral. C. Ibáñez Campo";8;1394;1323;;839;
+" Aisén Gral. C. Ibáñez Campo";9;1461;1399;;872;
+" Aisén Gral. C. Ibáñez Campo";10;1480;1413;;873;1
+" Aisén Gral. C. Ibáñez Campo";11;1623;1570;;893;
+" Aisén Gral. C. Ibáñez Campo";12;1855;1806;;1257;182
+" Aisén Gral. C. Ibáñez Campo";13;1699;1651;;1108;208
+" Aisén Gral. C. Ibáñez Campo";14;1670;1633;;1186;308
+" Aisén Gral. C. Ibáñez Campo";15;1578;1549;;1169;355
+" Aisén Gral. C. Ibáñez Campo";16;1636;1596;;1247;467
+" Aisén Gral. C. Ibáñez Campo";17;1436;1409;;1202;613
+" Antofagasta";3;6525;5017;;1064;
+" Antofagasta";4;6618;5411;;1355;
+" Antofagasta";5;7602;6407;;1909;
+" Antofagasta";6;10498;9598;;4929;4
+" Antofagasta";7;9256;8578;;4754;2
+" Antofagasta";8;9094;8576;;5025;1
+" Antofagasta";9;9290;8795;;5328;1
+" Antofagasta";10;9442;9013;;5589;4
+" Antofagasta";11;9738;9346;;6227;23
+" Antofagasta";12;10069;9777;;7315;564
+" Antofagasta";13;9399;9161;;6849;624
+" Antofagasta";14;10049;9842;;7777;1992
+" Antofagasta";15;9234;9043;;7393;2564
+" Antofagasta";16;9070;8874;;7454;3213
+" Antofagasta";17;8936;8746;;7788;4471
+" Arica y Parinacota";3;2010;1389;;179;
+" Arica y Parinacota";4;2228;1667;;235;
+" Arica y Parinacota";5;2464;1922;;423;
+" Arica y Parinacota";6;3718;3256;;1616;1
+" Arica y Parinacota";7;3448;3119;;1780;1
+" Arica y Parinacota";8;3414;3145;;1878;
+" Arica y Parinacota";9;3499;3249;;2018;3
+" Arica y Parinacota";10;3665;3431;;2082;
+" Arica y Parinacota";11;3637;3416;;2259;10
+" Arica y Parinacota";12;4000;3853;;2833;360
+" Arica y Parinacota";13;3633;3490;;2613;430
+" Arica y Parinacota";14;3429;3323;;2551;594
+" Arica y Parinacota";15;3401;3293;;2606;758
+" Arica y Parinacota";16;3463;3349;;2728;977
+" Arica y Parinacota";17;3514;3390;;2902;1478
+" Atacama";3;2863;2198;;368;1
+" Atacama";4;3118;2498;;548;
+" Atacama";5;3516;2966;;787;2
+" Atacama";6;4842;4375;;2218;3
+" Atacama";7;4536;4199;;2420;4
+" Atacama";8;4430;4129;;2413;2
+" Atacama";9;4586;4326;;2558;3
+" Atacama";10;4845;4604;;2738;2
+" Atacama";11;4784;4585;;3026;7
+" Atacama";12;5137;4969;;3604;266
+" Atacama";13;4682;4548;;3326;290
+" Atacama";14;4744;4616;;3502;603
+" Atacama";15;4566;4461;;3479;926
+" Atacama";16;4343;4218;;3402;1149
+" Atacama";17;4233;4116;;3545;1697
+" Coquimbo";3;6987;5441;;862;
+" Coquimbo";4;7411;6145;;1223;1
+" Coquimbo";5;8759;7508;;1928;
+" Coquimbo";6;12605;11514;;5773;1
+" Coquimbo";7;11487;10738;;6004;2
+" Coquimbo";8;11466;10850;;6267;
+" Coquimbo";9;11791;11206;;6611;3
+" Coquimbo";10;11978;11488;;7023;2
+" Coquimbo";11;12252;11781;;7852;33
+" Coquimbo";12;13146;12815;;9651;974
+" Coquimbo";13;12015;11765;;8859;1038
+" Coquimbo";14;12331;12088;;9598;2367
+" Coquimbo";15;11781;11576;;9383;3082
+" Coquimbo";16;11473;11266;;9444;3561
+" Coquimbo";17;11115;10913;;9620;5115
+" La Araucanía";3;8668;6815;;919;
+" La Araucanía";4;9106;7532;;1448;
+" La Araucanía";5;10287;8783;;2340;
+" La Araucanía";6;14609;13300;;7155;3
+" La Araucanía";7;13113;12275;;7253;1
+" La Araucanía";8;12526;11851;;7334;1
+" La Araucanía";9;13211;12545;;7848;1
+" La Araucanía";10;13533;12899;;8064;1
+" La Araucanía";11;13664;13115;;8359;28
+" La Araucanía";12;14923;14578;;10266;545
+" La Araucanía";13;14268;13897;;9671;671
+" La Araucanía";14;14962;14676;;10770;1882
+" La Araucanía";15;14120;13858;;10542;2692
+" La Araucanía";16;13967;13707;;10801;3633
+" La Araucanía";17;13685;13418;;11381;5425
+" Los Lagos";3;6104;4664;;702;1
+" Los Lagos";4;6864;5596;;1097;
+" Los Lagos";5;8105;6704;;1632;
+" Los Lagos";6;11279;10072;;4318;1
+" Los Lagos";7;10324;9482;;4461;3
+" Los Lagos";8;10219;9444;;4664;2
+" Los Lagos";9;10567;9868;;5000;
+" Los Lagos";10;11392;10707;;5528;2
+" Los Lagos";11;12025;11453;;6785;27
+" Los Lagos";12;13511;13108;;8828;586
+" Los Lagos";13;12712;12373;;8336;684
+" Los Lagos";14;12956;12701;;9139;1797
+" Los Lagos";15;12693;12419;;9448;2670
+" Los Lagos";16;12387;12153;;9464;3387
+" Los Lagos";17;12213;11996;;10281;5281
+" Los Ríos";3;3217;2529;;358;
+" Los Ríos";4;3480;2852;;468;
+" Los Ríos";5;3969;3370;;754;
+" Los Ríos";6;5374;4865;;2152;
+" Los Ríos";7;4941;4600;;2325;
+" Los Ríos";8;4961;4678;;2527;
+" Los Ríos";9;5050;4735;;2607;2
+" Los Ríos";10;5309;5050;;2860;2
+" Los Ríos";11;5469;5246;;3176;23
+" Los Ríos";12;6022;5831;;3921;290
+" Los Ríos";13;5679;5558;;3868;372
+" Los Ríos";14;6111;5993;;4471;976
+" Los Ríos";15;5629;5530;;4319;1217
+" Los Ríos";16;5645;5552;;4478;1637
+" Los Ríos";17;5271;5187;;4518;2408
+" Magallanes y  La Antártica Chilena";3;1397;1071;;132;
+" Magallanes y  La Antártica Chilena";4;1463;1224;;255;
+" Magallanes y  La Antártica Chilena";5;1602;1358;;447;
+" Magallanes y  La Antártica Chilena";6;2357;2191;;1403;
+" Magallanes y  La Antártica Chilena";7;2082;1983;;1380;1
+" Magallanes y  La Antártica Chilena";8;2040;1947;;1374;1
+" Magallanes y  La Antártica Chilena";9;2097;2014;;1458;
+" Magallanes y  La Antártica Chilena";10;2166;2089;;1541;
+" Magallanes y  La Antártica Chilena";11;2223;2169;;1675;9
+" Magallanes y  La Antártica Chilena";12;2694;2643;;2216;384
+" Magallanes y  La Antártica Chilena";13;2364;2333;;1997;442
+" Magallanes y  La Antártica Chilena";14;2405;2389;;2069;577
+" Magallanes y  La Antártica Chilena";15;2265;2247;;1965;692
+" Magallanes y  La Antártica Chilena";16;2253;2234;;1954;842
+" Magallanes y  La Antártica Chilena";17;2132;2115;;1934;1249
+" Tarapacá";3;3928;2779;;449;
+" Tarapacá";4;3938;2916;;562;
+" Tarapacá";5;4599;3531;;871;
+" Tarapacá";6;6167;5214;;2383;1
+" Tarapacá";7;5752;5031;;2648;
+" Tarapacá";8;5501;4859;;2584;3
+" Tarapacá";9;5726;5170;;2751;
+" Tarapacá";10;5822;5260;;2940;
+" Tarapacá";11;5741;5276;;3312;15
+" Tarapacá";12;6301;5905;;4184;409
+" Tarapacá";13;5835;5486;;4010;550
+" Tarapacá";14;5906;5617;;4325;1066
+" Tarapacá";15;5402;5139;;4066;1351
+" Tarapacá";16;5565;5304;;4307;1698
+" Tarapacá";17;5474;5206;;4426;2354
+" Valparaíso";3;17310;13619;;2312;1
+" Valparaíso";4;16801;14041;;3040;1
+" Valparaíso";5;19427;16780;;5168;
+" Valparaíso";6;26963;24911;;14016;2
+" Valparaíso";7;23796;22419;;13588;3
+" Valparaíso";8;23278;22148;;13781;4
+" Valparaíso";9;23981;22900;;14560;11
+" Valparaíso";10;24233;23200;;14903;14
+" Valparaíso";11;24464;23566;;15563;88
+" Valparaíso";12;26222;25494;;18701;1790
+" Valparaíso";13;24512;23931;;17869;2112
+" Valparaíso";14;25191;24658;;19068;4489
+" Valparaíso";15;25067;24579;;19902;7065
+" Valparaíso";16;24466;23986;;20100;8619
+" Valparaíso";17;23935;23500;;20620;11758
+" Ñuble";3;4812;3994;;894;
+" Ñuble";4;4937;4280;;1225;
+" Ñuble";5;5268;4732;;1797;
+" Ñuble";6;7303;6871;;4420;
+" Ñuble";7;6299;6051;;4417;1
+" Ñuble";8;6038;5836;;4295;
+" Ñuble";9;6409;6218;;4726;1
+" Ñuble";10;6570;6412;;4802;3
+" Ñuble";11;6678;6519;;4842;18
+" Ñuble";12;7610;7476;;5927;765
+" Ñuble";13;7085;6974;;5508;839
+" Ñuble";14;7511;7434;;6139;1756
+" Ñuble";15;7084;6995;;5860;2086
+" Ñuble";16;7157;7074;;6118;2803
+" Ñuble";17;6886;6813;;6131;3463
+Bíobío;3;14338;11220;;1732;1
+Bíobío;4;14645;12305;;2604;
+Bíobío;5;16791;14434;;4210;1
+Bíobío;6;23514;21610;;11949;5
+Bíobío;7;20521;19319;;11599;3
+Bíobío;8;20013;18976;;11733;
+Bíobío;9;20650;19733;;12425;3
+Bíobío;10;21535;20626;;13109;2
+Bíobío;11;21844;21103;;13941;66
+Bíobío;12;23167;22578;;16592;1443
+Bíobío;13;21916;21458;;15968;1666
+Bíobío;14;23309;22924;;17938;4500
+Bíobío;15;21754;21412;;17382;5793
+Bíobío;16;21631;21312;;17792;7371
+Bíobío;17;21412;21112;;18734;10699
 Ignorada;3;1;;;;
 Ignorada;6;5;4;;2;
 Ignorada;7;2;2;;1;
@@ -203,48 +203,48 @@ Ignorada;13;1;1;;;
 Ignorada;14;2;2;;2;
 Ignorada;15;1;1;;1;1
 Ignorada;17;2;2;;2;1
-Libertador B. O'Higgins;3;10429;8427;;1659;1
-Libertador B. O'Higgins;4;9843;8507;;2207;
-Libertador B. O'Higgins;5;10917;9636;;3043;
-Libertador B. O'Higgins;6;15113;14186;;8286;2
-Libertador B. O'Higgins;7;13091;12549;;7846;2
-Libertador B. O'Higgins;8;12704;12236;;7908;1
-Libertador B. O'Higgins;9;12992;12530;;8239;2
-Libertador B. O'Higgins;10;13491;13079;;8869;
-Libertador B. O'Higgins;11;14000;13647;;9821;28
-Libertador B. O'Higgins;12;14678;14381;;11102;968
-Libertador B. O'Higgins;13;13838;13574;;10577;1120
-Libertador B. O'Higgins;14;13944;13712;;10998;2389
-Libertador B. O'Higgins;15;13661;13465;;11257;3881
-Libertador B. O'Higgins;16;13678;13493;;11539;5163
-Libertador B. O'Higgins;17;13242;13032;;11720;6968
-Maule;3;12121;9688;;1543;
-Maule;4;11476;9864;;2245;
-Maule;5;12912;11324;;3445;
-Maule;6;17139;16046;;9265;1
-Maule;7;15286;14513;;9122;
-Maule;8;14425;13827;;9060;
-Maule;9;14510;13975;;9278;
-Maule;10;15022;14546;;9627;2
-Maule;11;15443;15004;;10398;32
-Maule;12;16710;16361;;12435;1273
-Maule;13;15642;15351;;11731;1526
-Maule;14;16299;16046;;12905;3306
-Maule;15;15271;15021;;12400;4315
-Maule;16;15147;14926;;12746;5363
-Maule;17;14903;14686;;13135;7397
-Metropolitana  Santiago;3;76708;60732;;10939;2
-Metropolitana  Santiago;4;70744;60142;;14080;1
-Metropolitana  Santiago;5;78915;68711;;21042;1
-Metropolitana  Santiago;6;106910;99179;;55298;1
-Metropolitana  Santiago;7;93913;89209;;53496;5
-Metropolitana  Santiago;8;90798;86812;;53445;2
-Metropolitana  Santiago;9;92169;88468;;55648;11
-Metropolitana  Santiago;10;93490;90020;;57428;9
-Metropolitana  Santiago;11;94342;91298;;63005;185
-Metropolitana  Santiago;12;100619;98282;;74735;6795
-Metropolitana  Santiago;13;93170;91270;;70108;7594
-Metropolitana  Santiago;14;94180;92390;;73666;17488
-Metropolitana  Santiago;15;91846;90185;;74458;27649
-Metropolitana  Santiago;16;92047;90467;;77508;36399
-Metropolitana  Santiago;17;91000;89411;;79920;49050
+Libertador B. O'Higgins;3;10472;8465;;1748;1
+Libertador B. O'Higgins;4;9855;8523;;2314;
+Libertador B. O'Higgins;5;10924;9661;;3179;
+Libertador B. O'Higgins;6;15115;14202;;8403;5
+Libertador B. O'Higgins;7;13092;12552;;7942;5
+Libertador B. O'Higgins;8;12705;12238;;7983;3
+Libertador B. O'Higgins;9;12992;12538;;8324;7
+Libertador B. O'Higgins;10;13494;13083;;8939;4
+Libertador B. O'Higgins;11;14001;13648;;9892;57
+Libertador B. O'Higgins;12;14681;14383;;11176;1074
+Libertador B. O'Higgins;13;13842;13577;;10631;1232
+Libertador B. O'Higgins;14;13944;13715;;11033;2507
+Libertador B. O'Higgins;15;13665;13468;;11301;4002
+Libertador B. O'Higgins;16;13678;13494;;11573;5274
+Libertador B. O'Higgins;17;13241;13033;;11741;7104
+Maule;3;12169;9736;;1636;
+Maule;4;11482;9894;;2343;
+Maule;5;12915;11343;;3580;
+Maule;6;17147;16064;;9342;1
+Maule;7;15287;14519;;9193;
+Maule;8;14428;13829;;9116;
+Maule;9;14511;13978;;9341;1
+Maule;10;15023;14550;;9683;2
+Maule;11;15441;15003;;10465;46
+Maule;12;16711;16364;;12513;1393
+Maule;13;15640;15354;;11786;1642
+Maule;14;16302;16047;;12946;3452
+Maule;15;15275;15023;;12428;4469
+Maule;16;15150;14926;;12770;5511
+Maule;17;14902;14688;;13154;7594
+Metropolitana  Santiago;3;77029;61010;;11504;2
+Metropolitana  Santiago;4;70815;60282;;14779;1
+Metropolitana  Santiago;5;78956;68822;;21792;1
+Metropolitana  Santiago;6;106941;99247;;55900;4
+Metropolitana  Santiago;7;93917;89232;;53936;9
+Metropolitana  Santiago;8;90806;86840;;53857;4
+Metropolitana  Santiago;9;92179;88487;;56090;17
+Metropolitana  Santiago;10;93498;90043;;57912;17
+Metropolitana  Santiago;11;94346;91322;;63507;331
+Metropolitana  Santiago;12;100629;98293;;75138;7527
+Metropolitana  Santiago;13;93168;91276;;70477;8395
+Metropolitana  Santiago;14;94186;92394;;73995;18307
+Metropolitana  Santiago;15;91846;90187;;74686;28496
+Metropolitana  Santiago;16;92047;90471;;77661;37264
+Metropolitana  Santiago;17;91002;89421;;80084;50120
