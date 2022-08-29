@@ -294,7 +294,7 @@ def check_mentions(api, keywords, since_id):
                     try:
                         update = api.update_status(status=reply, in_reply_to_status_id=tweet.id)
                         update2 = api.update_status(status=reply2, in_reply_to_status_id=update.id)
-                        api.update_status(status=reply3, in_reply_to_status_id=update2.id)
+                        #api.update_status(status=reply3, in_reply_to_status_id=update2.id)
                     except tweepy.TweepError as error:
                         if error.api_code == 187:
                             # Do something special
@@ -306,7 +306,7 @@ def check_mentions(api, keywords, since_id):
                     try:
                         update = api.update_status(status=reply, in_reply_to_status_id=tweet.id)
                         update2 = api.update_status(status=reply2, in_reply_to_status_id=update.id)
-                        api.update_status(status=reply3, in_reply_to_status_id=update2.id)
+                        #api.update_status(status=reply3, in_reply_to_status_id=update2.id)
                     except tweepy.TweepError as error:
                         if error.api_code == 187:
                             # Do something special
@@ -415,7 +415,7 @@ def check_mentions(api, keywords, since_id):
                                 try:
                                     update = api.update_status(status=reply, in_reply_to_status_id=tweet.id)
                                     update2 = api.update_status(status=reply2, in_reply_to_status_id=update.id)
-                                    api.update_status(status=reply3, in_reply_to_status_id=update2.id)
+                                    #api.update_status(status=reply3, in_reply_to_status_id=update2.id)
                                 except tweepy.TweepError as error:
                                     if error.api_code == 187:
                                         # Do something special
@@ -429,7 +429,7 @@ def check_mentions(api, keywords, since_id):
                                 try:
                                     update = api.update_status(status=reply, in_reply_to_status_id=tweet.id)
                                     update2 = api.update_status(status=reply2, in_reply_to_status_id=update.id)
-                                    api.update_status(status=reply3, in_reply_to_status_id=update2.id)
+                                    #api.update_status(status=reply3, in_reply_to_status_id=update2.id)
                                 except tweepy.TweepError as error:
                                     if error.api_code == 187:
                                         # Do something special
