@@ -480,9 +480,12 @@ def main(a,b,c,d):
     a = np.array([x.lower() if isinstance(x, str) else x for x in keywords])
     keywords = a.tolist()
     while True:
-        since_id = check_mentions(api, keywords, since_id)
-        logger.info("Waiting...")
-        time.sleep(60)
+        try:
+           since_id = check_mentions(api, keywords, since_id)
+           logger.info("Waiting...")
+           time.sleep(60)
+        except:
+           print("An exception occurred")
 
 def normalizaNombreComuna(comuna):
     # standards:
