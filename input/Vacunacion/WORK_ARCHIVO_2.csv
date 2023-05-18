@@ -1,10 +1,10 @@
 NOMBRE_REGION;NOMBRE_COMUNA;COD_COMUNA;EDAD_ANOS;POBLACION;1aDOSIS_RES;2aDOSIS_RES;ÚnicaDOSIS;Refuerzo_DOSIS;4aDOSIS
-Antofagasta;Antofagasta;2101;18;6185;3827;3684;2076;5230;3921
+Antofagasta;Antofagasta;2101;18;6185;3827;3684;2076;5231;3921
 Antofagasta;Antofagasta;2101;19;6640;5353;5170;660;5244;3973
 Antofagasta;Antofagasta;2101;20;7048;6076;5892;279;5510;4115
 Antofagasta;Antofagasta;2101;21;7387;6339;6110;201;5652;4178
 Antofagasta;Antofagasta;2101;22;7656;6638;6406;218;5921;4305
-Antofagasta;Antofagasta;2101;23;7877;5920;5697;1166;6082;4395
+Antofagasta;Antofagasta;2101;23;7877;5921;5698;1165;6082;4395
 Antofagasta;Antofagasta;2101;24;8092;6418;6170;1217;6639;4749
 Antofagasta;Antofagasta;2101;25;8306;7201;6991;536;6766;4945
 Antofagasta;Antofagasta;2101;26;8483;7656;7424;364;6979;5157
@@ -77,7 +77,7 @@ Antofagasta;Calama;2201;29;3807;3640;3562;208;3464;2840
 Antofagasta;Calama;2201;30;3828;3716;3622;204;3528;2870
 Antofagasta;Calama;2201;31;3822;3683;3623;190;3528;2847
 Antofagasta;Calama;2201;32;3740;3586;3497;179;3422;2830
-Antofagasta;Calama;2201;33;3639;3701;3635;199;3579;2975
+Antofagasta;Calama;2201;33;3639;3700;3634;199;3578;2974
 Antofagasta;Calama;2201;34;3499;3431;3365;152;3296;2755
 Antofagasta;Calama;2201;35;3359;3193;3131;145;3103;2671
 Antofagasta;Calama;2201;36;3279;3130;3096;127;3025;2590
@@ -85,8 +85,8 @@ Antofagasta;Calama;2201;37;3240;3011;2963;141;2931;2541
 Antofagasta;Calama;2201;38;3202;3096;3049;121;2998;2579
 Antofagasta;Calama;2201;39;3158;3115;3065;118;3020;2614
 Antofagasta;Calama;2201;40;3075;2996;2953;105;2911;2522
-Antofagasta;Calama;2201;41;2979;2841;2798;103;2769;2409
-Antofagasta;Calama;2201;42;2893;2645;2608;96;2582;2282
+Antofagasta;Calama;2201;41;2979;2842;2799;103;2770;2410
+Antofagasta;Calama;2201;42;2893;2646;2608;96;2582;2282
 Antofagasta;Calama;2201;43;2827;2715;2687;99;2662;2373
 Antofagasta;Calama;2201;44;2806;2717;2687;69;2634;2370
 Antofagasta;Calama;2201;45;2792;2632;2610;57;2571;2319
@@ -105,7 +105,7 @@ Antofagasta;Calama;2201;57;1989;2048;2025;22;1988;1831
 Antofagasta;Calama;2201;58;1926;1972;1957;23;1923;1778
 Antofagasta;Calama;2201;59;1833;1859;1850;18;1815;1658
 Antofagasta;Calama;2201;60;1746;1856;1844;5;1797;1672
-Antofagasta;Calama;2201;61;1637;1627;1620;1;1556;1430
+Antofagasta;Calama;2201;61;1637;1627;1621;1;1556;1430
 Antofagasta;Calama;2201;62;1545;1476;1467;1;1425;1320
 Antofagasta;Calama;2201;63;1481;1389;1377;;1335;1231
 Antofagasta;Calama;2201;64;1433;1370;1362;;1325;1223
@@ -524,7 +524,7 @@ Antofagasta;Tocopilla;2301;35;388;396;392;22;374;260
 Antofagasta;Tocopilla;2301;36;377;413;404;16;385;279
 Antofagasta;Tocopilla;2301;37;377;334;323;15;311;233
 Antofagasta;Tocopilla;2301;38;381;353;346;14;321;247
-Antofagasta;Tocopilla;2301;39;378;351;345;13;319;226
+Antofagasta;Tocopilla;2301;39;378;352;346;13;320;226
 Antofagasta;Tocopilla;2301;40;372;339;332;12;306;221
 Antofagasta;Tocopilla;2301;41;357;333;331;12;315;250
 Antofagasta;Tocopilla;2301;42;356;306;301;9;294;227
@@ -541,7 +541,7 @@ Antofagasta;Tocopilla;2301;52;321;277;273;4;261;218
 Antofagasta;Tocopilla;2301;53;326;340;333;3;323;264
 Antofagasta;Tocopilla;2301;54;327;273;271;3;258;217
 Antofagasta;Tocopilla;2301;55;329;296;292;4;282;235
-Antofagasta;Tocopilla;2301;56;333;325;321;4;303;253
+Antofagasta;Tocopilla;2301;56;333;324;320;4;302;253
 Antofagasta;Tocopilla;2301;57;338;334;329;3;310;257
 Antofagasta;Tocopilla;2301;58;340;318;318;4;304;253
 Antofagasta;Tocopilla;2301;59;328;305;302;5;289;240
@@ -579,8 +579,8 @@ Arica y Parinacota;Arica;15101;27;4042;3868;3711;352;3600;2559
 Arica y Parinacota;Arica;15101;28;4036;3822;3675;294;3487;2497
 Arica y Parinacota;Arica;15101;29;4115;3950;3804;335;3683;2654
 Arica y Parinacota;Arica;15101;30;4153;3990;3869;305;3741;2701
-Arica y Parinacota;Arica;15101;31;4145;4032;3922;282;3826;2804
-Arica y Parinacota;Arica;15101;32;4131;3861;3755;310;3699;2731
+Arica y Parinacota;Arica;15101;31;4145;4031;3921;282;3825;2803
+Arica y Parinacota;Arica;15101;32;4131;3862;3756;310;3700;2732
 Arica y Parinacota;Arica;15101;33;4044;3825;3731;271;3660;2772
 Arica y Parinacota;Arica;15101;34;3949;3819;3720;275;3638;2743
 Arica y Parinacota;Arica;15101;35;3810;3637;3546;246;3490;2715
@@ -1018,8 +1018,8 @@ Atacama;Copiapó;3101;25;2721;3000;2893;97;2686;1953
 Atacama;Copiapó;3101;26;2789;3021;2916;96;2728;1980
 Atacama;Copiapó;3101;27;2882;3185;3100;96;2856;2053
 Atacama;Copiapó;3101;28;2965;3173;3097;88;2900;2148
-Atacama;Copiapó;3101;29;3037;3161;3085;103;2904;2180
-Atacama;Copiapó;3101;30;3106;3185;3114;99;2932;2178
+Atacama;Copiapó;3101;29;3037;3161;3085;103;2906;2180
+Atacama;Copiapó;3101;30;3106;3185;3114;99;2933;2178
 Atacama;Copiapó;3101;31;3084;3318;3226;87;3030;2317
 Atacama;Copiapó;3101;32;3071;3147;3077;76;2889;2231
 Atacama;Copiapó;3101;33;3000;2972;2902;63;2710;2125
@@ -1031,8 +1031,8 @@ Atacama;Copiapó;3101;38;2530;2559;2519;59;2408;1923
 Atacama;Copiapó;3101;39;2523;2633;2585;55;2485;2039
 Atacama;Copiapó;3101;40;2466;2519;2469;48;2364;1923
 Atacama;Copiapó;3101;41;2395;2282;2245;48;2179;1771
-Atacama;Copiapó;3101;42;2314;2187;2162;40;2089;1718
-Atacama;Copiapó;3101;43;2261;2329;2295;45;2211;1864
+Atacama;Copiapó;3101;42;2314;2186;2161;40;2088;1717
+Atacama;Copiapó;3101;43;2261;2330;2296;45;2212;1865
 Atacama;Copiapó;3101;44;2230;2164;2138;49;2076;1756
 Atacama;Copiapó;3101;45;2223;2198;2168;33;2092;1749
 Atacama;Copiapó;3101;46;2190;2287;2248;38;2184;1861
@@ -1052,7 +1052,7 @@ Atacama;Copiapó;3101;59;1880;1846;1827;15;1769;1540
 Atacama;Copiapó;3101;60;1791;1987;1970;5;1922;1704
 Atacama;Copiapó;3101;61;1708;1669;1650;1;1586;1411
 Atacama;Copiapó;3101;62;1644;1654;1636;3;1580;1418
-Atacama;Copiapó;3101;63;1573;1541;1531;1;1484;1330
+Atacama;Copiapó;3101;63;1573;1541;1532;1;1484;1330
 Atacama;Copiapó;3101;64;1524;1486;1473;2;1435;1286
 Atacama;Copiapó;3101;65;1467;1381;1372;;1320;1171
 Atacama;Copiapó;3101;66;1407;1258;1250;1;1214;1072
@@ -1063,13 +1063,13 @@ Atacama;Copiapó;3101;70;1033;913;907;;862;783
 Atacama;Copiapó;3101;71;907;864;861;;825;733
 Atacama;Copiapó;3101;72;833;751;748;;715;648
 Atacama;Copiapó;3101;73;787;781;778;1;752;676
-Atacama;Copiapó;3101;74;735;641;638;;603;529
+Atacama;Copiapó;3101;74;735;641;638;;603;530
 Atacama;Copiapó;3101;75;677;658;658;1;627;551
 Atacama;Copiapó;3101;76;623;621;615;;588;515
 Atacama;Copiapó;3101;77;565;500;493;;469;417
 Atacama;Copiapó;3101;78;513;524;521;;481;429
 Atacama;Copiapó;3101;79;476;512;508;;476;409
-Atacama;Copiapó;3101;80;3652;3286;3220;;2861;2306
+Atacama;Copiapó;3101;80;3652;3287;3220;;2861;2306
 Atacama;Diego de Almagro;3202;18;146;211;206;29;213;157
 Atacama;Diego de Almagro;3202;19;132;187;183;8;167;135
 Atacama;Diego de Almagro;3202;20;132;183;177;20;186;138
@@ -1666,8 +1666,8 @@ Aysén del General Carlos Ibáñez del Campo;Coyhaique;11101;43;939;844;837;67;859;
 Aysén del General Carlos Ibáñez del Campo;Coyhaique;11101;44;944;803;801;77;835;686
 Aysén del General Carlos Ibáñez del Campo;Coyhaique;11101;45;935;808;802;66;821;678
 Aysén del General Carlos Ibáñez del Campo;Coyhaique;11101;46;920;788;785;64;806;671
-Aysén del General Carlos Ibáñez del Campo;Coyhaique;11101;47;886;806;802;52;802;667
-Aysén del General Carlos Ibáñez del Campo;Coyhaique;11101;48;840;759;756;74;794;647
+Aysén del General Carlos Ibáñez del Campo;Coyhaique;11101;47;886;806;802;53;803;667
+Aysén del General Carlos Ibáñez del Campo;Coyhaique;11101;48;840;759;756;73;793;647
 Aysén del General Carlos Ibáñez del Campo;Coyhaique;11101;49;801;787;782;45;783;658
 Aysén del General Carlos Ibáñez del Campo;Coyhaique;11101;50;765;757;751;45;754;630
 Aysén del General Carlos Ibáñez del Campo;Coyhaique;11101;51;749;726;719;51;734;584
@@ -1681,7 +1681,7 @@ Aysén del General Carlos Ibáñez del Campo;Coyhaique;11101;58;707;606;603;36;612;
 Aysén del General Carlos Ibáñez del Campo;Coyhaique;11101;59;685;665;662;17;647;547
 Aysén del General Carlos Ibáñez del Campo;Coyhaique;11101;60;646;637;633;13;612;509
 Aysén del General Carlos Ibáñez del Campo;Coyhaique;11101;61;629;654;653;;623;531
-Aysén del General Carlos Ibáñez del Campo;Coyhaique;11101;62;612;597;595;1;561;479
+Aysén del General Carlos Ibáñez del Campo;Coyhaique;11101;62;612;597;595;1;561;480
 Aysén del General Carlos Ibáñez del Campo;Coyhaique;11101;63;601;592;591;;564;471
 Aysén del General Carlos Ibáñez del Campo;Coyhaique;11101;64;577;570;568;;545;467
 Aysén del General Carlos Ibáñez del Campo;Coyhaique;11101;65;547;554;551;;527;445
@@ -2192,7 +2192,7 @@ Biobío;Arauco;8202;65;364;392;391;;366;324
 Biobío;Arauco;8202;66;351;339;338;;329;296
 Biobío;Arauco;8202;67;346;339;338;;323;282
 Biobío;Arauco;8202;68;330;307;301;;287;243
-Biobío;Arauco;8202;69;304;276;274;;256;218
+Biobío;Arauco;8202;69;304;276;275;;256;218
 Biobío;Arauco;8202;70;275;250;249;;238;204
 Biobío;Arauco;8202;71;251;271;270;;261;236
 Biobío;Arauco;8202;72;232;249;246;;229;200
@@ -2301,8 +2301,8 @@ Biobío;Cañete;8203;48;477;496;492;23;473;372
 Biobío;Cañete;8203;49;467;462;454;23;445;345
 Biobío;Cañete;8203;50;459;435;430;23;415;329
 Biobío;Cañete;8203;51;464;449;444;20;437;331
-Biobío;Cañete;8203;52;463;462;460;21;453;360
-Biobío;Cañete;8203;53;463;447;446;17;438;352
+Biobío;Cañete;8203;52;463;461;459;21;452;360
+Biobío;Cañete;8203;53;463;448;447;17;439;352
 Biobío;Cañete;8203;54;460;437;434;14;416;340
 Biobío;Cañete;8203;55;455;448;446;12;429;353
 Biobío;Cañete;8203;56;445;429;426;20;419;361
@@ -2402,7 +2402,7 @@ Biobío;Concepción;8101;23;4960;4061;3986;208;3864;3090
 Biobío;Concepción;8101;24;4746;4309;4227;222;4100;3260
 Biobío;Concepción;8101;25;4570;4430;4334;206;4188;3345
 Biobío;Concepción;8101;26;4457;4614;4536;167;4387;3494
-Biobío;Concepción;8101;27;4414;4725;4654;156;4457;3564
+Biobío;Concepción;8101;27;4414;4725;4655;156;4457;3564
 Biobío;Concepción;8101;28;4335;4789;4714;157;4506;3643
 Biobío;Concepción;8101;29;4340;4822;4763;156;4556;3578
 Biobío;Concepción;8101;30;4329;4785;4730;139;4536;3671
@@ -2426,7 +2426,7 @@ Biobío;Concepción;8101;47;2914;3065;3038;48;2975;2636
 Biobío;Concepción;8101;48;2910;3040;3016;48;2941;2586
 Biobío;Concepción;8101;49;2910;3085;3069;36;2980;2635
 Biobío;Concepción;8101;50;2910;2951;2927;48;2856;2512
-Biobío;Concepción;8101;51;2921;2824;2805;46;2731;2380
+Biobío;Concepción;8101;51;2921;2824;2805;46;2731;2381
 Biobío;Concepción;8101;52;2985;3030;3009;45;2933;2553
 Biobío;Concepción;8101;53;3035;3063;3040;51;2958;2603
 Biobío;Concepción;8101;54;3084;2980;2962;31;2883;2580
@@ -2436,13 +2436,13 @@ Biobío;Concepción;8101;57;2954;2956;2935;24;2843;2562
 Biobío;Concepción;8101;58;2927;2984;2958;23;2882;2573
 Biobío;Concepción;8101;59;2846;3013;3003;22;2926;2606
 Biobío;Concepción;8101;60;2772;2869;2848;10;2764;2465
-Biobío;Concepción;8101;61;2666;2653;2642;5;2553;2274
+Biobío;Concepción;8101;61;2666;2654;2643;5;2554;2275
 Biobío;Concepción;8101;62;2608;2693;2674;;2592;2350
-Biobío;Concepción;8101;63;2569;2490;2478;;2403;2192
+Biobío;Concepción;8101;63;2569;2489;2477;;2402;2192
 Biobío;Concepción;8101;64;2506;2510;2497;;2426;2211
 Biobío;Concepción;8101;65;2415;2249;2238;1;2152;1971
 Biobío;Concepción;8101;66;2326;2173;2160;;2095;1938
-Biobío;Concepción;8101;67;2268;2196;2184;2;2122;1949
+Biobío;Concepción;8101;67;2268;2196;2184;2;2123;1949
 Biobío;Concepción;8101;68;2177;2053;2043;1;1983;1833
 Biobío;Concepción;8101;69;2048;1799;1790;2;1733;1616
 Biobío;Concepción;8101;70;1909;1700;1693;;1648;1531
@@ -2451,7 +2451,7 @@ Biobío;Concepción;8101;72;1617;1584;1579;;1520;1407
 Biobío;Concepción;8101;73;1569;1513;1502;;1465;1357
 Biobío;Concepción;8101;74;1459;1469;1459;;1394;1286
 Biobío;Concepción;8101;75;1348;1369;1364;;1301;1205
-Biobío;Concepción;8101;76;1269;1247;1240;;1183;1083
+Biobío;Concepción;8101;76;1269;1247;1240;;1183;1084
 Biobío;Concepción;8101;77;1204;1226;1220;;1161;1057
 Biobío;Concepción;8101;78;1147;1071;1066;;1004;903
 Biobío;Concepción;8101;79;1069;988;979;;919;831
@@ -2528,8 +2528,8 @@ Biobío;Coronel;8102;23;1784;1602;1563;51;1438;1011
 Biobío;Coronel;8102;24;1822;1699;1661;44;1534;1087
 Biobío;Coronel;8102;25;1870;1581;1545;41;1426;1046
 Biobío;Coronel;8102;26;1943;1642;1610;46;1472;1073
-Biobío;Coronel;8102;27;2006;1675;1649;54;1542;1094
-Biobío;Coronel;8102;28;2053;1824;1792;43;1649;1136
+Biobío;Coronel;8102;27;2006;1676;1650;54;1543;1095
+Biobío;Coronel;8102;28;2053;1823;1791;43;1648;1135
 Biobío;Coronel;8102;29;2116;1918;1880;55;1752;1271
 Biobío;Coronel;8102;30;2169;1946;1896;68;1783;1287
 Biobío;Coronel;8102;31;2095;1914;1874;56;1747;1268
@@ -2740,7 +2740,7 @@ Biobío;Hualpén;8112;46;1309;1118;1108;13;1084;954
 Biobío;Hualpén;8112;47;1324;1165;1154;14;1127;970
 Biobío;Hualpén;8112;48;1338;1251;1233;12;1198;1069
 Biobío;Hualpén;8112;49;1375;1240;1226;7;1186;1052
-Biobío;Hualpén;8112;50;1408;1140;1129;7;1104;968
+Biobío;Hualpén;8112;50;1408;1141;1130;7;1104;968
 Biobío;Hualpén;8112;51;1415;1146;1137;8;1107;988
 Biobío;Hualpén;8112;52;1416;1232;1218;5;1185;1059
 Biobío;Hualpén;8112;53;1402;1292;1286;7;1236;1088
@@ -2911,7 +2911,7 @@ Biobío;Lebu;8201;28;391;401;390;25;375;281
 Biobío;Lebu;8201;29;423;419;411;27;390;288
 Biobío;Lebu;8201;30;455;420;412;30;407;288
 Biobío;Lebu;8201;31;444;360;349;39;350;273
-Biobío;Lebu;8201;32;429;381;375;24;364;280
+Biobío;Lebu;8201;32;429;381;375;25;365;281
 Biobío;Lebu;8201;33;396;376;368;24;361;272
 Biobío;Lebu;8201;34;376;374;367;36;371;282
 Biobío;Lebu;8201;35;365;360;357;24;349;247
@@ -2931,7 +2931,7 @@ Biobío;Lebu;8201;48;384;372;367;20;359;303
 Biobío;Lebu;8201;49;377;339;337;24;336;274
 Biobío;Lebu;8201;50;370;333;333;10;329;289
 Biobío;Lebu;8201;51;363;361;355;21;357;279
-Biobío;Lebu;8201;52;359;331;328;20;330;274
+Biobío;Lebu;8201;52;359;331;328;19;329;273
 Biobío;Lebu;8201;53;353;371;369;13;361;301
 Biobío;Lebu;8201;54;350;360;359;13;354;303
 Biobío;Lebu;8201;55;339;339;335;7;334;259
@@ -3030,7 +3030,7 @@ Biobío;Los Ángeles;8301;21;2778;2841;2788;211;2773;2171
 Biobío;Los Ángeles;8301;22;2871;2959;2913;340;3020;2292
 Biobío;Los Ángeles;8301;23;2950;3147;3090;277;3082;2353
 Biobío;Los Ángeles;8301;24;3020;3149;3085;228;3065;2333
-Biobío;Los Ángeles;8301;25;3104;3140;3080;236;3062;2321
+Biobío;Los Ángeles;8301;25;3104;3141;3080;236;3062;2321
 Biobío;Los Ángeles;8301;26;3189;3282;3226;154;3132;2440
 Biobío;Los Ángeles;8301;27;3290;3381;3322;144;3194;2501
 Biobío;Los Ángeles;8301;28;3347;3311;3257;159;3156;2462
@@ -3066,8 +3066,8 @@ Biobío;Los Ángeles;8301;57;2633;2643;2636;26;2572;2291
 Biobío;Los Ángeles;8301;58;2544;2652;2632;28;2548;2294
 Biobío;Los Ángeles;8301;59;2436;2510;2501;32;2451;2183
 Biobío;Los Ángeles;8301;60;2333;2501;2492;9;2420;2191
-Biobío;Los Ángeles;8301;61;2227;2332;2320;;2246;2023
-Biobío;Los Ángeles;8301;62;2141;2142;2132;;2078;1881
+Biobío;Los Ángeles;8301;61;2227;2331;2319;;2245;2022
+Biobío;Los Ángeles;8301;62;2141;2143;2133;;2079;1882
 Biobío;Los Ángeles;8301;63;2091;2148;2140;;2059;1866
 Biobío;Los Ángeles;8301;64;2031;2055;2045;;1986;1821
 Biobío;Los Ángeles;8301;65;1978;1909;1902;;1835;1677
@@ -3086,13 +3086,13 @@ Biobío;Los Ángeles;8301;77;946;977;968;;934;825
 Biobío;Los Ángeles;8301;78;886;873;869;1;810;711
 Biobío;Los Ángeles;8301;79;836;775;767;;723;638
 Biobío;Los Ángeles;8301;80;6307;5651;5566;;4922;3962
-Biobío;Lota;8106;18;587;401;396;253;589;390
+Biobío;Lota;8106;18;587;401;396;253;590;390
 Biobío;Lota;8106;19;625;493;485;129;552;382
 Biobío;Lota;8106;20;642;528;519;64;523;368
 Biobío;Lota;8106;21;649;549;535;47;531;369
 Biobío;Lota;8106;22;647;509;496;57;495;334
 Biobío;Lota;8106;23;648;589;579;52;570;414
-Biobío;Lota;8106;24;653;624;611;41;576;403
+Biobío;Lota;8106;24;653;625;611;41;576;403
 Biobío;Lota;8106;25;659;659;649;44;621;453
 Biobío;Lota;8106;26;659;620;611;32;577;432
 Biobío;Lota;8106;27;658;599;587;35;566;399
@@ -3555,7 +3555,7 @@ Biobío;San Pedro de la Paz;8108;42;2408;1779;1768;32;1715;1452
 Biobío;San Pedro de la Paz;8108;43;2281;1780;1763;28;1712;1460
 Biobío;San Pedro de la Paz;8108;44;2178;1683;1671;20;1606;1393
 Biobío;San Pedro de la Paz;8108;45;2141;1773;1762;28;1718;1504
-Biobío;San Pedro de la Paz;8108;46;2088;1902;1892;25;1849;1574
+Biobío;San Pedro de la Paz;8108;46;2088;1902;1892;25;1849;1575
 Biobío;San Pedro de la Paz;8108;47;2015;1825;1812;26;1770;1538
 Biobío;San Pedro de la Paz;8108;48;1934;1751;1741;22;1696;1491
 Biobío;San Pedro de la Paz;8108;49;1881;1709;1697;26;1655;1457
@@ -3570,7 +3570,7 @@ Biobío;San Pedro de la Paz;8108;57;1596;1296;1289;16;1251;1132
 Biobío;San Pedro de la Paz;8108;58;1564;1402;1397;9;1344;1196
 Biobío;San Pedro de la Paz;8108;59;1508;1351;1343;7;1297;1153
 Biobío;San Pedro de la Paz;8108;60;1456;1175;1170;9;1133;1012
-Biobío;San Pedro de la Paz;8108;61;1395;1215;1207;1;1168;1045
+Biobío;San Pedro de la Paz;8108;61;1395;1215;1207;1;1168;1046
 Biobío;San Pedro de la Paz;8108;62;1352;1108;1100;;1047;942
 Biobío;San Pedro de la Paz;8108;63;1318;1045;1041;;1007;915
 Biobío;San Pedro de la Paz;8108;64;1289;1053;1049;;1006;919
@@ -3653,7 +3653,7 @@ Biobío;San Rosendo;8310;77;28;33;32;;30;24
 Biobío;San Rosendo;8310;78;26;31;30;;27;27
 Biobío;San Rosendo;8310;79;24;21;21;;20;17
 Biobío;San Rosendo;8310;80;122;171;167;;148;112
-Biobío;Santa Bárbara;8311;18;183;225;221;20;220;154
+Biobío;Santa Bárbara;8311;18;183;225;221;20;220;155
 Biobío;Santa Bárbara;8311;19;186;172;167;30;176;124
 Biobío;Santa Bárbara;8311;20;188;115;114;57;156;113
 Biobío;Santa Bárbara;8311;21;184;155;154;51;196;138
@@ -3824,8 +3824,8 @@ Biobío;Talcahuano;8110;59;2186;2164;2149;16;2102;1876
 Biobío;Talcahuano;8110;60;2104;2173;2164;1;2103;1889
 Biobío;Talcahuano;8110;61;2033;2024;2008;;1952;1767
 Biobío;Talcahuano;8110;62;1973;1926;1918;;1859;1700
-Biobío;Talcahuano;8110;63;1933;1975;1966;;1920;1756
-Biobío;Talcahuano;8110;64;1854;1747;1735;2;1677;1539
+Biobío;Talcahuano;8110;63;1933;1974;1965;;1919;1755
+Biobío;Talcahuano;8110;64;1854;1748;1736;2;1678;1540
 Biobío;Talcahuano;8110;65;1741;1778;1771;;1730;1584
 Biobío;Talcahuano;8110;66;1622;1623;1617;1;1572;1446
 Biobío;Talcahuano;8110;67;1533;1588;1583;;1547;1434
@@ -4311,8 +4311,8 @@ Coquimbo;Coquimbo;4102;42;3537;2892;2856;90;2747;2222
 Coquimbo;Coquimbo;4102;43;3472;2850;2810;79;2709;2233
 Coquimbo;Coquimbo;4102;44;3433;2831;2802;96;2707;2198
 Coquimbo;Coquimbo;4102;45;3439;2836;2796;85;2710;2256
-Coquimbo;Coquimbo;4102;46;3478;2963;2919;91;2836;2404
-Coquimbo;Coquimbo;4102;47;3446;2861;2832;80;2732;2249
+Coquimbo;Coquimbo;4102;46;3478;2964;2920;91;2837;2404
+Coquimbo;Coquimbo;4102;47;3446;2860;2831;80;2731;2249
 Coquimbo;Coquimbo;4102;48;3324;2921;2889;67;2791;2298
 Coquimbo;Coquimbo;4102;49;3214;2785;2755;70;2655;2243
 Coquimbo;Coquimbo;4102;50;3160;2714;2678;57;2568;2152
@@ -4526,8 +4526,8 @@ Coquimbo;La Serena;4101;68;2001;2016;2009;;1936;1756
 Coquimbo;La Serena;4101;69;1859;1859;1848;;1786;1617
 Coquimbo;La Serena;4101;70;1752;1794;1787;2;1727;1561
 Coquimbo;La Serena;4101;71;1645;1614;1608;;1558;1414
-Coquimbo;La Serena;4101;72;1559;1589;1578;;1523;1368
-Coquimbo;La Serena;4101;73;1433;1468;1464;;1393;1287
+Coquimbo;La Serena;4101;72;1559;1588;1577;;1522;1367
+Coquimbo;La Serena;4101;73;1433;1469;1465;;1394;1288
 Coquimbo;La Serena;4101;74;1329;1318;1310;1;1256;1146
 Coquimbo;La Serena;4101;75;1228;1343;1337;;1293;1182
 Coquimbo;La Serena;4101;76;1169;1234;1230;;1175;1050
@@ -4562,7 +4562,7 @@ Coquimbo;Los Vilos;4203;41;313;338;332;9;308;244
 Coquimbo;Los Vilos;4203;42;314;295;287;8;267;203
 Coquimbo;Los Vilos;4203;43;309;285;283;9;264;198
 Coquimbo;Los Vilos;4203;44;301;316;311;7;296;244
-Coquimbo;Los Vilos;4203;45;297;310;306;6;284;224
+Coquimbo;Los Vilos;4203;45;297;310;306;6;284;225
 Coquimbo;Los Vilos;4203;46;298;315;311;3;294;225
 Coquimbo;Los Vilos;4203;47;299;313;311;8;293;231
 Coquimbo;Los Vilos;4203;48;295;302;297;5;279;230
@@ -4913,7 +4913,7 @@ Coquimbo;Río Hurtado;4305;77;38;30;30;;27;25
 Coquimbo;Río Hurtado;4305;78;36;42;42;;37;32
 Coquimbo;Río Hurtado;4305;79;32;33;33;;28;22
 Coquimbo;Río Hurtado;4305;80;247;243;241;;216;176
-Coquimbo;Salamanca;4204;18;277;276;273;128;377;310
+Coquimbo;Salamanca;4204;18;277;276;273;128;378;310
 Coquimbo;Salamanca;4204;19;255;299;296;73;347;268
 Coquimbo;Salamanca;4204;20;253;360;354;50;374;289
 Coquimbo;Salamanca;4204;21;275;384;374;47;395;299
@@ -5030,8 +5030,8 @@ Coquimbo;Vicuña;4106;68;253;251;250;;244;225
 Coquimbo;Vicuña;4106;69;244;222;221;;215;198
 Coquimbo;Vicuña;4106;70;228;215;213;;207;189
 Coquimbo;Vicuña;4106;71;218;189;187;1;182;170
-Coquimbo;Vicuña;4106;72;205;210;210;;199;180
-Coquimbo;Vicuña;4106;73;199;200;193;;186;167
+Coquimbo;Vicuña;4106;72;205;209;209;;198;179
+Coquimbo;Vicuña;4106;73;199;201;194;;187;168
 Coquimbo;Vicuña;4106;74;184;159;159;;154;144
 Coquimbo;Vicuña;4106;75;173;171;171;;161;142
 Coquimbo;Vicuña;4106;76;163;130;129;;122;110
@@ -5846,7 +5846,7 @@ La Araucanía;Lautaro;9108;65;374;373;370;;353;302
 La Araucanía;Lautaro;9108;66;353;364;363;;342;280
 La Araucanía;Lautaro;9108;67;335;340;339;1;317;274
 La Araucanía;Lautaro;9108;68;333;330;328;;312;267
-La Araucanía;Lautaro;9108;69;338;318;315;;298;241
+La Araucanía;Lautaro;9108;69;338;318;315;;298;242
 La Araucanía;Lautaro;9108;70;334;279;275;;262;222
 La Araucanía;Lautaro;9108;71;305;258;256;;237;191
 La Araucanía;Lautaro;9108;72;272;247;244;;232;188
@@ -6020,7 +6020,7 @@ La Araucanía;Los Sauces;9206;50;97;102;102;2;94;69
 La Araucanía;Los Sauces;9206;51;101;96;96;7;98;73
 La Araucanía;Los Sauces;9206;52;107;83;83;2;80;61
 La Araucanía;Los Sauces;9206;53;109;97;97;1;88;57
-La Araucanía;Los Sauces;9206;54;106;100;99;2;95;72
+La Araucanía;Los Sauces;9206;54;106;101;100;2;96;73
 La Araucanía;Los Sauces;9206;55;106;107;107;1;98;86
 La Araucanía;Los Sauces;9206;56;104;118;118;2;113;89
 La Araucanía;Los Sauces;9206;57;104;119;119;2;117;89
@@ -6031,7 +6031,7 @@ La Araucanía;Los Sauces;9206;61;97;107;106;;102;75
 La Araucanía;Los Sauces;9206;62;96;82;81;;73;64
 La Araucanía;Los Sauces;9206;63;92;89;88;;84;72
 La Araucanía;Los Sauces;9206;64;89;85;85;;81;66
-La Araucanía;Los Sauces;9206;65;83;84;83;;75;63
+La Araucanía;Los Sauces;9206;65;83;83;82;;74;62
 La Araucanía;Los Sauces;9206;66;80;81;79;;75;65
 La Araucanía;Los Sauces;9206;67;76;86;86;;82;73
 La Araucanía;Los Sauces;9206;68;76;70;70;;65;55
@@ -6366,7 +6366,7 @@ La Araucanía;Pitrufquén;9114;18;324;288;281;145;403;289
 La Araucanía;Pitrufquén;9114;19;322;332;322;52;341;247
 La Araucanía;Pitrufquén;9114;20;316;365;364;21;353;248
 La Araucanía;Pitrufquén;9114;21;312;342;339;18;332;224
-La Araucanía;Pitrufquén;9114;22;312;390;387;30;390;272
+La Araucanía;Pitrufquén;9114;22;312;389;386;30;389;272
 La Araucanía;Pitrufquén;9114;23;314;354;350;21;323;215
 La Araucanía;Pitrufquén;9114;24;317;350;343;18;336;241
 La Araucanía;Pitrufquén;9114;25;321;393;384;10;365;262
@@ -6376,7 +6376,7 @@ La Araucanía;Pitrufquén;9114;28;340;398;392;11;367;261
 La Araucanía;Pitrufquén;9114;29;336;379;370;10;347;244
 La Araucanía;Pitrufquén;9114;30;340;369;365;13;346;253
 La Araucanía;Pitrufquén;9114;31;333;396;390;10;358;255
-La Araucanía;Pitrufquén;9114;32;347;366;364;7;334;252
+La Araucanía;Pitrufquén;9114;32;347;367;365;7;335;252
 La Araucanía;Pitrufquén;9114;33;337;377;375;5;331;256
 La Araucanía;Pitrufquén;9114;34;331;315;313;6;303;217
 La Araucanía;Pitrufquén;9114;35;336;316;311;12;306;242
@@ -6406,11 +6406,11 @@ La Araucanía;Pitrufquén;9114;58;332;368;365;6;350;304
 La Araucanía;Pitrufquén;9114;59;320;347;344;5;329;282
 La Araucanía;Pitrufquén;9114;60;314;374;373;1;358;305
 La Araucanía;Pitrufquén;9114;61;307;315;311;;292;246
-La Araucanía;Pitrufquén;9114;62;306;308;308;1;298;260
+La Araucanía;Pitrufquén;9114;62;306;309;309;1;299;261
 La Araucanía;Pitrufquén;9114;63;299;329;329;;309;274
 La Araucanía;Pitrufquén;9114;64;295;277;275;;253;225
 La Araucanía;Pitrufquén;9114;65;286;294;293;;280;247
-La Araucanía;Pitrufquén;9114;66;284;261;257;;241;216
+La Araucanía;Pitrufquén;9114;66;284;260;256;;240;215
 La Araucanía;Pitrufquén;9114;67;279;256;252;1;241;205
 La Araucanía;Pitrufquén;9114;68;274;256;255;;244;205
 La Araucanía;Pitrufquén;9114;69;254;240;238;;226;204
@@ -6459,12 +6459,12 @@ La Araucanía;Pucón;9115;48;382;494;491;7;453;347
 La Araucanía;Pucón;9115;49;377;440;436;7;403;316
 La Araucanía;Pucón;9115;50;381;448;446;5;417;333
 La Araucanía;Pucón;9115;51;381;416;413;9;393;307
-La Araucanía;Pucón;9115;52;383;468;462;6;437;357
+La Araucanía;Pucón;9115;52;383;467;461;6;436;356
 La Araucanía;Pucón;9115;53;382;395;391;12;367;298
 La Araucanía;Pucón;9115;54;378;449;446;4;421;328
 La Araucanía;Pucón;9115;55;373;434;431;3;412;333
 La Araucanía;Pucón;9115;56;361;440;437;8;413;329
-La Araucanía;Pucón;9115;57;348;453;451;5;431;361
+La Araucanía;Pucón;9115;57;348;454;452;5;432;362
 La Araucanía;Pucón;9115;58;332;411;407;6;397;339
 La Araucanía;Pucón;9115;59;322;399;393;3;375;313
 La Araucanía;Pucón;9115;60;306;366;362;1;343;286
@@ -6558,8 +6558,8 @@ La Araucanía;Renaico;9209;21;128;161;157;19;159;123
 La Araucanía;Renaico;9209;22;133;161;158;15;158;129
 La Araucanía;Renaico;9209;23;139;148;143;14;137;86
 La Araucanía;Renaico;9209;24;149;145;140;12;140;107
-La Araucanía;Renaico;9209;25;160;160;159;10;155;126
-La Araucanía;Renaico;9209;26;167;177;174;9;164;124
+La Araucanía;Renaico;9209;25;160;159;158;10;154;125
+La Araucanía;Renaico;9209;26;167;178;175;9;165;125
 La Araucanía;Renaico;9209;27;166;212;208;5;196;157
 La Araucanía;Renaico;9209;28;161;189;188;6;180;145
 La Araucanía;Renaico;9209;29;162;233;228;1;217;163
@@ -6704,8 +6704,8 @@ La Araucanía;Temuco;9101;41;4197;3779;3739;44;3534;2873
 La Araucanía;Temuco;9101;42;4152;3462;3430;49;3271;2684
 La Araucanía;Temuco;9101;43;4119;3512;3485;33;3295;2702
 La Araucanía;Temuco;9101;44;4136;3537;3504;42;3316;2780
-La Araucanía;Temuco;9101;45;4119;3720;3692;42;3534;2993
-La Araucanía;Temuco;9101;46;4042;3922;3887;43;3722;3132
+La Araucanía;Temuco;9101;45;4119;3719;3691;42;3534;2992
+La Araucanía;Temuco;9101;46;4042;3923;3888;43;3722;3133
 La Araucanía;Temuco;9101;47;3920;4000;3970;33;3806;3214
 La Araucanía;Temuco;9101;48;3755;3945;3908;40;3751;3142
 La Araucanía;Temuco;9101;49;3673;3626;3597;33;3444;2914
@@ -6725,8 +6725,8 @@ La Araucanía;Temuco;9101;62;2959;2727;2714;2;2587;2259
 La Araucanía;Temuco;9101;63;2904;2734;2724;;2601;2309
 La Araucanía;Temuco;9101;64;2822;2647;2622;;2494;2229
 La Araucanía;Temuco;9101;65;2715;2411;2399;1;2302;2052
-La Araucanía;Temuco;9101;66;2567;2307;2288;;2189;1935
-La Araucanía;Temuco;9101;67;2440;2219;2209;1;2131;1902
+La Araucanía;Temuco;9101;66;2567;2306;2287;;2188;1935
+La Araucanía;Temuco;9101;67;2440;2220;2210;1;2132;1902
 La Araucanía;Temuco;9101;68;2349;2077;2065;1;1974;1765
 La Araucanía;Temuco;9101;69;2223;1902;1890;3;1819;1635
 La Araucanía;Temuco;9101;70;2085;1784;1770;1;1687;1496
@@ -7090,8 +7090,8 @@ La Araucanía;Villarrica;9120;49;813;914;905;16;846;643
 La Araucanía;Villarrica;9120;50;806;876;865;24;798;612
 La Araucanía;Villarrica;9120;51;808;877;866;21;821;628
 La Araucanía;Villarrica;9120;52;810;951;942;16;885;668
-La Araucanía;Villarrica;9120;53;800;916;903;17;864;675
-La Araucanía;Villarrica;9120;54;784;873;868;21;818;627
+La Araucanía;Villarrica;9120;53;800;915;902;17;863;674
+La Araucanía;Villarrica;9120;54;784;874;869;21;819;628
 La Araucanía;Villarrica;9120;55;760;934;928;14;881;679
 La Araucanía;Villarrica;9120;56;745;887;881;14;834;660
 La Araucanía;Villarrica;9120;57;725;840;835;13;786;603
@@ -7527,7 +7527,7 @@ Libertador General Bernardo O'Higgins;Graneros;6106;45;540;424;420;15;398;326
 Libertador General Bernardo O'Higgins;Graneros;6106;46;520;432;424;22;419;347
 Libertador General Bernardo O'Higgins;Graneros;6106;47;498;444;436;10;410;347
 Libertador General Bernardo O'Higgins;Graneros;6106;48;469;436;429;21;416;344
-Libertador General Bernardo O'Higgins;Graneros;6106;49;464;422;415;17;403;348
+Libertador General Bernardo O'Higgins;Graneros;6106;49;464;422;416;17;403;348
 Libertador General Bernardo O'Higgins;Graneros;6106;50;467;368;366;18;363;298
 Libertador General Bernardo O'Higgins;Graneros;6106;51;478;386;383;15;367;325
 Libertador General Bernardo O'Higgins;Graneros;6106;52;481;389;380;11;365;324
@@ -7660,8 +7660,8 @@ Libertador General Bernardo O'Higgins;Las Cabras;6107;52;396;397;396;1;374;330
 Libertador General Bernardo O'Higgins;Las Cabras;6107;53;398;405;397;;371;317
 Libertador General Bernardo O'Higgins;Las Cabras;6107;54;400;439;434;1;406;352
 Libertador General Bernardo O'Higgins;Las Cabras;6107;55;390;416;414;2;391;337
-Libertador General Bernardo O'Higgins;Las Cabras;6107;56;383;410;409;;393;351
-Libertador General Bernardo O'Higgins;Las Cabras;6107;57;372;439;434;;410;367
+Libertador General Bernardo O'Higgins;Las Cabras;6107;56;383;409;408;;392;350
+Libertador General Bernardo O'Higgins;Las Cabras;6107;57;372;440;435;;411;368
 Libertador General Bernardo O'Higgins;Las Cabras;6107;58;366;433;431;1;412;368
 Libertador General Bernardo O'Higgins;Las Cabras;6107;59;354;397;395;1;373;319
 Libertador General Bernardo O'Higgins;Las Cabras;6107;60;348;389;386;;367;335
@@ -8495,9 +8495,9 @@ Libertador General Bernardo O'Higgins;Peumo;6112;68;145;145;142;;139;127
 Libertador General Bernardo O'Higgins;Peumo;6112;69;138;114;113;;111;106
 Libertador General Bernardo O'Higgins;Peumo;6112;70;136;140;139;;136;122
 Libertador General Bernardo O'Higgins;Peumo;6112;71;131;133;133;;127;115
-Libertador General Bernardo O'Higgins;Peumo;6112;72;120;109;109;;103;94
+Libertador General Bernardo O'Higgins;Peumo;6112;72;120;110;110;;104;95
 Libertador General Bernardo O'Higgins;Peumo;6112;73;102;99;99;;94;83
-Libertador General Bernardo O'Higgins;Peumo;6112;74;91;104;104;;101;91
+Libertador General Bernardo O'Higgins;Peumo;6112;74;91;103;103;;100;90
 Libertador General Bernardo O'Higgins;Peumo;6112;75;86;94;94;;92;86
 Libertador General Bernardo O'Higgins;Peumo;6112;76;86;94;94;;90;81
 Libertador General Bernardo O'Higgins;Peumo;6112;77;80;70;70;;67;58
@@ -8821,12 +8821,12 @@ Libertador General Bernardo O'Higgins;Quinta de Tilcoco;6114;79;59;60;60;;50;42
 Libertador General Bernardo O'Higgins;Quinta de Tilcoco;6114;80;458;403;396;;334;267
 Libertador General Bernardo O'Higgins;Rancagua;6101;18;3329;2921;2852;987;3525;2737
 Libertador General Bernardo O'Higgins;Rancagua;6101;19;3345;3078;3027;431;3155;2420
-Libertador General Bernardo O'Higgins;Rancagua;6101;20;3313;3331;3259;236;3202;2512
+Libertador General Bernardo O'Higgins;Rancagua;6101;20;3313;3333;3259;236;3202;2512
 Libertador General Bernardo O'Higgins;Rancagua;6101;21;3349;3518;3427;166;3276;2526
-Libertador General Bernardo O'Higgins;Rancagua;6101;22;3440;3729;3625;164;3430;2624
-Libertador General Bernardo O'Higgins;Rancagua;6101;23;3532;3867;3760;112;3510;2682
+Libertador General Bernardo O'Higgins;Rancagua;6101;22;3440;3728;3624;164;3429;2623
+Libertador General Bernardo O'Higgins;Rancagua;6101;23;3532;3868;3761;112;3511;2683
 Libertador General Bernardo O'Higgins;Rancagua;6101;24;3645;3964;3868;115;3592;2772
-Libertador General Bernardo O'Higgins;Rancagua;6101;25;3784;4174;4079;95;3826;2962
+Libertador General Bernardo O'Higgins;Rancagua;6101;25;3784;4174;4080;95;3826;2962
 Libertador General Bernardo O'Higgins;Rancagua;6101;26;3972;4263;4154;108;3844;2989
 Libertador General Bernardo O'Higgins;Rancagua;6101;27;4134;4282;4182;89;3871;2973
 Libertador General Bernardo O'Higgins;Rancagua;6101;28;4256;4395;4290;78;3958;3106
@@ -8834,16 +8834,16 @@ Libertador General Bernardo O'Higgins;Rancagua;6101;29;4398;4543;4448;83;4144;32
 Libertador General Bernardo O'Higgins;Rancagua;6101;30;4547;4644;4558;86;4272;3404
 Libertador General Bernardo O'Higgins;Rancagua;6101;31;4493;4675;4574;85;4250;3392
 Libertador General Bernardo O'Higgins;Rancagua;6101;32;4486;4596;4518;75;4223;3418
-Libertador General Bernardo O'Higgins;Rancagua;6101;33;4274;4369;4294;73;4010;3265
+Libertador General Bernardo O'Higgins;Rancagua;6101;33;4274;4369;4295;73;4010;3265
 Libertador General Bernardo O'Higgins;Rancagua;6101;34;4038;4012;3940;62;3697;3018
 Libertador General Bernardo O'Higgins;Rancagua;6101;35;3850;3880;3824;70;3595;2913
 Libertador General Bernardo O'Higgins;Rancagua;6101;36;3794;3865;3799;56;3566;2928
 Libertador General Bernardo O'Higgins;Rancagua;6101;37;3804;3672;3618;47;3395;2848
 Libertador General Bernardo O'Higgins;Rancagua;6101;38;3836;3753;3701;65;3509;2947
 Libertador General Bernardo O'Higgins;Rancagua;6101;39;3805;3831;3783;45;3597;3040
-Libertador General Bernardo O'Higgins;Rancagua;6101;40;3747;3650;3595;49;3422;2908
-Libertador General Bernardo O'Higgins;Rancagua;6101;41;3668;3435;3395;33;3227;2750
-Libertador General Bernardo O'Higgins;Rancagua;6101;42;3621;3362;3334;38;3167;2693
+Libertador General Bernardo O'Higgins;Rancagua;6101;40;3747;3651;3595;49;3422;2908
+Libertador General Bernardo O'Higgins;Rancagua;6101;41;3668;3436;3396;33;3227;2750
+Libertador General Bernardo O'Higgins;Rancagua;6101;42;3621;3362;3333;38;3167;2693
 Libertador General Bernardo O'Higgins;Rancagua;6101;43;3665;3292;3254;47;3133;2667
 Libertador General Bernardo O'Higgins;Rancagua;6101;44;3756;3353;3321;40;3178;2722
 Libertador General Bernardo O'Higgins;Rancagua;6101;45;3834;3487;3445;26;3310;2852
@@ -9330,7 +9330,7 @@ Los Lagos;Castro;10201;21;515;368;347;351;615;448
 Los Lagos;Castro;10201;22;521;594;582;147;653;456
 Los Lagos;Castro;10201;23;535;629;622;113;654;458
 Los Lagos;Castro;10201;24;567;725;717;102;735;530
-Los Lagos;Castro;10201;25;615;694;683;96;665;475
+Los Lagos;Castro;10201;25;615;694;684;96;665;475
 Los Lagos;Castro;10201;26;650;755;745;97;739;527
 Los Lagos;Castro;10201;27;680;727;714;93;728;500
 Los Lagos;Castro;10201;28;714;726;711;95;716;500
@@ -9477,10 +9477,10 @@ Los Lagos;Chonchi;10203;42;249;184;182;14;172;122
 Los Lagos;Chonchi;10203;43;251;180;180;19;179;131
 Los Lagos;Chonchi;10203;44;248;188;188;10;174;119
 Los Lagos;Chonchi;10203;45;249;224;222;21;231;166
-Los Lagos;Chonchi;10203;46;247;216;214;12;208;154
+Los Lagos;Chonchi;10203;46;247;217;215;12;209;154
 Los Lagos;Chonchi;10203;47;245;233;231;12;229;168
 Los Lagos;Chonchi;10203;48;243;228;226;9;214;150
-Los Lagos;Chonchi;10203;49;235;208;205;17;194;122
+Los Lagos;Chonchi;10203;49;235;207;204;17;193;122
 Los Lagos;Chonchi;10203;50;229;202;199;11;190;128
 Los Lagos;Chonchi;10203;51;222;194;193;9;193;137
 Los Lagos;Chonchi;10203;52;222;237;236;13;227;153
@@ -10143,7 +10143,7 @@ Los Lagos;Maullín;10108;78;93;89;88;;74;63
 Los Lagos;Maullín;10108;79;85;81;81;;73;52
 Los Lagos;Maullín;10108;80;637;568;559;;469;340
 Los Lagos;Osorno;10301;18;2309;2169;2139;166;2107;1546
-Los Lagos;Osorno;10301;19;2350;2233;2183;121;2110;1582
+Los Lagos;Osorno;10301;19;2350;2233;2184;121;2110;1582
 Los Lagos;Osorno;10301;20;2324;2322;2281;81;2165;1591
 Los Lagos;Osorno;10301;21;2285;2302;2252;72;2116;1588
 Los Lagos;Osorno;10301;22;2296;2400;2338;74;2207;1645
@@ -10152,7 +10152,7 @@ Los Lagos;Osorno;10301;24;2328;2474;2422;72;2242;1657
 Los Lagos;Osorno;10301;25;2372;2499;2429;52;2250;1663
 Los Lagos;Osorno;10301;26;2444;2552;2504;68;2308;1733
 Los Lagos;Osorno;10301;27;2540;2684;2634;48;2413;1749
-Los Lagos;Osorno;10301;28;2662;2624;2579;58;2384;1762
+Los Lagos;Osorno;10301;28;2662;2624;2579;58;2384;1763
 Los Lagos;Osorno;10301;29;2804;2620;2562;70;2407;1787
 Los Lagos;Osorno;10301;30;2893;2687;2633;79;2471;1878
 Los Lagos;Osorno;10301;31;2822;2682;2642;55;2459;1848
@@ -10176,7 +10176,7 @@ Los Lagos;Osorno;10301;48;2358;2302;2278;23;2179;1796
 Los Lagos;Osorno;10301;49;2309;2211;2191;30;2084;1700
 Los Lagos;Osorno;10301;50;2295;2151;2138;25;2031;1658
 Los Lagos;Osorno;10301;51;2282;2073;2049;16;1946;1628
-Los Lagos;Osorno;10301;52;2292;2137;2113;14;2023;1692
+Los Lagos;Osorno;10301;52;2292;2137;2114;14;2023;1692
 Los Lagos;Osorno;10301;53;2311;2201;2182;15;2077;1719
 Los Lagos;Osorno;10301;54;2340;2226;2204;21;2091;1747
 Los Lagos;Osorno;10301;55;2360;2222;2204;13;2135;1789
@@ -10273,15 +10273,15 @@ Los Lagos;Puerto Montt;10101;19;4177;3533;3451;423;3472;2540
 Los Lagos;Puerto Montt;10101;20;4244;3927;3827;243;3626;2683
 Los Lagos;Puerto Montt;10101;21;4169;3889;3795;201;3538;2554
 Los Lagos;Puerto Montt;10101;22;4155;4187;4062;178;3764;2680
-Los Lagos;Puerto Montt;10101;23;4105;4302;4182;185;3852;2722
-Los Lagos;Puerto Montt;10101;24;4118;4458;4331;166;3952;2820
+Los Lagos;Puerto Montt;10101;23;4105;4301;4181;185;3851;2721
+Los Lagos;Puerto Montt;10101;24;4118;4459;4332;166;3953;2821
 Los Lagos;Puerto Montt;10101;25;4180;4425;4329;129;3969;2829
 Los Lagos;Puerto Montt;10101;26;4299;4659;4547;107;4114;2937
 Los Lagos;Puerto Montt;10101;27;4411;4663;4555;110;4163;2992
 Los Lagos;Puerto Montt;10101;28;4561;4920;4811;133;4391;3145
 Los Lagos;Puerto Montt;10101;29;4696;5100;4980;114;4529;3254
 Los Lagos;Puerto Montt;10101;30;4831;5110;5014;113;4579;3371
-Los Lagos;Puerto Montt;10101;31;4702;5097;4985;127;4606;3300
+Los Lagos;Puerto Montt;10101;31;4702;5097;4986;127;4606;3300
 Los Lagos;Puerto Montt;10101;32;4728;4964;4864;107;4466;3280
 Los Lagos;Puerto Montt;10101;33;4436;4614;4517;116;4120;3005
 Los Lagos;Puerto Montt;10101;34;4305;4401;4305;86;3936;2932
@@ -10591,8 +10591,8 @@ Los Lagos;Puyehue;10304;22;140;155;153;32;162;111
 Los Lagos;Puyehue;10304;23;136;155;154;22;159;96
 Los Lagos;Puyehue;10304;24;134;174;172;22;175;116
 Los Lagos;Puyehue;10304;25;128;122;120;18;123;69
-Los Lagos;Puyehue;10304;26;129;180;177;12;164;105
-Los Lagos;Puyehue;10304;27;133;167;163;21;165;103
+Los Lagos;Puyehue;10304;26;129;181;178;12;165;106
+Los Lagos;Puyehue;10304;27;133;166;162;21;164;102
 Los Lagos;Puyehue;10304;28;141;197;195;25;196;136
 Los Lagos;Puyehue;10304;29;150;147;144;21;150;103
 Los Lagos;Puyehue;10304;30;157;164;161;17;165;102
@@ -12894,9 +12894,9 @@ Maule;Curicó;7301;57;2149;2134;2125;12;2063;1788
 Maule;Curicó;7301;58;2089;2099;2084;10;2003;1724
 Maule;Curicó;7301;59;2004;2031;2022;6;1946;1656
 Maule;Curicó;7301;60;1923;1986;1969;;1894;1646
-Maule;Curicó;7301;61;1838;1789;1780;;1713;1501
+Maule;Curicó;7301;61;1838;1788;1779;;1712;1501
 Maule;Curicó;7301;62;1771;1734;1728;;1655;1442
-Maule;Curicó;7301;63;1679;1704;1697;;1625;1446
+Maule;Curicó;7301;63;1679;1705;1698;;1626;1446
 Maule;Curicó;7301;64;1639;1627;1617;1;1566;1409
 Maule;Curicó;7301;65;1595;1540;1527;;1471;1306
 Maule;Curicó;7301;66;1563;1308;1297;;1245;1116
@@ -13254,7 +13254,7 @@ Maule;Maule;7105;39;1062;618;610;20;593;483
 Maule;Maule;7105;40;1020;578;569;18;559;475
 Maule;Maule;7105;41;968;522;519;18;517;441
 Maule;Maule;7105;42;926;480;478;16;475;398
-Maule;Maule;7105;43;904;509;507;15;490;406
+Maule;Maule;7105;43;904;509;507;15;490;407
 Maule;Maule;7105;44;912;546;544;15;536;443
 Maule;Maule;7105;45;892;559;554;17;546;465
 Maule;Maule;7105;46;860;493;490;16;483;413
@@ -13293,12 +13293,12 @@ Maule;Maule;7105;78;147;141;141;;133;121
 Maule;Maule;7105;79;135;91;89;;81;72
 Maule;Maule;7105;80;945;711;700;;608;465
 Maule;Molina;7304;18;641;291;276;349;573;421
-Maule;Molina;7304;19;649;543;525;135;593;452
+Maule;Molina;7304;19;649;543;525;135;593;453
 Maule;Molina;7304;20;636;630;607;52;594;444
-Maule;Molina;7304;21;623;642;611;44;570;399
+Maule;Molina;7304;21;623;642;611;44;570;400
 Maule;Molina;7304;22;633;676;651;40;611;436
 Maule;Molina;7304;23;633;704;674;44;623;427
-Maule;Molina;7304;24;639;651;625;45;601;425
+Maule;Molina;7304;24;639;651;625;45;601;426
 Maule;Molina;7304;25;649;663;637;35;588;417
 Maule;Molina;7304;26;675;709;684;29;623;464
 Maule;Molina;7304;27;713;666;643;26;585;423
@@ -14130,16 +14130,16 @@ Maule;Talca;7101;33;3424;4059;3976;57;3713;2995
 Maule;Talca;7101;34;3220;3783;3720;46;3478;2810
 Maule;Talca;7101;35;3057;3711;3638;59;3432;2804
 Maule;Talca;7101;36;2998;3458;3392;41;3186;2598
-Maule;Talca;7101;37;3001;3516;3445;42;3250;2672
-Maule;Talca;7101;38;3112;3527;3475;34;3269;2694
+Maule;Talca;7101;37;3001;3517;3446;42;3251;2673
+Maule;Talca;7101;38;3112;3526;3474;34;3268;2693
 Maule;Talca;7101;39;3160;3541;3493;48;3321;2741
 Maule;Talca;7101;40;3156;3368;3320;27;3148;2632
 Maule;Talca;7101;41;3121;3267;3233;38;3055;2523
 Maule;Talca;7101;42;3093;3045;2996;33;2881;2417
 Maule;Talca;7101;43;3125;3095;3059;31;2913;2430
 Maule;Talca;7101;44;3230;3316;3291;23;3137;2659
-Maule;Talca;7101;45;3233;3299;3272;18;3123;2655
-Maule;Talca;7101;46;3145;3375;3341;24;3207;2761
+Maule;Talca;7101;45;3233;3298;3271;18;3122;2654
+Maule;Talca;7101;46;3145;3376;3342;24;3208;2762
 Maule;Talca;7101;47;3000;3203;3174;18;3048;2626
 Maule;Talca;7101;48;2839;3171;3136;19;3010;2616
 Maule;Talca;7101;49;2792;3243;3218;12;3090;2647
@@ -14152,9 +14152,9 @@ Maule;Talca;7101;55;3046;3145;3115;16;2999;2633
 Maule;Talca;7101;56;3043;3116;3088;11;2980;2610
 Maule;Talca;7101;57;3007;2952;2928;13;2826;2480
 Maule;Talca;7101;58;2968;3073;3050;9;2962;2620
-Maule;Talca;7101;59;2894;2794;2780;8;2668;2349
+Maule;Talca;7101;59;2894;2794;2780;8;2668;2350
 Maule;Talca;7101;60;2795;2900;2884;9;2787;2466
-Maule;Talca;7101;61;2698;2547;2536;1;2439;2160
+Maule;Talca;7101;61;2698;2547;2536;1;2439;2161
 Maule;Talca;7101;62;2624;2529;2511;;2412;2144
 Maule;Talca;7101;63;2554;2538;2523;1;2435;2155
 Maule;Talca;7101;64;2517;2352;2332;;2250;2017
@@ -14173,7 +14173,7 @@ Maule;Talca;7101;76;1215;1303;1296;;1232;1096
 Maule;Talca;7101;77;1107;1107;1098;;1040;915
 Maule;Talca;7101;78;1014;1024;1019;;962;832
 Maule;Talca;7101;79;937;931;922;;864;732
-Maule;Talca;7101;80;7247;6436;6357;;5657;4557
+Maule;Talca;7101;80;7247;6437;6357;;5658;4557
 Maule;Teno;7308;18;382;211;207;154;328;254
 Maule;Teno;7308;19;394;245;241;101;311;242
 Maule;Teno;7308;20;397;340;335;53;359;293
@@ -14512,10 +14512,10 @@ Metropolitana de Santiago;Buin;13402;37;1898;1907;1869;51;1796;1487
 Metropolitana de Santiago;Buin;13402;38;1850;1874;1844;43;1770;1457
 Metropolitana de Santiago;Buin;13402;39;1785;1960;1930;47;1882;1539
 Metropolitana de Santiago;Buin;13402;40;1722;1829;1795;33;1715;1418
-Metropolitana de Santiago;Buin;13402;41;1649;1644;1617;31;1559;1322
+Metropolitana de Santiago;Buin;13402;41;1649;1643;1616;31;1558;1321
 Metropolitana de Santiago;Buin;13402;42;1606;1638;1611;32;1541;1295
 Metropolitana de Santiago;Buin;13402;43;1586;1525;1510;20;1448;1214
-Metropolitana de Santiago;Buin;13402;44;1575;1488;1468;20;1404;1204
+Metropolitana de Santiago;Buin;13402;44;1575;1489;1469;20;1405;1205
 Metropolitana de Santiago;Buin;13402;45;1554;1490;1469;29;1419;1211
 Metropolitana de Santiago;Buin;13402;46;1525;1563;1547;21;1486;1262
 Metropolitana de Santiago;Buin;13402;47;1473;1487;1472;29;1423;1211
@@ -14562,7 +14562,7 @@ Metropolitana de Santiago;Calera de Tango;13403;24;479;457;449;89;484;387
 Metropolitana de Santiago;Calera de Tango;13403;25;491;434;426;80;452;358
 Metropolitana de Santiago;Calera de Tango;13403;26;485;430;419;57;427;340
 Metropolitana de Santiago;Calera de Tango;13403;27;480;483;477;56;472;370
-Metropolitana de Santiago;Calera de Tango;13403;28;459;416;409;57;417;309
+Metropolitana de Santiago;Calera de Tango;13403;28;459;416;409;57;417;310
 Metropolitana de Santiago;Calera de Tango;13403;29;447;441;436;62;440;344
 Metropolitana de Santiago;Calera de Tango;13403;30;443;476;468;50;462;355
 Metropolitana de Santiago;Calera de Tango;13403;31;437;546;538;52;533;435
@@ -14595,7 +14595,7 @@ Metropolitana de Santiago;Calera de Tango;13403;57;373;449;449;12;445;396
 Metropolitana de Santiago;Calera de Tango;13403;58;360;418;417;10;416;376
 Metropolitana de Santiago;Calera de Tango;13403;59;336;395;394;3;386;362
 Metropolitana de Santiago;Calera de Tango;13403;60;322;397;396;9;397;360
-Metropolitana de Santiago;Calera de Tango;13403;61;310;388;385;;370;336
+Metropolitana de Santiago;Calera de Tango;13403;61;310;388;385;;370;337
 Metropolitana de Santiago;Calera de Tango;13403;62;301;386;386;;374;333
 Metropolitana de Santiago;Calera de Tango;13403;63;285;338;336;;325;291
 Metropolitana de Santiago;Calera de Tango;13403;64;264;325;324;;311;277
@@ -14689,7 +14689,7 @@ Metropolitana de Santiago;Cerro Navia;13103;25;2442;1981;1919;160;1827;1258
 Metropolitana de Santiago;Cerro Navia;13103;26;2445;2075;2003;155;1878;1326
 Metropolitana de Santiago;Cerro Navia;13103;27;2416;2047;1972;144;1849;1265
 Metropolitana de Santiago;Cerro Navia;13103;28;2394;2095;2020;132;1863;1319
-Metropolitana de Santiago;Cerro Navia;13103;29;2418;2128;2058;136;1903;1370
+Metropolitana de Santiago;Cerro Navia;13103;29;2418;2129;2059;136;1904;1370
 Metropolitana de Santiago;Cerro Navia;13103;30;2461;2038;1960;149;1843;1317
 Metropolitana de Santiago;Cerro Navia;13103;31;2401;1997;1942;125;1806;1299
 Metropolitana de Santiago;Cerro Navia;13103;32;2318;1856;1788;128;1708;1213
@@ -14741,7 +14741,7 @@ Metropolitana de Santiago;Cerro Navia;13103;77;683;617;615;;579;508
 Metropolitana de Santiago;Cerro Navia;13103;78;626;580;576;;541;473
 Metropolitana de Santiago;Cerro Navia;13103;79;565;518;512;;475;410
 Metropolitana de Santiago;Cerro Navia;13103;80;3690;3257;3196;1;2840;2324
-Metropolitana de Santiago;Colina;13301;18;2431;1334;1291;1124;2203;1768
+Metropolitana de Santiago;Colina;13301;18;2431;1334;1291;1124;2203;1769
 Metropolitana de Santiago;Colina;13301;19;2392;2000;1952;378;2179;1767
 Metropolitana de Santiago;Colina;13301;20;2401;2294;2231;139;2215;1784
 Metropolitana de Santiago;Colina;13301;21;2440;2198;2152;101;2060;1633
@@ -14806,7 +14806,7 @@ Metropolitana de Santiago;Colina;13301;79;286;314;311;;284;255
 Metropolitana de Santiago;Colina;13301;80;1934;1923;1898;;1723;1461
 Metropolitana de Santiago;Conchalí;13104;18;1704;1581;1556;516;1889;1374
 Metropolitana de Santiago;Conchalí;13104;19;1783;1969;1930;169;1918;1431
-Metropolitana de Santiago;Conchalí;13104;20;1892;2068;2027;60;1903;1403
+Metropolitana de Santiago;Conchalí;13104;20;1892;2068;2028;60;1904;1403
 Metropolitana de Santiago;Conchalí;13104;21;1991;2051;1984;46;1821;1331
 Metropolitana de Santiago;Conchalí;13104;22;2100;2073;2006;155;1964;1437
 Metropolitana de Santiago;Conchalí;13104;23;2184;2154;2087;200;2050;1508
@@ -14866,7 +14866,7 @@ Metropolitana de Santiago;Conchalí;13104;76;841;716;713;;674;616
 Metropolitana de Santiago;Conchalí;13104;77;787;651;649;;622;559
 Metropolitana de Santiago;Conchalí;13104;78;744;709;705;;669;584
 Metropolitana de Santiago;Conchalí;13104;79;709;612;608;;577;516
-Metropolitana de Santiago;Conchalí;13104;80;5442;4849;4780;1;4329;3631
+Metropolitana de Santiago;Conchalí;13104;80;5442;4849;4781;1;4329;3631
 Metropolitana de Santiago;Curacaví;13503;18;451;223;216;281;458;336
 Metropolitana de Santiago;Curacaví;13503;19;452;363;361;111;440;344
 Metropolitana de Santiago;Curacaví;13503;20;466;457;449;46;456;340
@@ -14972,7 +14972,7 @@ Metropolitana de Santiago;El Bosque;13105;56;2065;1987;1968;29;1919;1659
 Metropolitana de Santiago;El Bosque;13105;57;2055;2046;2032;23;1974;1719
 Metropolitana de Santiago;El Bosque;13105;58;2038;2032;2022;20;1959;1724
 Metropolitana de Santiago;El Bosque;13105;59;1998;1890;1882;11;1811;1587
-Metropolitana de Santiago;El Bosque;13105;60;1951;1844;1830;4;1770;1550
+Metropolitana de Santiago;El Bosque;13105;60;1951;1844;1831;4;1770;1550
 Metropolitana de Santiago;El Bosque;13105;61;1902;1679;1662;;1586;1405
 Metropolitana de Santiago;El Bosque;13105;62;1855;1726;1715;;1661;1471
 Metropolitana de Santiago;El Bosque;13105;63;1814;1671;1659;;1593;1440
@@ -14992,7 +14992,7 @@ Metropolitana de Santiago;El Bosque;13105;76;881;866;859;;819;707
 Metropolitana de Santiago;El Bosque;13105;77;808;764;757;;715;641
 Metropolitana de Santiago;El Bosque;13105;78;751;724;717;;675;598
 Metropolitana de Santiago;El Bosque;13105;79;688;639;630;;587;512
-Metropolitana de Santiago;El Bosque;13105;80;4764;4500;4448;;3934;3190
+Metropolitana de Santiago;El Bosque;13105;80;4764;4501;4448;;3934;3190
 Metropolitana de Santiago;El Monte;13602;18;522;233;219;285;451;326
 Metropolitana de Santiago;El Monte;13602;19;525;407;402;109;466;320
 Metropolitana de Santiago;El Monte;13602;20;539;456;448;55;460;332
@@ -15059,14 +15059,14 @@ Metropolitana de Santiago;El Monte;13602;80;940;855;839;;739;587
 Metropolitana de Santiago;Estación Central;13106;18;2485;1222;1132;857;1731;1256
 Metropolitana de Santiago;Estación Central;13106;19;2735;1575;1482;403;1627;1185
 Metropolitana de Santiago;Estación Central;13106;20;3016;2024;1928;313;1923;1363
-Metropolitana de Santiago;Estación Central;13106;21;3286;2225;2112;300;2050;1431
+Metropolitana de Santiago;Estación Central;13106;21;3286;2225;2113;300;2050;1431
 Metropolitana de Santiago;Estación Central;13106;22;3605;2465;2342;438;2349;1634
 Metropolitana de Santiago;Estación Central;13106;23;3918;2492;2346;559;2444;1703
 Metropolitana de Santiago;Estación Central;13106;24;4216;2765;2605;557;2690;1882
 Metropolitana de Santiago;Estación Central;13106;25;4473;3043;2891;550;2908;2033
 Metropolitana de Santiago;Estación Central;13106;26;4646;3319;3164;513;3125;2220
-Metropolitana de Santiago;Estación Central;13106;27;4756;3547;3367;485;3285;2357
-Metropolitana de Santiago;Estación Central;13106;28;4831;3663;3493;479;3384;2452
+Metropolitana de Santiago;Estación Central;13106;27;4756;3547;3367;485;3285;2358
+Metropolitana de Santiago;Estación Central;13106;28;4831;3663;3494;479;3384;2452
 Metropolitana de Santiago;Estación Central;13106;29;4901;3687;3538;445;3443;2536
 Metropolitana de Santiago;Estación Central;13106;30;4971;3827;3688;448;3606;2647
 Metropolitana de Santiago;Estación Central;13106;31;4796;3682;3557;426;3438;2562
@@ -15095,8 +15095,8 @@ Metropolitana de Santiago;Estación Central;13106;53;2524;1694;1672;65;1630;1409
 Metropolitana de Santiago;Estación Central;13106;54;2490;1813;1796;65;1759;1532
 Metropolitana de Santiago;Estación Central;13106;55;2435;1847;1833;64;1805;1571
 Metropolitana de Santiago;Estación Central;13106;56;2389;1832;1816;46;1758;1538
-Metropolitana de Santiago;Estación Central;13106;57;2344;1817;1796;45;1749;1525
-Metropolitana de Santiago;Estación Central;13106;58;2285;1772;1753;37;1692;1490
+Metropolitana de Santiago;Estación Central;13106;57;2344;1816;1795;45;1748;1524
+Metropolitana de Santiago;Estación Central;13106;58;2285;1773;1754;37;1693;1491
 Metropolitana de Santiago;Estación Central;13106;59;2210;1771;1752;32;1697;1485
 Metropolitana de Santiago;Estación Central;13106;60;2151;1577;1564;13;1504;1330
 Metropolitana de Santiago;Estación Central;13106;61;2093;1461;1448;3;1388;1244
@@ -15130,7 +15130,7 @@ Metropolitana de Santiago;Huechuraba;13107;25;1630;1877;1843;163;1836;1442
 Metropolitana de Santiago;Huechuraba;13107;26;1636;2114;2080;91;2009;1587
 Metropolitana de Santiago;Huechuraba;13107;27;1633;2172;2144;77;2056;1671
 Metropolitana de Santiago;Huechuraba;13107;28;1636;2234;2202;90;2148;1737
-Metropolitana de Santiago;Huechuraba;13107;29;1685;2232;2193;94;2125;1715
+Metropolitana de Santiago;Huechuraba;13107;29;1685;2233;2193;94;2125;1715
 Metropolitana de Santiago;Huechuraba;13107;30;1755;2387;2354;89;2248;1823
 Metropolitana de Santiago;Huechuraba;13107;31;1792;2350;2312;83;2251;1819
 Metropolitana de Santiago;Huechuraba;13107;32;1813;2334;2305;80;2213;1797
@@ -15198,7 +15198,7 @@ Metropolitana de Santiago;Independencia;13108;30;3856;2698;2610;174;2429;1787
 Metropolitana de Santiago;Independencia;13108;31;3710;2686;2605;139;2451;1829
 Metropolitana de Santiago;Independencia;13108;32;3538;2556;2496;177;2371;1772
 Metropolitana de Santiago;Independencia;13108;33;3238;2411;2350;131;2224;1678
-Metropolitana de Santiago;Independencia;13108;34;3006;2328;2262;130;2110;1639
+Metropolitana de Santiago;Independencia;13108;34;3006;2328;2263;130;2110;1639
 Metropolitana de Santiago;Independencia;13108;35;2819;2219;2171;110;2038;1579
 Metropolitana de Santiago;Independencia;13108;36;2691;2068;2025;108;1914;1478
 Metropolitana de Santiago;Independencia;13108;37;2609;1935;1891;91;1773;1371
@@ -15378,7 +15378,7 @@ Metropolitana de Santiago;La Florida;13110;21;5429;5326;5242;141;5016;4071
 Metropolitana de Santiago;La Florida;13110;22;5740;5529;5443;189;5238;4162
 Metropolitana de Santiago;La Florida;13110;23;6021;4389;4305;1564;5433;4318
 Metropolitana de Santiago;La Florida;13110;24;6314;5584;5498;462;5510;4403
-Metropolitana de Santiago;La Florida;13110;25;6604;5703;5601;482;5583;4366
+Metropolitana de Santiago;La Florida;13110;25;6604;5703;5601;482;5583;4367
 Metropolitana de Santiago;La Florida;13110;26;6810;6276;6178;229;5932;4804
 Metropolitana de Santiago;La Florida;13110;27;6929;6404;6306;202;6054;4808
 Metropolitana de Santiago;La Florida;13110;28;7003;6504;6414;216;6140;4934
@@ -15532,7 +15532,7 @@ Metropolitana de Santiago;La Pintana;13112;49;2100;1828;1786;93;1780;1485
 Metropolitana de Santiago;La Pintana;13112;50;2072;1679;1654;78;1632;1351
 Metropolitana de Santiago;La Pintana;13112;51;2053;1586;1574;68;1554;1268
 Metropolitana de Santiago;La Pintana;13112;52;2089;1605;1581;58;1545;1305
-Metropolitana de Santiago;La Pintana;13112;53;2118;1659;1635;58;1609;1345
+Metropolitana de Santiago;La Pintana;13112;53;2118;1660;1636;58;1610;1346
 Metropolitana de Santiago;La Pintana;13112;54;2134;1661;1638;63;1614;1352
 Metropolitana de Santiago;La Pintana;13112;55;2129;1707;1684;51;1657;1432
 Metropolitana de Santiago;La Pintana;13112;56;2127;1705;1686;71;1668;1436
@@ -15540,10 +15540,10 @@ Metropolitana de Santiago;La Pintana;13112;57;2122;1696;1683;62;1662;1411
 Metropolitana de Santiago;La Pintana;13112;58;2113;1804;1787;39;1755;1501
 Metropolitana de Santiago;La Pintana;13112;59;2095;1718;1704;44;1676;1452
 Metropolitana de Santiago;La Pintana;13112;60;2070;1720;1707;16;1630;1392
-Metropolitana de Santiago;La Pintana;13112;61;2013;1708;1694;3;1634;1423
+Metropolitana de Santiago;La Pintana;13112;61;2013;1707;1693;3;1633;1422
 Metropolitana de Santiago;La Pintana;13112;62;1956;1607;1595;1;1526;1334
-Metropolitana de Santiago;La Pintana;13112;63;1915;1639;1628;1;1566;1373
-Metropolitana de Santiago;La Pintana;13112;64;1877;1585;1578;;1503;1313
+Metropolitana de Santiago;La Pintana;13112;63;1915;1639;1628;1;1566;1374
+Metropolitana de Santiago;La Pintana;13112;64;1877;1585;1578;;1503;1314
 Metropolitana de Santiago;La Pintana;13112;65;1821;1516;1506;;1441;1264
 Metropolitana de Santiago;La Pintana;13112;66;1738;1302;1297;;1253;1116
 Metropolitana de Santiago;La Pintana;13112;67;1633;1289;1281;;1226;1089
@@ -15553,9 +15553,9 @@ Metropolitana de Santiago;La Pintana;13112;70;1248;1091;1084;;1044;912
 Metropolitana de Santiago;La Pintana;13112;71;1087;1054;1039;;989;884
 Metropolitana de Santiago;La Pintana;13112;72;975;1001;993;;937;825
 Metropolitana de Santiago;La Pintana;13112;73;918;884;881;;843;737
-Metropolitana de Santiago;La Pintana;13112;74;830;823;815;;769;676
+Metropolitana de Santiago;La Pintana;13112;74;830;822;814;;768;675
 Metropolitana de Santiago;La Pintana;13112;75;739;767;759;;719;628
-Metropolitana de Santiago;La Pintana;13112;76;663;733;729;;673;578
+Metropolitana de Santiago;La Pintana;13112;76;663;734;730;;674;579
 Metropolitana de Santiago;La Pintana;13112;77;601;572;568;;542;474
 Metropolitana de Santiago;La Pintana;13112;78;547;556;553;;515;458
 Metropolitana de Santiago;La Pintana;13112;79;484;478;477;;449;385
@@ -15629,7 +15629,7 @@ Metropolitana de Santiago;Lampa;13302;20;1698;1499;1451;56;1327;964
 Metropolitana de Santiago;Lampa;13302;21;1716;1496;1431;52;1273;897
 Metropolitana de Santiago;Lampa;13302;22;1759;1549;1487;56;1327;953
 Metropolitana de Santiago;Lampa;13302;23;1809;1408;1343;283;1408;990
-Metropolitana de Santiago;Lampa;13302;24;1893;1484;1403;202;1387;988
+Metropolitana de Santiago;Lampa;13302;24;1893;1484;1404;202;1387;988
 Metropolitana de Santiago;Lampa;13302;25;2013;1509;1440;221;1424;973
 Metropolitana de Santiago;Lampa;13302;26;2137;1734;1666;99;1502;1071
 Metropolitana de Santiago;Lampa;13302;27;2242;1853;1773;113;1623;1201
@@ -15647,7 +15647,7 @@ Metropolitana de Santiago;Lampa;13302;38;2456;1910;1865;82;1754;1438
 Metropolitana de Santiago;Lampa;13302;39;2376;1923;1887;58;1786;1392
 Metropolitana de Santiago;Lampa;13302;40;2259;1788;1747;59;1676;1363
 Metropolitana de Santiago;Lampa;13302;41;2145;1780;1748;51;1660;1358
-Metropolitana de Santiago;Lampa;13302;42;2067;1595;1559;65;1478;1219
+Metropolitana de Santiago;Lampa;13302;42;2067;1595;1559;65;1479;1219
 Metropolitana de Santiago;Lampa;13302;43;2012;1532;1510;41;1461;1223
 Metropolitana de Santiago;Lampa;13302;44;1949;1521;1497;62;1454;1221
 Metropolitana de Santiago;Lampa;13302;45;1859;1539;1523;46;1461;1199
@@ -15755,7 +15755,7 @@ Metropolitana de Santiago;Lo Barnechea;13115;20;2090;1834;1818;65;1813;1637
 Metropolitana de Santiago;Lo Barnechea;13115;21;2084;1857;1845;50;1819;1627
 Metropolitana de Santiago;Lo Barnechea;13115;22;2077;1700;1687;180;1761;1552
 Metropolitana de Santiago;Lo Barnechea;13115;23;2049;1759;1745;216;1842;1596
-Metropolitana de Santiago;Lo Barnechea;13115;24;2021;1881;1858;134;1872;1627
+Metropolitana de Santiago;Lo Barnechea;13115;24;2021;1882;1859;134;1873;1628
 Metropolitana de Santiago;Lo Barnechea;13115;25;1955;1807;1785;90;1745;1529
 Metropolitana de Santiago;Lo Barnechea;13115;26;1838;1648;1628;69;1571;1334
 Metropolitana de Santiago;Lo Barnechea;13115;27;1706;1595;1581;55;1503;1271
@@ -15765,7 +15765,7 @@ Metropolitana de Santiago;Lo Barnechea;13115;30;1497;1304;1287;33;1226;1028
 Metropolitana de Santiago;Lo Barnechea;13115;31;1449;1401;1386;36;1323;1105
 Metropolitana de Santiago;Lo Barnechea;13115;32;1452;1347;1332;37;1266;1060
 Metropolitana de Santiago;Lo Barnechea;13115;33;1457;1318;1301;25;1230;1051
-Metropolitana de Santiago;Lo Barnechea;13115;34;1518;1412;1397;30;1346;1148
+Metropolitana de Santiago;Lo Barnechea;13115;34;1518;1413;1397;30;1346;1148
 Metropolitana de Santiago;Lo Barnechea;13115;35;1579;1319;1314;24;1267;1099
 Metropolitana de Santiago;Lo Barnechea;13115;36;1667;1378;1361;23;1304;1138
 Metropolitana de Santiago;Lo Barnechea;13115;37;1774;1401;1391;18;1326;1171
@@ -15785,7 +15785,7 @@ Metropolitana de Santiago;Lo Barnechea;13115;50;1780;1708;1700;5;1637;1527
 Metropolitana de Santiago;Lo Barnechea;13115;51;1745;1693;1683;1;1617;1517
 Metropolitana de Santiago;Lo Barnechea;13115;52;1736;1666;1659;7;1596;1479
 Metropolitana de Santiago;Lo Barnechea;13115;53;1712;1674;1668;5;1608;1477
-Metropolitana de Santiago;Lo Barnechea;13115;54;1662;1661;1653;5;1581;1456
+Metropolitana de Santiago;Lo Barnechea;13115;54;1662;1660;1652;5;1580;1455
 Metropolitana de Santiago;Lo Barnechea;13115;55;1609;1597;1596;7;1547;1439
 Metropolitana de Santiago;Lo Barnechea;13115;56;1560;1571;1561;4;1516;1411
 Metropolitana de Santiago;Lo Barnechea;13115;57;1513;1579;1575;1;1520;1411
@@ -15817,9 +15817,9 @@ Metropolitana de Santiago;Lo Espejo;13116;19;1382;1130;1089;136;1076;791
 Metropolitana de Santiago;Lo Espejo;13116;20;1454;1263;1228;68;1147;808
 Metropolitana de Santiago;Lo Espejo;13116;21;1546;1355;1314;51;1201;840
 Metropolitana de Santiago;Lo Espejo;13116;22;1643;1097;1050;224;1104;772
-Metropolitana de Santiago;Lo Espejo;13116;23;1729;1310;1242;206;1269;889
+Metropolitana de Santiago;Lo Espejo;13116;23;1729;1311;1243;206;1270;889
 Metropolitana de Santiago;Lo Espejo;13116;24;1782;1352;1308;187;1279;909
-Metropolitana de Santiago;Lo Espejo;13116;25;1829;1372;1304;197;1302;910
+Metropolitana de Santiago;Lo Espejo;13116;25;1829;1371;1303;197;1301;910
 Metropolitana de Santiago;Lo Espejo;13116;26;1846;1572;1503;128;1431;1010
 Metropolitana de Santiago;Lo Espejo;13116;27;1864;1560;1498;130;1411;1013
 Metropolitana de Santiago;Lo Espejo;13116;28;1866;1607;1544;128;1425;1008
@@ -15969,7 +15969,7 @@ Metropolitana de Santiago;Macul;13118;45;1749;1414;1399;33;1379;1227
 Metropolitana de Santiago;Macul;13118;46;1733;1482;1478;17;1435;1240
 Metropolitana de Santiago;Macul;13118;47;1686;1461;1450;27;1418;1252
 Metropolitana de Santiago;Macul;13118;48;1656;1369;1354;16;1304;1170
-Metropolitana de Santiago;Macul;13118;49;1599;1476;1466;19;1426;1250
+Metropolitana de Santiago;Macul;13118;49;1599;1475;1465;19;1425;1249
 Metropolitana de Santiago;Macul;13118;50;1568;1415;1403;14;1367;1229
 Metropolitana de Santiago;Macul;13118;51;1547;1288;1279;17;1239;1120
 Metropolitana de Santiago;Macul;13118;52;1574;1372;1363;16;1331;1185
@@ -15979,7 +15979,7 @@ Metropolitana de Santiago;Macul;13118;55;1607;1347;1340;11;1313;1187
 Metropolitana de Santiago;Macul;13118;56;1601;1418;1412;9;1371;1222
 Metropolitana de Santiago;Macul;13118;57;1579;1359;1351;13;1323;1190
 Metropolitana de Santiago;Macul;13118;58;1547;1453;1443;8;1407;1280
-Metropolitana de Santiago;Macul;13118;59;1526;1433;1419;13;1381;1219
+Metropolitana de Santiago;Macul;13118;59;1526;1434;1420;13;1382;1220
 Metropolitana de Santiago;Macul;13118;60;1505;1373;1364;4;1323;1193
 Metropolitana de Santiago;Macul;13118;61;1478;1308;1295;1;1253;1133
 Metropolitana de Santiago;Macul;13118;62;1458;1205;1200;1;1154;1057
@@ -16009,8 +16009,8 @@ Metropolitana de Santiago;Maipú;13119;22;9121;6869;6785;378;6718;5479
 Metropolitana de Santiago;Maipú;13119;23;9405;6020;5896;1406;6805;5547
 Metropolitana de Santiago;Maipú;13119;24;9643;6673;6551;963;7017;5612
 Metropolitana de Santiago;Maipú;13119;25;9852;6888;6764;805;7019;5671
-Metropolitana de Santiago;Maipú;13119;26;9981;7388;7265;453;7184;5853
-Metropolitana de Santiago;Maipú;13119;27;10065;7386;7262;467;7153;5822
+Metropolitana de Santiago;Maipú;13119;26;9981;7387;7264;453;7183;5852
+Metropolitana de Santiago;Maipú;13119;27;10065;7387;7263;467;7154;5823
 Metropolitana de Santiago;Maipú;13119;28;10125;7332;7199;402;7023;5726
 Metropolitana de Santiago;Maipú;13119;29;10241;7309;7200;420;7058;5743
 Metropolitana de Santiago;Maipú;13119;30;10354;7331;7213;414;7100;5744
@@ -16039,7 +16039,7 @@ Metropolitana de Santiago;Maipú;13119;52;8225;6201;6173;83;6112;5554
 Metropolitana de Santiago;Maipú;13119;53;8369;6293;6264;74;6150;5593
 Metropolitana de Santiago;Maipú;13119;54;8394;6535;6504;86;6442;5936
 Metropolitana de Santiago;Maipú;13119;55;8326;6910;6877;76;6765;6166
-Metropolitana de Santiago;Maipú;13119;56;8198;6949;6908;77;6823;6266
+Metropolitana de Santiago;Maipú;13119;56;8198;6949;6908;77;6823;6267
 Metropolitana de Santiago;Maipú;13119;57;7971;7007;6985;56;6878;6296
 Metropolitana de Santiago;Maipú;13119;58;7684;7185;7142;65;7030;6450
 Metropolitana de Santiago;Maipú;13119;59;7357;6818;6796;67;6697;6151
@@ -16172,12 +16172,12 @@ Metropolitana de Santiago;Melipilla;13501;59;1592;1634;1625;30;1580;1353
 Metropolitana de Santiago;Melipilla;13501;60;1545;1648;1630;20;1594;1386
 Metropolitana de Santiago;Melipilla;13501;61;1496;1460;1451;;1391;1219
 Metropolitana de Santiago;Melipilla;13501;62;1454;1534;1526;1;1459;1276
-Metropolitana de Santiago;Melipilla;13501;63;1418;1484;1475;;1427;1244
+Metropolitana de Santiago;Melipilla;13501;63;1418;1484;1475;;1427;1245
 Metropolitana de Santiago;Melipilla;13501;64;1385;1387;1381;1;1332;1156
 Metropolitana de Santiago;Melipilla;13501;65;1353;1343;1337;;1300;1175
 Metropolitana de Santiago;Melipilla;13501;66;1317;1144;1130;;1083;949
 Metropolitana de Santiago;Melipilla;13501;67;1259;1166;1159;;1100;984
-Metropolitana de Santiago;Melipilla;13501;68;1190;1095;1088;;1048;931
+Metropolitana de Santiago;Melipilla;13501;68;1190;1095;1089;;1048;931
 Metropolitana de Santiago;Melipilla;13501;69;1109;1037;1030;;991;867
 Metropolitana de Santiago;Melipilla;13501;70;1039;994;991;;946;834
 Metropolitana de Santiago;Melipilla;13501;71;937;928;924;;876;767
@@ -16256,7 +16256,7 @@ Metropolitana de Santiago;Padre Hurtado;13604;80;1380;1348;1333;;1186;986
 Metropolitana de Santiago;Paine;13404;18;1101;1031;995;274;1151;878
 Metropolitana de Santiago;Paine;13404;19;1105;1086;1054;94;1034;783
 Metropolitana de Santiago;Paine;13404;20;1130;1209;1176;68;1085;833
-Metropolitana de Santiago;Paine;13404;21;1157;1187;1135;54;1040;788
+Metropolitana de Santiago;Paine;13404;21;1157;1187;1135;54;1040;789
 Metropolitana de Santiago;Paine;13404;22;1201;1113;1062;76;984;711
 Metropolitana de Santiago;Paine;13404;23;1242;1054;1004;235;1112;812
 Metropolitana de Santiago;Paine;13404;24;1288;1098;1050;150;1035;744
@@ -16267,8 +16267,8 @@ Metropolitana de Santiago;Paine;13404;28;1377;1318;1264;70;1168;837
 Metropolitana de Santiago;Paine;13404;29;1402;1255;1209;68;1116;829
 Metropolitana de Santiago;Paine;13404;30;1432;1288;1250;59;1142;850
 Metropolitana de Santiago;Paine;13404;31;1419;1277;1250;69;1165;886
-Metropolitana de Santiago;Paine;13404;32;1422;1280;1240;68;1165;888
-Metropolitana de Santiago;Paine;13404;33;1400;1173;1143;53;1065;816
+Metropolitana de Santiago;Paine;13404;32;1422;1280;1240;68;1165;889
+Metropolitana de Santiago;Paine;13404;33;1400;1173;1143;53;1065;817
 Metropolitana de Santiago;Paine;13404;34;1385;1180;1152;60;1078;813
 Metropolitana de Santiago;Paine;13404;35;1368;1126;1093;61;1032;785
 Metropolitana de Santiago;Paine;13404;36;1331;1134;1104;62;1047;819
@@ -16284,9 +16284,9 @@ Metropolitana de Santiago;Paine;13404;45;1167;985;973;34;950;806
 Metropolitana de Santiago;Paine;13404;46;1154;1064;1052;20;1014;840
 Metropolitana de Santiago;Paine;13404;47;1146;1053;1039;25;999;857
 Metropolitana de Santiago;Paine;13404;48;1148;1025;1021;25;984;832
-Metropolitana de Santiago;Paine;13404;49;1129;1038;1032;20;996;856
+Metropolitana de Santiago;Paine;13404;49;1129;1038;1032;20;996;857
 Metropolitana de Santiago;Paine;13404;50;1095;992;978;29;960;833
-Metropolitana de Santiago;Paine;13404;51;1061;999;992;20;951;818
+Metropolitana de Santiago;Paine;13404;51;1061;999;992;20;951;819
 Metropolitana de Santiago;Paine;13404;52;1055;1014;1003;18;977;850
 Metropolitana de Santiago;Paine;13404;53;1046;1063;1053;18;1020;885
 Metropolitana de Santiago;Paine;13404;54;1018;1020;1015;17;986;869
@@ -16633,7 +16633,7 @@ Metropolitana de Santiago;Providencia;13123;79;777;761;756;;728;677
 Metropolitana de Santiago;Providencia;13123;80;8407;7527;7464;;6869;6169
 Metropolitana de Santiago;Pudahuel;13124;18;3415;1945;1896;1143;2797;2155
 Metropolitana de Santiago;Pudahuel;13124;19;3533;2632;2587;432;2785;2161
-Metropolitana de Santiago;Pudahuel;13124;20;3699;3227;3168;113;3019;2300
+Metropolitana de Santiago;Pudahuel;13124;20;3699;3227;3168;113;3019;2301
 Metropolitana de Santiago;Pudahuel;13124;21;3882;3251;3181;109;3003;2323
 Metropolitana de Santiago;Pudahuel;13124;22;4078;3434;3382;220;3270;2545
 Metropolitana de Santiago;Pudahuel;13124;23;4205;3666;3581;169;3378;2600
@@ -16707,23 +16707,23 @@ Metropolitana de Santiago;Puente Alto;13201;27;11490;7772;7631;566;7522;5934
 Metropolitana de Santiago;Puente Alto;13201;28;11519;8118;7973;566;7867;6212
 Metropolitana de Santiago;Puente Alto;13201;29;11579;7814;7673;593;7646;6076
 Metropolitana de Santiago;Puente Alto;13201;30;11746;8208;8072;507;7903;6364
-Metropolitana de Santiago;Puente Alto;13201;31;11532;8163;8030;477;7873;6331
+Metropolitana de Santiago;Puente Alto;13201;31;11532;8163;8030;477;7873;6332
 Metropolitana de Santiago;Puente Alto;13201;32;11394;7987;7876;470;7750;6301
 Metropolitana de Santiago;Puente Alto;13201;33;10932;7367;7237;418;7107;5696
 Metropolitana de Santiago;Puente Alto;13201;34;10566;7088;6986;388;6892;5665
 Metropolitana de Santiago;Puente Alto;13201;35;10238;6573;6477;363;6419;5351
 Metropolitana de Santiago;Puente Alto;13201;36;9900;6458;6355;295;6236;5156
-Metropolitana de Santiago;Puente Alto;13201;37;9702;6400;6310;312;6214;5133
+Metropolitana de Santiago;Puente Alto;13201;37;9702;6399;6309;312;6213;5133
 Metropolitana de Santiago;Puente Alto;13201;38;9443;6616;6525;330;6467;5409
 Metropolitana de Santiago;Puente Alto;13201;39;9226;6893;6815;322;6779;5746
-Metropolitana de Santiago;Puente Alto;13201;40;9003;6299;6213;248;6099;5176
+Metropolitana de Santiago;Puente Alto;13201;40;9003;6300;6214;248;6100;5176
 Metropolitana de Santiago;Puente Alto;13201;41;8919;6105;6023;232;5935;5048
-Metropolitana de Santiago;Puente Alto;13201;42;8924;5813;5745;227;5676;4863
+Metropolitana de Santiago;Puente Alto;13201;42;8924;5813;5745;227;5676;4864
 Metropolitana de Santiago;Puente Alto;13201;43;9035;5544;5478;240;5443;4686
 Metropolitana de Santiago;Puente Alto;13201;44;9070;5491;5427;200;5364;4602
 Metropolitana de Santiago;Puente Alto;13201;45;9026;5931;5883;194;5816;5110
 Metropolitana de Santiago;Puente Alto;13201;46;8972;6331;6274;220;6232;5455
-Metropolitana de Santiago;Puente Alto;13201;47;8850;6332;6282;179;6203;5441
+Metropolitana de Santiago;Puente Alto;13201;47;8850;6332;6282;179;6203;5442
 Metropolitana de Santiago;Puente Alto;13201;48;8844;6414;6361;188;6315;5567
 Metropolitana de Santiago;Puente Alto;13201;49;8782;6444;6394;154;6317;5634
 Metropolitana de Santiago;Puente Alto;13201;50;8718;5944;5907;170;5870;5240
@@ -16731,12 +16731,12 @@ Metropolitana de Santiago;Puente Alto;13201;51;8707;6064;6026;131;5944;5343
 Metropolitana de Santiago;Puente Alto;13201;52;8836;6294;6253;146;6193;5561
 Metropolitana de Santiago;Puente Alto;13201;53;8947;6667;6624;138;6577;5895
 Metropolitana de Santiago;Puente Alto;13201;54;8903;6852;6819;119;6730;6056
-Metropolitana de Santiago;Puente Alto;13201;55;8750;7011;6973;111;6891;6211
-Metropolitana de Santiago;Puente Alto;13201;56;8508;7121;7079;103;6974;6273
-Metropolitana de Santiago;Puente Alto;13201;57;8240;7196;7152;112;7047;6392
-Metropolitana de Santiago;Puente Alto;13201;58;7890;7243;7195;99;7080;6407
+Metropolitana de Santiago;Puente Alto;13201;55;8750;7011;6973;111;6891;6212
+Metropolitana de Santiago;Puente Alto;13201;56;8508;7120;7078;103;6973;6272
+Metropolitana de Santiago;Puente Alto;13201;57;8240;7197;7153;112;7048;6393
+Metropolitana de Santiago;Puente Alto;13201;58;7890;7242;7194;99;7079;6406
 Metropolitana de Santiago;Puente Alto;13201;59;7551;6874;6835;79;6722;6077
-Metropolitana de Santiago;Puente Alto;13201;60;7168;6629;6592;42;6454;5868
+Metropolitana de Santiago;Puente Alto;13201;60;7168;6630;6593;42;6455;5869
 Metropolitana de Santiago;Puente Alto;13201;61;6764;6137;6110;6;5940;5435
 Metropolitana de Santiago;Puente Alto;13201;62;6352;5854;5825;2;5645;5155
 Metropolitana de Santiago;Puente Alto;13201;63;5995;5676;5647;1;5512;5021
@@ -16744,7 +16744,7 @@ Metropolitana de Santiago;Puente Alto;13201;64;5619;5186;5162;3;5004;4596
 Metropolitana de Santiago;Puente Alto;13201;65;5226;4606;4592;;4459;4092
 Metropolitana de Santiago;Puente Alto;13201;66;4828;4012;3990;;3862;3542
 Metropolitana de Santiago;Puente Alto;13201;67;4448;3897;3880;;3770;3478
-Metropolitana de Santiago;Puente Alto;13201;68;4112;3545;3525;;3421;3133
+Metropolitana de Santiago;Puente Alto;13201;68;4112;3545;3525;;3421;3134
 Metropolitana de Santiago;Puente Alto;13201;69;3764;3170;3155;1;3038;2818
 Metropolitana de Santiago;Puente Alto;13201;70;3430;2854;2834;1;2723;2500
 Metropolitana de Santiago;Puente Alto;13201;71;2939;2763;2748;;2638;2424
@@ -16757,11 +16757,11 @@ Metropolitana de Santiago;Puente Alto;13201;77;1643;1569;1552;;1461;1302
 Metropolitana de Santiago;Puente Alto;13201;78;1507;1403;1385;;1309;1166
 Metropolitana de Santiago;Puente Alto;13201;79;1381;1313;1299;;1239;1116
 Metropolitana de Santiago;Puente Alto;13201;80;9964;8855;8715;1;7757;6417
-Metropolitana de Santiago;Quilicura;13125;18;3814;1819;1765;1585;3058;2367
+Metropolitana de Santiago;Quilicura;13125;18;3814;1819;1766;1585;3058;2367
 Metropolitana de Santiago;Quilicura;13125;19;3844;2794;2746;654;3132;2481
 Metropolitana de Santiago;Quilicura;13125;20;3945;3219;3158;307;3191;2544
 Metropolitana de Santiago;Quilicura;13125;21;4077;3142;3078;248;3016;2365
-Metropolitana de Santiago;Quilicura;13125;22;4239;3213;3136;304;3119;2423
+Metropolitana de Santiago;Quilicura;13125;22;4239;3213;3136;304;3119;2424
 Metropolitana de Santiago;Quilicura;13125;23;4337;3206;3115;395;3178;2389
 Metropolitana de Santiago;Quilicura;13125;24;4430;3312;3200;331;3150;2414
 Metropolitana de Santiago;Quilicura;13125;25;4509;3508;3375;299;3234;2474
@@ -16778,21 +16778,21 @@ Metropolitana de Santiago;Quilicura;13125;35;4283;3173;3094;188;2853;2206
 Metropolitana de Santiago;Quilicura;13125;36;4230;3145;3069;187;2863;2273
 Metropolitana de Santiago;Quilicura;13125;37;4259;2967;2874;169;2709;2148
 Metropolitana de Santiago;Quilicura;13125;38;4287;3105;3022;180;2865;2279
-Metropolitana de Santiago;Quilicura;13125;39;4282;3164;3094;175;2943;2357
+Metropolitana de Santiago;Quilicura;13125;39;4282;3164;3094;175;2943;2358
 Metropolitana de Santiago;Quilicura;13125;40;4237;2874;2824;158;2702;2206
-Metropolitana de Santiago;Quilicura;13125;41;4217;3006;2954;150;2817;2326
+Metropolitana de Santiago;Quilicura;13125;41;4217;3006;2954;150;2817;2327
 Metropolitana de Santiago;Quilicura;13125;42;4253;2845;2793;135;2713;2266
-Metropolitana de Santiago;Quilicura;13125;43;4347;2828;2784;114;2710;2255
+Metropolitana de Santiago;Quilicura;13125;43;4347;2829;2785;114;2711;2256
 Metropolitana de Santiago;Quilicura;13125;44;4392;2801;2757;101;2685;2314
 Metropolitana de Santiago;Quilicura;13125;45;4338;3051;3022;85;2916;2514
 Metropolitana de Santiago;Quilicura;13125;46;4211;3171;3134;92;3056;2681
-Metropolitana de Santiago;Quilicura;13125;47;3997;3015;2987;83;2928;2559
+Metropolitana de Santiago;Quilicura;13125;47;3997;3015;2987;83;2928;2560
 Metropolitana de Santiago;Quilicura;13125;48;3820;3237;3203;101;3134;2704
 Metropolitana de Santiago;Quilicura;13125;49;3617;3222;3184;75;3109;2734
 Metropolitana de Santiago;Quilicura;13125;50;3459;2972;2954;67;2900;2572
 Metropolitana de Santiago;Quilicura;13125;51;3330;2841;2817;47;2751;2429
 Metropolitana de Santiago;Quilicura;13125;52;3266;2832;2816;69;2764;2450
-Metropolitana de Santiago;Quilicura;13125;53;3171;2717;2695;59;2636;2351
+Metropolitana de Santiago;Quilicura;13125;53;3171;2716;2694;59;2635;2350
 Metropolitana de Santiago;Quilicura;13125;54;3065;2757;2742;47;2691;2376
 Metropolitana de Santiago;Quilicura;13125;55;2936;2734;2725;48;2675;2392
 Metropolitana de Santiago;Quilicura;13125;56;2819;2644;2625;50;2569;2306
@@ -16830,7 +16830,7 @@ Metropolitana de Santiago;Quinta Normal;13126;24;2322;2089;2023;139;1875;1322
 Metropolitana de Santiago;Quinta Normal;13126;25;2422;2216;2143;135;1991;1425
 Metropolitana de Santiago;Quinta Normal;13126;26;2516;2436;2350;110;2151;1524
 Metropolitana de Santiago;Quinta Normal;13126;27;2609;2437;2356;88;2146;1602
-Metropolitana de Santiago;Quinta Normal;13126;28;2682;2450;2364;88;2131;1577
+Metropolitana de Santiago;Quinta Normal;13126;28;2682;2450;2364;88;2132;1577
 Metropolitana de Santiago;Quinta Normal;13126;29;2741;2491;2404;102;2210;1645
 Metropolitana de Santiago;Quinta Normal;13126;30;2784;2571;2502;88;2296;1741
 Metropolitana de Santiago;Quinta Normal;13126;31;2707;2560;2489;79;2278;1766
@@ -16851,7 +16851,7 @@ Metropolitana de Santiago;Quinta Normal;13126;45;1867;1737;1711;33;1630;1367
 Metropolitana de Santiago;Quinta Normal;13126;46;1812;1683;1665;32;1598;1367
 Metropolitana de Santiago;Quinta Normal;13126;47;1736;1659;1635;30;1582;1313
 Metropolitana de Santiago;Quinta Normal;13126;48;1681;1582;1566;9;1497;1280
-Metropolitana de Santiago;Quinta Normal;13126;49;1648;1607;1591;18;1520;1300
+Metropolitana de Santiago;Quinta Normal;13126;49;1648;1608;1592;18;1521;1301
 Metropolitana de Santiago;Quinta Normal;13126;50;1644;1563;1543;17;1488;1271
 Metropolitana de Santiago;Quinta Normal;13126;51;1652;1371;1356;16;1315;1135
 Metropolitana de Santiago;Quinta Normal;13126;52;1680;1356;1344;18;1289;1146
@@ -16859,7 +16859,7 @@ Metropolitana de Santiago;Quinta Normal;13126;53;1685;1350;1341;13;1298;1140
 Metropolitana de Santiago;Quinta Normal;13126;54;1676;1448;1439;11;1385;1225
 Metropolitana de Santiago;Quinta Normal;13126;55;1649;1518;1505;12;1461;1261
 Metropolitana de Santiago;Quinta Normal;13126;56;1625;1527;1516;15;1476;1300
-Metropolitana de Santiago;Quinta Normal;13126;57;1588;1527;1516;13;1484;1297
+Metropolitana de Santiago;Quinta Normal;13126;57;1588;1526;1515;13;1483;1296
 Metropolitana de Santiago;Quinta Normal;13126;58;1539;1547;1532;11;1482;1306
 Metropolitana de Santiago;Quinta Normal;13126;59;1496;1494;1489;6;1434;1267
 Metropolitana de Santiago;Quinta Normal;13126;60;1455;1355;1347;2;1289;1119
@@ -16927,8 +16927,8 @@ Metropolitana de Santiago;Recoleta;13127;58;2083;1785;1758;19;1700;1517
 Metropolitana de Santiago;Recoleta;13127;59;2057;1705;1688;18;1624;1428
 Metropolitana de Santiago;Recoleta;13127;60;2028;1649;1636;6;1572;1376
 Metropolitana de Santiago;Recoleta;13127;61;1982;1544;1524;;1467;1306
-Metropolitana de Santiago;Recoleta;13127;62;1954;1455;1439;1;1391;1252
-Metropolitana de Santiago;Recoleta;13127;63;1955;1443;1427;2;1370;1240
+Metropolitana de Santiago;Recoleta;13127;62;1954;1454;1438;1;1390;1251
+Metropolitana de Santiago;Recoleta;13127;63;1955;1444;1428;2;1371;1241
 Metropolitana de Santiago;Recoleta;13127;64;1941;1435;1428;2;1371;1247
 Metropolitana de Santiago;Recoleta;13127;65;1908;1309;1297;;1248;1122
 Metropolitana de Santiago;Recoleta;13127;66;1851;1197;1189;;1142;1034
@@ -16959,7 +16959,7 @@ Metropolitana de Santiago;Renca;13128;27;2690;2381;2320;108;2163;1550
 Metropolitana de Santiago;Renca;13128;28;2734;2336;2276;118;2149;1569
 Metropolitana de Santiago;Renca;13128;29;2785;2292;2223;104;2096;1543
 Metropolitana de Santiago;Renca;13128;30;2846;2510;2454;94;2278;1746
-Metropolitana de Santiago;Renca;13128;31;2809;2389;2321;80;2146;1576
+Metropolitana de Santiago;Renca;13128;31;2809;2389;2322;80;2146;1576
 Metropolitana de Santiago;Renca;13128;32;2802;2413;2355;87;2185;1641
 Metropolitana de Santiago;Renca;13128;33;2716;2353;2273;111;2151;1631
 Metropolitana de Santiago;Renca;13128;34;2679;2033;1986;80;1845;1396
@@ -16967,7 +16967,7 @@ Metropolitana de Santiago;Renca;13128;35;2634;2072;2021;72;1917;1524
 Metropolitana de Santiago;Renca;13128;36;2603;2011;1971;69;1851;1435
 Metropolitana de Santiago;Renca;13128;37;2575;1987;1941;73;1852;1453
 Metropolitana de Santiago;Renca;13128;38;2537;2157;2124;64;2037;1586
-Metropolitana de Santiago;Renca;13128;39;2491;2132;2098;57;1988;1604
+Metropolitana de Santiago;Renca;13128;39;2491;2132;2099;57;1988;1604
 Metropolitana de Santiago;Renca;13128;40;2433;2083;2047;56;1956;1564
 Metropolitana de Santiago;Renca;13128;41;2378;1912;1874;55;1788;1443
 Metropolitana de Santiago;Renca;13128;42;2352;1826;1794;47;1713;1355
@@ -16978,7 +16978,7 @@ Metropolitana de Santiago;Renca;13128;46;2201;2006;1975;34;1905;1590
 Metropolitana de Santiago;Renca;13128;47;2074;1999;1969;41;1884;1595
 Metropolitana de Santiago;Renca;13128;48;1987;2042;2017;29;1935;1638
 Metropolitana de Santiago;Renca;13128;49;1889;1986;1964;30;1899;1614
-Metropolitana de Santiago;Renca;13128;50;1832;1851;1825;18;1780;1493
+Metropolitana de Santiago;Renca;13128;50;1832;1851;1825;18;1780;1494
 Metropolitana de Santiago;Renca;13128;51;1787;1670;1651;14;1594;1346
 Metropolitana de Santiago;Renca;13128;52;1801;1760;1736;29;1683;1448
 Metropolitana de Santiago;Renca;13128;53;1793;1693;1676;13;1595;1390
@@ -16987,7 +16987,7 @@ Metropolitana de Santiago;Renca;13128;55;1747;1677;1664;9;1607;1402
 Metropolitana de Santiago;Renca;13128;56;1734;1761;1748;18;1697;1508
 Metropolitana de Santiago;Renca;13128;57;1713;1634;1625;7;1573;1350
 Metropolitana de Santiago;Renca;13128;58;1688;1711;1697;9;1654;1446
-Metropolitana de Santiago;Renca;13128;59;1644;1534;1528;11;1481;1305
+Metropolitana de Santiago;Renca;13128;59;1644;1535;1528;11;1481;1305
 Metropolitana de Santiago;Renca;13128;60;1610;1502;1483;5;1427;1267
 Metropolitana de Santiago;Renca;13128;61;1575;1467;1458;;1397;1208
 Metropolitana de Santiago;Renca;13128;62;1569;1404;1390;;1329;1179
@@ -17065,11 +17065,11 @@ Metropolitana de Santiago;San Bernardo;13401;70;2054;1627;1617;;1549;1374
 Metropolitana de Santiago;San Bernardo;13401;71;1770;1582;1569;;1488;1359
 Metropolitana de Santiago;San Bernardo;13401;72;1578;1486;1478;;1417;1268
 Metropolitana de Santiago;San Bernardo;13401;73;1494;1527;1512;;1433;1273
-Metropolitana de Santiago;San Bernardo;13401;74;1377;1313;1310;;1242;1087
+Metropolitana de Santiago;San Bernardo;13401;74;1377;1314;1311;;1243;1088
 Metropolitana de Santiago;San Bernardo;13401;75;1239;1203;1189;;1126;981
 Metropolitana de Santiago;San Bernardo;13401;76;1123;1165;1156;;1071;946
 Metropolitana de Santiago;San Bernardo;13401;77;1011;1038;1026;;966;842
-Metropolitana de Santiago;San Bernardo;13401;78;923;953;943;;876;768
+Metropolitana de Santiago;San Bernardo;13401;78;923;952;942;;875;767
 Metropolitana de Santiago;San Bernardo;13401;79;830;810;805;;752;661
 Metropolitana de Santiago;San Bernardo;13401;80;6102;5533;5433;;4795;3842
 Metropolitana de Santiago;San Joaquín;13129;18;1245;1069;1027;407;1290;939
@@ -17393,16 +17393,16 @@ Metropolitana de Santiago;Santiago;13101;20;6849;4225;3981;402;3791;2784
 Metropolitana de Santiago;Santiago;13101;21;7912;4748;4492;397;4176;2998
 Metropolitana de Santiago;Santiago;13101;22;9107;5277;5014;568;4780;3509
 Metropolitana de Santiago;Santiago;13101;23;10459;5791;5520;987;5614;4084
-Metropolitana de Santiago;Santiago;13101;24;12013;6982;6631;967;6561;4892
+Metropolitana de Santiago;Santiago;13101;24;12013;6982;6631;967;6561;4893
 Metropolitana de Santiago;Santiago;13101;25;13739;7761;7446;955;7407;5570
 Metropolitana de Santiago;Santiago;13101;26;15332;9585;9258;806;8973;6894
 Metropolitana de Santiago;Santiago;13101;27;16697;10389;10078;730;9682;7546
 Metropolitana de Santiago;Santiago;13101;28;17761;10878;10537;715;10114;7952
-Metropolitana de Santiago;Santiago;13101;29;18646;11496;11189;757;10809;8659
-Metropolitana de Santiago;Santiago;13101;30;19137;11978;11670;665;11216;9114
+Metropolitana de Santiago;Santiago;13101;29;18646;11497;11189;757;10809;8659
+Metropolitana de Santiago;Santiago;13101;30;19137;11979;11670;665;11216;9114
 Metropolitana de Santiago;Santiago;13101;31;18488;12201;11916;677;11507;9400
 Metropolitana de Santiago;Santiago;13101;32;17528;11867;11593;644;11256;9240
-Metropolitana de Santiago;Santiago;13101;33;15865;11035;10800;600;10481;8602
+Metropolitana de Santiago;Santiago;13101;33;15865;11035;10800;600;10481;8603
 Metropolitana de Santiago;Santiago;13101;34;14445;10367;10129;563;9861;8079
 Metropolitana de Santiago;Santiago;13101;35;13183;9603;9405;480;9112;7459
 Metropolitana de Santiago;Santiago;13101;36;12135;9066;8891;430;8536;7011
@@ -17422,7 +17422,7 @@ Metropolitana de Santiago;Santiago;13101;49;4881;4874;4802;149;4693;4089
 Metropolitana de Santiago;Santiago;13101;50;4656;4560;4486;116;4381;3803
 Metropolitana de Santiago;Santiago;13101;51;4545;4230;4177;96;4062;3598
 Metropolitana de Santiago;Santiago;13101;52;4521;4118;4075;101;3964;3481
-Metropolitana de Santiago;Santiago;13101;53;4482;4119;4085;75;3941;3449
+Metropolitana de Santiago;Santiago;13101;53;4482;4119;4085;75;3942;3449
 Metropolitana de Santiago;Santiago;13101;54;4377;3814;3774;82;3684;3261
 Metropolitana de Santiago;Santiago;13101;55;4254;4088;4049;58;3906;3438
 Metropolitana de Santiago;Santiago;13101;56;4153;4059;4018;73;3901;3433
@@ -17444,7 +17444,7 @@ Metropolitana de Santiago;Santiago;13101;71;2122;1775;1757;;1674;1529
 Metropolitana de Santiago;Santiago;13101;72;1967;1683;1671;;1599;1473
 Metropolitana de Santiago;Santiago;13101;73;1904;1544;1530;;1459;1336
 Metropolitana de Santiago;Santiago;13101;74;1791;1409;1397;;1325;1217
-Metropolitana de Santiago;Santiago;13101;75;1658;1362;1352;;1290;1153
+Metropolitana de Santiago;Santiago;13101;75;1658;1362;1352;;1290;1154
 Metropolitana de Santiago;Santiago;13101;76;1535;1333;1322;1;1254;1129
 Metropolitana de Santiago;Santiago;13101;77;1422;1230;1221;;1161;1038
 Metropolitana de Santiago;Santiago;13101;78;1306;1113;1099;;1042;945
@@ -17492,7 +17492,7 @@ Metropolitana de Santiago;Talagante;13601;56;1036;987;978;6;952;854
 Metropolitana de Santiago;Talagante;13601;57;1003;961;954;7;924;805
 Metropolitana de Santiago;Talagante;13601;58;967;1012;1007;7;974;859
 Metropolitana de Santiago;Talagante;13601;59;917;956;950;5;916;815
-Metropolitana de Santiago;Talagante;13601;60;877;931;924;1;879;796
+Metropolitana de Santiago;Talagante;13601;60;877;931;924;1;880;796
 Metropolitana de Santiago;Talagante;13601;61;828;865;861;;828;727
 Metropolitana de Santiago;Talagante;13601;62;796;821;815;;783;688
 Metropolitana de Santiago;Talagante;13601;63;762;764;757;;724;652
@@ -17683,7 +17683,7 @@ Metropolitana de Santiago;Ñuñoa;13120;58;2774;3041;3027;7;2951;2733
 Metropolitana de Santiago;Ñuñoa;13120;59;2774;2850;2837;12;2776;2570
 Metropolitana de Santiago;Ñuñoa;13120;60;2755;2932;2918;4;2843;2617
 Metropolitana de Santiago;Ñuñoa;13120;61;2705;2671;2656;3;2580;2385
-Metropolitana de Santiago;Ñuñoa;13120;62;2625;2693;2681;1;2605;2415
+Metropolitana de Santiago;Ñuñoa;13120;62;2625;2694;2681;1;2605;2415
 Metropolitana de Santiago;Ñuñoa;13120;63;2549;2575;2560;1;2475;2307
 Metropolitana de Santiago;Ñuñoa;13120;64;2480;2527;2518;1;2446;2284
 Metropolitana de Santiago;Ñuñoa;13120;65;2403;2394;2387;;2300;2144
@@ -17704,7 +17704,7 @@ Metropolitana de Santiago;Ñuñoa;13120;79;1187;1049;1042;1;1007;922
 Metropolitana de Santiago;Ñuñoa;13120;80;12084;9675;9571;3;8757;7568
 Tarapacá;Alto Hospicio;1107;18;2085;1795;1682;398;1773;1199
 Tarapacá;Alto Hospicio;1107;19;2101;1907;1756;319;1743;1158
-Tarapacá;Alto Hospicio;1107;20;2170;1962;1818;329;1795;1168
+Tarapacá;Alto Hospicio;1107;20;2170;1962;1818;329;1796;1168
 Tarapacá;Alto Hospicio;1107;21;2243;2029;1900;295;1817;1202
 Tarapacá;Alto Hospicio;1107;22;2319;2081;1916;293;1814;1154
 Tarapacá;Alto Hospicio;1107;23;2387;2074;1919;299;1836;1164
@@ -17714,7 +17714,7 @@ Tarapacá;Alto Hospicio;1107;26;2589;2133;2000;275;1864;1194
 Tarapacá;Alto Hospicio;1107;27;2622;2137;2007;289;1900;1223
 Tarapacá;Alto Hospicio;1107;28;2619;2138;2008;261;1914;1245
 Tarapacá;Alto Hospicio;1107;29;2600;2161;2035;256;1973;1310
-Tarapacá;Alto Hospicio;1107;30;2579;2120;2028;247;1934;1363
+Tarapacá;Alto Hospicio;1107;30;2579;2120;2028;247;1934;1364
 Tarapacá;Alto Hospicio;1107;31;2507;2097;1993;241;1954;1343
 Tarapacá;Alto Hospicio;1107;32;2435;2082;1996;201;1936;1388
 Tarapacá;Alto Hospicio;1107;33;2303;2001;1910;197;1858;1315
@@ -17954,8 +17954,8 @@ Tarapacá;Huara;1404;77;18;16;15;;14;12
 Tarapacá;Huara;1404;78;17;12;12;;10;7
 Tarapacá;Huara;1404;79;15;6;6;;6;3
 Tarapacá;Huara;1404;80;112;89;88;;81;67
-Tarapacá;Iquique;1101;18;2676;2943;2785;417;2779;2167
-Tarapacá;Iquique;1101;19;2750;2927;2764;384;2705;2072
+Tarapacá;Iquique;1101;18;2676;2942;2784;417;2778;2166
+Tarapacá;Iquique;1101;19;2750;2928;2765;384;2706;2073
 Tarapacá;Iquique;1101;20;2925;3237;3037;398;2840;2076
 Tarapacá;Iquique;1101;21;3124;3329;3081;456;2917;2099
 Tarapacá;Iquique;1101;22;3371;3561;3338;446;3169;2280
@@ -17993,7 +17993,7 @@ Tarapacá;Iquique;1101;53;2380;2261;2233;54;2165;1939
 Tarapacá;Iquique;1101;54;2393;2384;2354;60;2291;2047
 Tarapacá;Iquique;1101;55;2400;2250;2222;58;2173;1943
 Tarapacá;Iquique;1101;56;2425;2339;2306;53;2254;1995
-Tarapacá;Iquique;1101;57;2453;2279;2256;49;2202;1984
+Tarapacá;Iquique;1101;57;2453;2279;2256;49;2202;1986
 Tarapacá;Iquique;1101;58;2446;2380;2358;45;2311;2085
 Tarapacá;Iquique;1101;59;2370;2244;2216;38;2154;1903
 Tarapacá;Iquique;1101;60;2265;2246;2220;10;2133;1944
@@ -18415,7 +18415,7 @@ Valparaíso;Cartagena;5603;34;317;348;335;36;310;207
 Valparaíso;Cartagena;5603;35;317;308;302;30;284;186
 Valparaíso;Cartagena;5603;36;322;317;304;24;274;185
 Valparaíso;Cartagena;5603;37;330;284;276;35;260;182
-Valparaíso;Cartagena;5603;38;320;339;330;25;320;214
+Valparaíso;Cartagena;5603;38;320;340;330;25;320;214
 Valparaíso;Cartagena;5603;39;316;323;307;39;302;227
 Valparaíso;Cartagena;5603;40;306;323;313;29;295;222
 Valparaíso;Cartagena;5603;41;305;316;305;16;274;194
@@ -19781,7 +19781,7 @@ Valparaíso;Quillota;5501;77;507;508;502;;466;394
 Valparaíso;Quillota;5501;78;479;461;457;;425;357
 Valparaíso;Quillota;5501;79;449;432;425;;393;344
 Valparaíso;Quillota;5501;80;3630;3227;3174;;2825;2233
-Valparaíso;Quilpué;5801;18;2223;1609;1576;627;2025;1604
+Valparaíso;Quilpué;5801;18;2223;1609;1576;627;2025;1605
 Valparaíso;Quilpué;5801;19;2300;1887;1865;262;1959;1558
 Valparaíso;Quilpué;5801;20;2359;2104;2070;126;2015;1579
 Valparaíso;Quilpué;5801;21;2402;2048;2015;92;1925;1504
@@ -20294,14 +20294,14 @@ Valparaíso;Valparaíso;5101;23;5620;4251;4139;387;4007;2876
 Valparaíso;Valparaíso;5101;24;5701;4467;4334;286;4073;2969
 Valparaíso;Valparaíso;5101;25;5671;4448;4322;275;4105;2918
 Valparaíso;Valparaíso;5101;26;5575;4587;4452;221;4130;2955
-Valparaíso;Valparaíso;5101;27;5454;4705;4576;191;4193;3063
+Valparaíso;Valparaíso;5101;27;5454;4705;4576;192;4193;3064
 Valparaíso;Valparaíso;5101;28;5288;4725;4636;198;4284;3197
 Valparaíso;Valparaíso;5101;29;5238;4862;4727;163;4347;3270
 Valparaíso;Valparaíso;5101;30;5183;4985;4884;145;4477;3339
 Valparaíso;Valparaíso;5101;31;5039;4935;4809;152;4451;3357
 Valparaíso;Valparaíso;5101;32;4907;4600;4496;159;4174;3190
 Valparaíso;Valparaíso;5101;33;4669;4442;4340;141;4042;3093
-Valparaíso;Valparaíso;5101;34;4452;4195;4104;131;3811;2931
+Valparaíso;Valparaíso;5101;34;4452;4195;4104;131;3811;2932
 Valparaíso;Valparaíso;5101;35;4358;3991;3920;107;3645;2797
 Valparaíso;Valparaíso;5101;36;4388;3943;3859;90;3565;2754
 Valparaíso;Valparaíso;5101;37;4420;3924;3845;93;3589;2806
@@ -20344,7 +20344,7 @@ Valparaíso;Valparaíso;5101;73;2150;2094;2075;;1968;1735
 Valparaíso;Valparaíso;5101;74;2040;1966;1946;;1835;1606
 Valparaíso;Valparaíso;5101;75;1927;1892;1876;;1772;1540
 Valparaíso;Valparaíso;5101;76;1808;1673;1660;;1561;1367
-Valparaíso;Valparaíso;5101;77;1699;1601;1586;;1494;1311
+Valparaíso;Valparaíso;5101;77;1699;1601;1586;;1494;1312
 Valparaíso;Valparaíso;5101;78;1589;1435;1420;;1320;1126
 Valparaíso;Valparaíso;5101;79;1474;1330;1312;;1228;1038
 Valparaíso;Valparaíso;5101;80;11779;9736;9592;;8283;6652
@@ -20447,11 +20447,11 @@ Valparaíso;Viña del Mar;5109;50;4063;3793;3756;40;3615;3077
 Valparaíso;Viña del Mar;5109;51;4136;3789;3754;28;3580;3065
 Valparaíso;Viña del Mar;5109;52;4231;4011;3978;42;3807;3251
 Valparaíso;Viña del Mar;5109;53;4319;4029;3981;35;3842;3309
-Valparaíso;Viña del Mar;5109;54;4412;4198;4158;29;3995;3440
+Valparaíso;Viña del Mar;5109;54;4412;4199;4159;29;3996;3441
 Valparaíso;Viña del Mar;5109;55;4453;4171;4137;33;3991;3483
 Valparaíso;Viña del Mar;5109;56;4485;4313;4282;35;4131;3591
 Valparaíso;Viña del Mar;5109;57;4511;4246;4210;24;4027;3461
-Valparaíso;Viña del Mar;5109;58;4518;4342;4312;21;4172;3657
+Valparaíso;Viña del Mar;5109;58;4518;4341;4311;21;4171;3656
 Valparaíso;Viña del Mar;5109;59;4501;4272;4238;27;4094;3568
 Valparaíso;Viña del Mar;5109;60;4428;4208;4177;5;3974;3456
 Valparaíso;Viña del Mar;5109;61;4341;4011;3988;1;3814;3346
@@ -20600,11 +20600,11 @@ Valparaíso;Zapallar;5405;80;296;362;360;;326;262
 Ñuble;Bulnes;16102;78;122;132;132;;125;111
 Ñuble;Bulnes;16102;79;109;124;122;;117;106
 Ñuble;Bulnes;16102;80;858;830;823;;744;594
-Ñuble;Chillán;16101;18;2731;2339;2308;464;2624;2112
+Ñuble;Chillán;16101;18;2731;2339;2308;464;2625;2113
 Ñuble;Chillán;16101;19;2725;2412;2373;261;2453;1974
 Ñuble;Chillán;16101;20;2747;2719;2687;180;2660;2156
 Ñuble;Chillán;16101;21;2744;2653;2604;156;2542;2027
-Ñuble;Chillán;16101;22;2762;2857;2810;140;2726;2180
+Ñuble;Chillán;16101;22;2762;2857;2810;140;2727;2180
 Ñuble;Chillán;16101;23;2790;2791;2738;98;2632;2044
 Ñuble;Chillán;16101;24;2816;2944;2901;95;2738;2129
 Ñuble;Chillán;16101;25;2856;2828;2777;101;2642;2072
@@ -20635,8 +20635,8 @@ Valparaíso;Zapallar;5405;80;296;362;360;;326;262
 Ñuble;Chillán;16101;50;2748;2644;2628;28;2541;2221
 Ñuble;Chillán;16101;51;2741;2536;2526;29;2449;2131
 Ñuble;Chillán;16101;52;2749;2560;2545;33;2462;2163
-Ñuble;Chillán;16101;53;2750;2639;2623;30;2538;2213
-Ñuble;Chillán;16101;54;2707;2636;2620;18;2543;2251
+Ñuble;Chillán;16101;53;2750;2638;2622;30;2537;2212
+Ñuble;Chillán;16101;54;2707;2637;2621;18;2544;2252
 Ñuble;Chillán;16101;55;2692;2566;2556;18;2474;2177
 Ñuble;Chillán;16101;56;2661;2532;2514;21;2431;2149
 Ñuble;Chillán;16101;57;2607;2491;2482;27;2416;2152
@@ -20684,7 +20684,7 @@ Valparaíso;Zapallar;5405;80;296;362;360;;326;262
 Ñuble;Chillán Viejo;16103;36;478;440;436;5;415;325
 Ñuble;Chillán Viejo;16103;37;474;429;427;5;402;320
 Ñuble;Chillán Viejo;16103;38;481;449;445;9;425;351
-Ñuble;Chillán Viejo;16103;39;489;461;459;3;433;338
+Ñuble;Chillán Viejo;16103;39;489;461;459;3;433;339
 Ñuble;Chillán Viejo;16103;40;493;427;424;4;407;339
 Ñuble;Chillán Viejo;16103;41;490;378;377;4;360;303
 Ñuble;Chillán Viejo;16103;42;484;406;399;8;381;322
