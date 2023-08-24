@@ -1,5 +1,5 @@
 SUB_CRITERIO;CRITERIO;FECHA_INMUNIZACION;1aDOSIS1;2aDOSIS1;ÚnicaDOSIS;Refuerzo_DOSIS;4aDOSIS
-;;;1278;;;;
+;;;1273;;;;
 ;;26/11/2021;;;;1;
 ;;29/11/2021;;;;2;
 ;;07/12/2021;;;;1;
@@ -3721,7 +3721,7 @@ Alumnos en práctica, sector privado;Personal de salud;02/09/2021;1;2;;3;
 Alumnos en práctica, sector privado;Personal de salud;03/09/2021;;1;;10;
 Alumnos en práctica, sector privado;Personal de salud;06/09/2021;;;;41;
 Alumnos en práctica, sector privado;Personal de salud;07/09/2021;;1;;78;
-Alumnos en práctica, sector privado;Personal de salud;08/09/2021;;;;181;
+Alumnos en práctica, sector privado;Personal de salud;08/09/2021;;;;180;
 Alumnos en práctica, sector privado;Personal de salud;09/09/2021;;;;669;
 Alumnos en práctica, sector privado;Personal de salud;10/09/2021;;;;852;
 Alumnos en práctica, sector privado;Personal de salud;11/09/2021;;;;11;
@@ -3845,7 +3845,7 @@ Alumnos en práctica, sector privado;Personal de salud;17/01/2022;;;;19;2
 Alumnos en práctica, sector privado;Personal de salud;18/01/2022;1;;;20;1
 Alumnos en práctica, sector privado;Personal de salud;19/01/2022;;;;33;1
 Alumnos en práctica, sector privado;Personal de salud;20/01/2022;;;;25;422
-Alumnos en práctica, sector privado;Personal de salud;21/01/2022;;;;17;371
+Alumnos en práctica, sector privado;Personal de salud;21/01/2022;;;;18;371
 Alumnos en práctica, sector privado;Personal de salud;22/01/2022;;;;3;26
 Alumnos en práctica, sector privado;Personal de salud;23/01/2022;;;;1;1
 Alumnos en práctica, sector privado;Personal de salud;24/01/2022;;;;28;300
@@ -4616,7 +4616,7 @@ Atencion directa a la Ciudadanía;Personas Servicios esenciales del estado;25/09/
 Atencion directa a la Ciudadanía;Personas Servicios esenciales del estado;26/09/2021;;;;4;
 Atencion directa a la Ciudadanía;Personas Servicios esenciales del estado;27/09/2021;;24;;3395;
 Atencion directa a la Ciudadanía;Personas Servicios esenciales del estado;28/09/2021;2;34;;3932;
-Atencion directa a la Ciudadanía;Personas Servicios esenciales del estado;29/09/2021;2;30;;4053;
+Atencion directa a la Ciudadanía;Personas Servicios esenciales del estado;29/09/2021;2;30;;4052;
 Atencion directa a la Ciudadanía;Personas Servicios esenciales del estado;30/09/2021;3;27;;3782;
 Atencion directa a la Ciudadanía;Personas Servicios esenciales del estado;01/10/2021;3;26;;3100;
 Atencion directa a la Ciudadanía;Personas Servicios esenciales del estado;02/10/2021;;;;88;
@@ -4841,7 +4841,7 @@ Atencion directa a la Ciudadanía;Personas Servicios esenciales del estado;08/05/
 Atencion directa a la Ciudadanía;Personas Servicios esenciales del estado;09/05/2022;;3;;54;2385
 Atencion directa a la Ciudadanía;Personas Servicios esenciales del estado;10/05/2022;;;;69;3224
 Atencion directa a la Ciudadanía;Personas Servicios esenciales del estado;11/05/2022;;;;52;5142
-Atencion directa a la Ciudadanía;Personas Servicios esenciales del estado;12/05/2022;;;;78;5173
+Atencion directa a la Ciudadanía;Personas Servicios esenciales del estado;12/05/2022;;;;79;5173
 Atencion directa a la Ciudadanía;Personas Servicios esenciales del estado;13/05/2022;;1;;66;4941
 Atencion directa a la Ciudadanía;Personas Servicios esenciales del estado;14/05/2022;;;;7;1140
 Atencion directa a la Ciudadanía;Personas Servicios esenciales del estado;15/05/2022;;;;;96
@@ -6547,6 +6547,7 @@ Embarazadas;Población vulnerable;19/07/2023;;1;;;
 Embarazadas;Población vulnerable;20/07/2023;1;;;;
 Embarazadas;Población vulnerable;25/07/2023;3;;;;
 Embarazadas;Población vulnerable;17/08/2023;1;1;;;
+Embarazadas;Población vulnerable;22/08/2023;;;;;1
 Enfermos crónicos desde los 12 a 17 años;Población vulnerable;;;;;;
 Enfermos crónicos desde los 12 a 17 años;Población vulnerable;18/03/2021;1;;;;
 Enfermos crónicos desde los 12 a 17 años;Población vulnerable;14/04/2021;;1;;;
@@ -6874,7 +6875,7 @@ Enfermos crónicos desde los 18 a 59 años;Población vulnerable;08/08/2021;3;2;;;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;09/08/2021;1477;597;3;;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;10/08/2021;1249;529;3;2;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;11/08/2021;63;1226;4;819;
-Enfermos crónicos desde los 18 a 59 años;Población vulnerable;12/08/2021;45;858;7;739;
+Enfermos crónicos desde los 18 a 59 años;Población vulnerable;12/08/2021;45;858;7;738;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;13/08/2021;46;544;1;834;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;14/08/2021;7;14;;17;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;15/08/2021;9;3;;1;
@@ -6906,7 +6907,7 @@ Enfermos crónicos desde los 18 a 59 años;Población vulnerable;09/09/2021;20;190;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;10/09/2021;27;136;7;34719;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;11/09/2021;4;12;7;335;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;12/09/2021;;;;44;
-Enfermos crónicos desde los 18 a 59 años;Población vulnerable;13/09/2021;163;698;8;13095;
+Enfermos crónicos desde los 18 a 59 años;Población vulnerable;13/09/2021;163;698;8;13096;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;14/09/2021;147;726;13;9443;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;15/09/2021;91;303;13;6599;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;16/09/2021;48;136;2;3461;
@@ -6936,11 +6937,11 @@ Enfermos crónicos desde los 18 a 59 años;Población vulnerable;11/10/2021;2;1;;22
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;12/10/2021;113;237;1;25311;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;13/10/2021;100;184;;27746;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;14/10/2021;92;152;2;29894;
-Enfermos crónicos desde los 18 a 59 años;Población vulnerable;15/10/2021;74;106;4;30896;
+Enfermos crónicos desde los 18 a 59 años;Población vulnerable;15/10/2021;74;106;4;30895;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;16/10/2021;3;10;;961;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;17/10/2021;;;;202;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;18/10/2021;94;155;1;28458;
-Enfermos crónicos desde los 18 a 59 años;Población vulnerable;19/10/2021;87;188;1;28928;
+Enfermos crónicos desde los 18 a 59 años;Población vulnerable;19/10/2021;87;188;1;28929;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;20/10/2021;94;128;;26112;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;21/10/2021;82;135;;26338;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;22/10/2021;72;142;;34789;
@@ -7023,7 +7024,7 @@ Enfermos crónicos desde los 18 a 59 años;Población vulnerable;06/01/2022;46;88;;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;07/01/2022;46;90;;5107;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;08/01/2022;1;8;;607;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;09/01/2022;1;5;;106;
-Enfermos crónicos desde los 18 a 59 años;Población vulnerable;10/01/2022;47;103;;4995;1505
+Enfermos crónicos desde los 18 a 59 años;Población vulnerable;10/01/2022;47;103;;4996;1505
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;11/01/2022;46;72;2;4261;1472
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;12/01/2022;44;72;;3574;1259
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;13/01/2022;28;71;;3084;1199
@@ -7034,7 +7035,7 @@ Enfermos crónicos desde los 18 a 59 años;Población vulnerable;17/01/2022;55;86;;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;18/01/2022;45;58;;2657;684
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;19/01/2022;46;83;;2583;666
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;20/01/2022;43;53;;2222;720
-Enfermos crónicos desde los 18 a 59 años;Población vulnerable;21/01/2022;39;44;;2049;623
+Enfermos crónicos desde los 18 a 59 años;Población vulnerable;21/01/2022;39;44;;2048;623
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;22/01/2022;5;3;;263;41
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;23/01/2022;1;;;21;3
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;24/01/2022;39;64;;2259;566
@@ -7153,11 +7154,11 @@ Enfermos crónicos desde los 18 a 59 años;Población vulnerable;16/05/2022;8;15;;3
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;17/05/2022;10;21;;419;27009
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;18/05/2022;7;15;;350;25370
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;19/05/2022;13;10;;362;22562
-Enfermos crónicos desde los 18 a 59 años;Población vulnerable;20/05/2022;8;14;1;377;23186
+Enfermos crónicos desde los 18 a 59 años;Población vulnerable;20/05/2022;8;14;1;378;23186
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;21/05/2022;;;;32;3281
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;22/05/2022;1;;;4;550
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;23/05/2022;13;13;;383;23533
-Enfermos crónicos desde los 18 a 59 años;Población vulnerable;24/05/2022;9;14;;348;22917
+Enfermos crónicos desde los 18 a 59 años;Población vulnerable;24/05/2022;9;14;;347;22917
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;25/05/2022;7;13;;374;21097
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;26/05/2022;9;11;;367;19861
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;27/05/2022;5;14;;333;20463
@@ -7552,6 +7553,7 @@ Enfermos crónicos desde los 18 a 59 años;Población vulnerable;16/08/2023;;;;;1
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;17/08/2023;;1;;;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;18/08/2023;1;;;;
 Enfermos crónicos desde los 18 a 59 años;Población vulnerable;19/08/2023;1;;;;
+Enfermos crónicos desde los 18 a 59 años;Población vulnerable;21/08/2023;1;1;;;
 Enfermos crónicos desde los 3 a 17 años;Población vulnerable;;;;;;
 Enfermos crónicos desde los 3 a 17 años;Población vulnerable;13/09/2021;1;;;;
 Enfermos crónicos desde los 3 a 17 años;Población vulnerable;14/09/2021;1;;;;
@@ -15366,7 +15368,7 @@ Personas mayores de 60 años;Población vulnerable;13/02/2021;15212;;;;
 Personas mayores de 60 años;Población vulnerable;14/02/2021;3044;;;;
 Personas mayores de 60 años;Población vulnerable;15/02/2021;189774;;;;
 Personas mayores de 60 años;Población vulnerable;16/02/2021;144468;;;;
-Personas mayores de 60 años;Población vulnerable;17/02/2021;127401;;;;
+Personas mayores de 60 años;Población vulnerable;17/02/2021;127402;;;;
 Personas mayores de 60 años;Población vulnerable;18/02/2021;110773;;;;
 Personas mayores de 60 años;Población vulnerable;19/02/2021;105751;;;;
 Personas mayores de 60 años;Población vulnerable;20/02/2021;6270;;;;
@@ -15378,9 +15380,9 @@ Personas mayores de 60 años;Población vulnerable;25/02/2021;30518;;;;
 Personas mayores de 60 años;Población vulnerable;26/02/2021;29481;;;;
 Personas mayores de 60 años;Población vulnerable;27/02/2021;2390;;;;
 Personas mayores de 60 años;Población vulnerable;28/02/2021;188;;;;
-Personas mayores de 60 años;Población vulnerable;01/03/2021;85776;22;;;
+Personas mayores de 60 años;Población vulnerable;01/03/2021;85778;22;;;
 Personas mayores de 60 años;Población vulnerable;02/03/2021;98430;921;;;
-Personas mayores de 60 años;Población vulnerable;03/03/2021;100508;55907;;;
+Personas mayores de 60 años;Población vulnerable;03/03/2021;100509;55907;;;
 Personas mayores de 60 años;Población vulnerable;04/03/2021;100291;83275;;;
 Personas mayores de 60 años;Población vulnerable;05/03/2021;102490;90120;;;
 Personas mayores de 60 años;Población vulnerable;06/03/2021;5944;15521;;;
@@ -15394,9 +15396,9 @@ Personas mayores de 60 años;Población vulnerable;13/03/2021;4622;14215;;;
 Personas mayores de 60 años;Población vulnerable;14/03/2021;551;2671;;;
 Personas mayores de 60 años;Población vulnerable;15/03/2021;17526;187290;;;
 Personas mayores de 60 años;Población vulnerable;16/03/2021;15458;145893;;;
-Personas mayores de 60 años;Población vulnerable;17/03/2021;14137;129381;;;
+Personas mayores de 60 años;Población vulnerable;17/03/2021;14137;129382;;;
 Personas mayores de 60 años;Población vulnerable;18/03/2021;12445;112828;;;
-Personas mayores de 60 años;Población vulnerable;19/03/2021;12546;104419;;;
+Personas mayores de 60 años;Población vulnerable;19/03/2021;12546;104420;;;
 Personas mayores de 60 años;Población vulnerable;20/03/2021;2293;6220;;;
 Personas mayores de 60 años;Población vulnerable;21/03/2021;260;688;;;
 Personas mayores de 60 años;Población vulnerable;22/03/2021;12436;68080;;;
@@ -15406,9 +15408,9 @@ Personas mayores de 60 años;Población vulnerable;25/03/2021;8805;28464;;;
 Personas mayores de 60 años;Población vulnerable;26/03/2021;8289;27356;;;
 Personas mayores de 60 años;Población vulnerable;27/03/2021;816;1561;;;
 Personas mayores de 60 años;Población vulnerable;28/03/2021;67;243;;;
-Personas mayores de 60 años;Población vulnerable;29/03/2021;9168;79241;;;
+Personas mayores de 60 años;Población vulnerable;29/03/2021;9168;79243;;;
 Personas mayores de 60 años;Población vulnerable;30/03/2021;7848;94046;;;
-Personas mayores de 60 años;Población vulnerable;31/03/2021;6832;99296;;;
+Personas mayores de 60 años;Población vulnerable;31/03/2021;6832;99297;;;
 Personas mayores de 60 años;Población vulnerable;01/04/2021;6063;120074;;;
 Personas mayores de 60 años;Población vulnerable;02/04/2021;102;4062;;;
 Personas mayores de 60 años;Población vulnerable;03/04/2021;107;953;;;
@@ -15546,29 +15548,29 @@ Personas mayores de 60 años;Población vulnerable;12/08/2021;156;2296;;87227;
 Personas mayores de 60 años;Población vulnerable;13/08/2021;152;1270;;93655;
 Personas mayores de 60 años;Población vulnerable;14/08/2021;19;44;;3301;
 Personas mayores de 60 años;Población vulnerable;15/08/2021;11;8;;77;
-Personas mayores de 60 años;Población vulnerable;16/08/2021;2434;1380;1;153469;
-Personas mayores de 60 años;Población vulnerable;17/08/2021;2395;1441;10;171743;
+Personas mayores de 60 años;Población vulnerable;16/08/2021;2434;1380;1;153470;
+Personas mayores de 60 años;Población vulnerable;17/08/2021;2395;1441;10;171744;
 Personas mayores de 60 años;Población vulnerable;18/08/2021;164;2043;5;102600;
-Personas mayores de 60 años;Población vulnerable;19/08/2021;133;1265;15;93116;
+Personas mayores de 60 años;Población vulnerable;19/08/2021;133;1265;15;93115;
 Personas mayores de 60 años;Población vulnerable;20/08/2021;111;1199;14;56776;
 Personas mayores de 60 años;Población vulnerable;21/08/2021;15;76;4;2552;
 Personas mayores de 60 años;Población vulnerable;22/08/2021;12;7;4;376;
 Personas mayores de 60 años;Población vulnerable;23/08/2021;1947;1757;24;58561;
-Personas mayores de 60 años;Población vulnerable;24/08/2021;1708;1168;24;69022;
+Personas mayores de 60 años;Población vulnerable;24/08/2021;1708;1168;24;69024;
 Personas mayores de 60 años;Población vulnerable;25/08/2021;1077;799;7;77609;
 Personas mayores de 60 años;Población vulnerable;26/08/2021;134;1122;8;96846;
 Personas mayores de 60 años;Población vulnerable;27/08/2021;115;742;11;73550;
 Personas mayores de 60 años;Población vulnerable;28/08/2021;17;45;7;1570;
 Personas mayores de 60 años;Población vulnerable;29/08/2021;9;7;5;194;
 Personas mayores de 60 años;Población vulnerable;30/08/2021;1331;4529;17;89549;
-Personas mayores de 60 años;Población vulnerable;31/08/2021;1342;5047;21;84908;
+Personas mayores de 60 años;Población vulnerable;31/08/2021;1342;5047;21;84909;
 Personas mayores de 60 años;Población vulnerable;01/09/2021;149;819;11;111874;
-Personas mayores de 60 años;Población vulnerable;02/09/2021;136;576;4;103754;
+Personas mayores de 60 años;Población vulnerable;02/09/2021;136;576;4;103755;
 Personas mayores de 60 años;Población vulnerable;03/09/2021;100;419;9;51520;
 Personas mayores de 60 años;Población vulnerable;04/09/2021;23;28;1;1311;
 Personas mayores de 60 años;Población vulnerable;05/09/2021;3;3;;102;
 Personas mayores de 60 años;Población vulnerable;06/09/2021;1136;3942;11;41077;
-Personas mayores de 60 años;Población vulnerable;07/09/2021;1065;3780;11;55838;
+Personas mayores de 60 años;Población vulnerable;07/09/2021;1065;3780;11;55839;
 Personas mayores de 60 años;Población vulnerable;08/09/2021;98;488;2;39631;
 Personas mayores de 60 años;Población vulnerable;09/09/2021;88;342;7;27875;
 Personas mayores de 60 años;Población vulnerable;10/09/2021;105;296;4;27127;
@@ -15589,7 +15591,7 @@ Personas mayores de 60 años;Población vulnerable;25/09/2021;19;13;;487;
 Personas mayores de 60 años;Población vulnerable;26/09/2021;5;1;;33;
 Personas mayores de 60 años;Población vulnerable;27/09/2021;565;1152;3;13895;
 Personas mayores de 60 años;Población vulnerable;28/09/2021;689;1288;2;14431;
-Personas mayores de 60 años;Población vulnerable;29/09/2021;637;591;7;13863;
+Personas mayores de 60 años;Población vulnerable;29/09/2021;637;591;7;13862;
 Personas mayores de 60 años;Población vulnerable;30/09/2021;580;398;3;11785;
 Personas mayores de 60 años;Población vulnerable;01/10/2021;534;352;2;10635;
 Personas mayores de 60 años;Población vulnerable;02/10/2021;40;17;;412;
@@ -15623,7 +15625,7 @@ Personas mayores de 60 años;Población vulnerable;29/10/2021;623;593;;23147;
 Personas mayores de 60 años;Población vulnerable;30/10/2021;57;39;;2545;
 Personas mayores de 60 años;Población vulnerable;31/10/2021;10;3;;295;
 Personas mayores de 60 años;Población vulnerable;01/11/2021;4;10;;200;
-Personas mayores de 60 años;Población vulnerable;02/11/2021;953;937;3;38638;
+Personas mayores de 60 años;Población vulnerable;02/11/2021;953;937;3;38639;
 Personas mayores de 60 años;Población vulnerable;03/11/2021;787;695;;22406;
 Personas mayores de 60 años;Población vulnerable;04/11/2021;692;613;1;19645;
 Personas mayores de 60 años;Población vulnerable;05/11/2021;558;496;1;16886;
@@ -15664,7 +15666,7 @@ Personas mayores de 60 años;Población vulnerable;09/12/2021;354;763;;5983;
 Personas mayores de 60 años;Población vulnerable;10/12/2021;250;552;;5368;
 Personas mayores de 60 años;Población vulnerable;11/12/2021;53;59;;1016;
 Personas mayores de 60 años;Población vulnerable;12/12/2021;9;8;;94;
-Personas mayores de 60 años;Población vulnerable;13/12/2021;357;791;1;6749;
+Personas mayores de 60 años;Población vulnerable;13/12/2021;357;791;1;6748;
 Personas mayores de 60 años;Población vulnerable;14/12/2021;352;679;2;6225;
 Personas mayores de 60 años;Población vulnerable;15/12/2021;344;599;;5661;
 Personas mayores de 60 años;Población vulnerable;16/12/2021;269;588;;5117;
@@ -15699,7 +15701,7 @@ Personas mayores de 60 años;Población vulnerable;13/01/2022;307;356;;4389;2865
 Personas mayores de 60 años;Población vulnerable;14/01/2022;327;333;;3995;2329
 Personas mayores de 60 años;Población vulnerable;15/01/2022;33;24;;391;127
 Personas mayores de 60 años;Población vulnerable;16/01/2022;2;;;22;1
-Personas mayores de 60 años;Población vulnerable;17/01/2022;355;354;1;4342;1820
+Personas mayores de 60 años;Población vulnerable;17/01/2022;355;354;1;4343;1820
 Personas mayores de 60 años;Población vulnerable;18/01/2022;336;271;;3469;1718
 Personas mayores de 60 años;Población vulnerable;19/01/2022;356;318;1;3886;1620
 Personas mayores de 60 años;Población vulnerable;20/01/2022;336;266;;3464;2404
@@ -15713,8 +15715,8 @@ Personas mayores de 60 años;Población vulnerable;27/01/2022;246;268;;2430;1673
 Personas mayores de 60 años;Población vulnerable;28/01/2022;216;194;;2257;1884
 Personas mayores de 60 años;Población vulnerable;29/01/2022;29;7;;232;280
 Personas mayores de 60 años;Población vulnerable;30/01/2022;3;1;;24;18
-Personas mayores de 60 años;Población vulnerable;31/01/2022;289;342;;2982;1980
-Personas mayores de 60 años;Población vulnerable;01/02/2022;241;302;;2521;2245
+Personas mayores de 60 años;Población vulnerable;31/01/2022;289;342;;2983;1980
+Personas mayores de 60 años;Población vulnerable;01/02/2022;241;302;;2521;2246
 Personas mayores de 60 años;Población vulnerable;02/02/2022;222;332;;2262;2369
 Personas mayores de 60 años;Población vulnerable;03/02/2022;206;287;;2180;2930
 Personas mayores de 60 años;Población vulnerable;04/02/2022;199;326;;2113;3057
@@ -15727,8 +15729,8 @@ Personas mayores de 60 años;Población vulnerable;10/02/2022;223;264;;2132;21210
 Personas mayores de 60 años;Población vulnerable;11/02/2022;208;300;;1974;16107
 Personas mayores de 60 años;Población vulnerable;12/02/2022;21;21;;149;1056
 Personas mayores de 60 años;Población vulnerable;13/02/2022;2;2;;15;120
-Personas mayores de 60 años;Población vulnerable;14/02/2022;208;290;;1935;96805
-Personas mayores de 60 años;Población vulnerable;15/02/2022;187;297;;1834;80849
+Personas mayores de 60 años;Población vulnerable;14/02/2022;208;290;;1933;96805
+Personas mayores de 60 años;Población vulnerable;15/02/2022;187;297;;1833;80849
 Personas mayores de 60 años;Población vulnerable;16/02/2022;193;328;;1898;66051
 Personas mayores de 60 años;Población vulnerable;17/02/2022;187;294;;1718;54029
 Personas mayores de 60 años;Población vulnerable;18/02/2022;166;285;;1641;39672
@@ -15736,14 +15738,14 @@ Personas mayores de 60 años;Población vulnerable;19/02/2022;13;24;;137;2159
 Personas mayores de 60 años;Población vulnerable;20/02/2022;3;1;;6;100
 Personas mayores de 60 años;Población vulnerable;21/02/2022;211;290;;1829;79485
 Personas mayores de 60 años;Población vulnerable;22/02/2022;195;278;;1754;65821
-Personas mayores de 60 años;Población vulnerable;23/02/2022;157;242;;1622;51935
+Personas mayores de 60 años;Población vulnerable;23/02/2022;157;242;;1621;51935
 Personas mayores de 60 años;Población vulnerable;24/02/2022;169;218;;1453;42432
 Personas mayores de 60 años;Población vulnerable;25/02/2022;120;213;;1272;32900
 Personas mayores de 60 años;Población vulnerable;26/02/2022;12;17;;87;2367
 Personas mayores de 60 años;Población vulnerable;27/02/2022;1;2;;11;157
 Personas mayores de 60 años;Población vulnerable;28/02/2022;157;264;;1503;74387
-Personas mayores de 60 años;Población vulnerable;01/03/2022;143;189;;1297;64512
-Personas mayores de 60 años;Población vulnerable;02/03/2022;124;195;;1186;59743
+Personas mayores de 60 años;Población vulnerable;01/03/2022;143;189;;1298;64512
+Personas mayores de 60 años;Población vulnerable;02/03/2022;124;195;;1186;59744
 Personas mayores de 60 años;Población vulnerable;03/03/2022;115;214;;1209;52667
 Personas mayores de 60 años;Población vulnerable;04/03/2022;117;186;;1072;43581
 Personas mayores de 60 años;Población vulnerable;05/03/2022;14;17;;84;3522
@@ -15755,10 +15757,10 @@ Personas mayores de 60 años;Población vulnerable;10/03/2022;122;206;;1072;35270
 Personas mayores de 60 años;Población vulnerable;11/03/2022;95;155;;881;26461
 Personas mayores de 60 años;Población vulnerable;12/03/2022;13;21;;86;2819
 Personas mayores de 60 años;Población vulnerable;13/03/2022;;2;;3;157
-Personas mayores de 60 años;Población vulnerable;14/03/2022;122;206;;1052;30699
+Personas mayores de 60 años;Población vulnerable;14/03/2022;122;206;;1053;30699
 Personas mayores de 60 años;Población vulnerable;15/03/2022;121;188;1;1026;28557
 Personas mayores de 60 años;Población vulnerable;16/03/2022;102;181;;970;23839
-Personas mayores de 60 años;Población vulnerable;17/03/2022;125;160;;959;22116
+Personas mayores de 60 años;Población vulnerable;17/03/2022;125;160;;959;22117
 Personas mayores de 60 años;Población vulnerable;18/03/2022;110;151;;865;21534
 Personas mayores de 60 años;Población vulnerable;19/03/2022;8;17;;123;2148
 Personas mayores de 60 años;Población vulnerable;20/03/2022;3;2;;4;110
@@ -15769,7 +15771,7 @@ Personas mayores de 60 años;Población vulnerable;24/03/2022;97;137;;858;16158
 Personas mayores de 60 años;Población vulnerable;25/03/2022;89;142;;744;14446
 Personas mayores de 60 años;Población vulnerable;26/03/2022;12;16;;101;1813
 Personas mayores de 60 años;Población vulnerable;27/03/2022;;;;5;127
-Personas mayores de 60 años;Población vulnerable;28/03/2022;108;178;;935;16774
+Personas mayores de 60 años;Población vulnerable;28/03/2022;108;178;;934;16774
 Personas mayores de 60 años;Población vulnerable;29/03/2022;87;148;;789;14925
 Personas mayores de 60 años;Población vulnerable;30/03/2022;96;140;;798;13636
 Personas mayores de 60 años;Población vulnerable;31/03/2022;65;121;;724;11505
@@ -15786,7 +15788,7 @@ Personas mayores de 60 años;Población vulnerable;10/04/2022;;;;2;33
 Personas mayores de 60 años;Población vulnerable;11/04/2022;74;122;;725;11868
 Personas mayores de 60 años;Población vulnerable;12/04/2022;66;121;;704;10805
 Personas mayores de 60 años;Población vulnerable;13/04/2022;56;115;;681;10657
-Personas mayores de 60 años;Población vulnerable;14/04/2022;51;79;;617;9630
+Personas mayores de 60 años;Población vulnerable;14/04/2022;51;79;;617;9631
 Personas mayores de 60 años;Población vulnerable;15/04/2022;3;;;7;76
 Personas mayores de 60 años;Población vulnerable;16/04/2022;;;;3;47
 Personas mayores de 60 años;Población vulnerable;17/04/2022;;;;1;41
@@ -15794,7 +15796,7 @@ Personas mayores de 60 años;Población vulnerable;18/04/2022;55;129;;602;12625
 Personas mayores de 60 años;Población vulnerable;19/04/2022;63;100;;595;13533
 Personas mayores de 60 años;Población vulnerable;20/04/2022;61;96;;635;14069
 Personas mayores de 60 años;Población vulnerable;21/04/2022;40;86;;513;12504
-Personas mayores de 60 años;Población vulnerable;22/04/2022;44;97;;487;11244
+Personas mayores de 60 años;Población vulnerable;22/04/2022;44;97;;486;11244
 Personas mayores de 60 años;Población vulnerable;23/04/2022;6;7;;66;1516
 Personas mayores de 60 años;Población vulnerable;24/04/2022;;;;;63
 Personas mayores de 60 años;Población vulnerable;25/04/2022;58;97;;614;13909
@@ -15806,7 +15808,7 @@ Personas mayores de 60 años;Población vulnerable;30/04/2022;6;9;;84;2053
 Personas mayores de 60 años;Población vulnerable;01/05/2022;;;;;6
 Personas mayores de 60 años;Población vulnerable;02/05/2022;57;89;;849;17858
 Personas mayores de 60 años;Población vulnerable;03/05/2022;54;81;;843;16873
-Personas mayores de 60 años;Población vulnerable;04/05/2022;58;85;;747;15419
+Personas mayores de 60 años;Población vulnerable;04/05/2022;58;85;;746;15419
 Personas mayores de 60 años;Población vulnerable;05/05/2022;52;91;;655;13094
 Personas mayores de 60 años;Población vulnerable;06/05/2022;49;62;;526;10984
 Personas mayores de 60 años;Población vulnerable;07/05/2022;5;9;;60;1573
@@ -15833,8 +15835,8 @@ Personas mayores de 60 años;Población vulnerable;27/05/2022;65;62;;828;15645
 Personas mayores de 60 años;Población vulnerable;28/05/2022;22;13;;220;5269
 Personas mayores de 60 años;Población vulnerable;29/05/2022;3;;;19;399
 Personas mayores de 60 años;Población vulnerable;30/05/2022;75;81;;1229;23697
-Personas mayores de 60 años;Población vulnerable;31/05/2022;74;88;;1232;24528
-Personas mayores de 60 años;Población vulnerable;01/06/2022;62;66;;1055;17166
+Personas mayores de 60 años;Población vulnerable;31/05/2022;74;88;;1233;24528
+Personas mayores de 60 años;Población vulnerable;01/06/2022;62;66;;1056;17166
 Personas mayores de 60 años;Población vulnerable;02/06/2022;62;80;;898;13389
 Personas mayores de 60 años;Población vulnerable;03/06/2022;43;55;;603;9036
 Personas mayores de 60 años;Población vulnerable;04/06/2022;10;15;;154;2507
@@ -15965,7 +15967,7 @@ Personas mayores de 60 años;Población vulnerable;07/10/2022;10;9;;50;326
 Personas mayores de 60 años;Población vulnerable;08/10/2022;;3;;9;39
 Personas mayores de 60 años;Población vulnerable;09/10/2022;;;;;2
 Personas mayores de 60 años;Población vulnerable;10/10/2022;;;;1;2
-Personas mayores de 60 años;Población vulnerable;11/10/2022;8;12;;34;282
+Personas mayores de 60 años;Población vulnerable;11/10/2022;8;11;;34;282
 Personas mayores de 60 años;Población vulnerable;12/10/2022;7;15;;46;320
 Personas mayores de 60 años;Población vulnerable;13/10/2022;9;8;;40;281
 Personas mayores de 60 años;Población vulnerable;14/10/2022;8;9;;39;277
@@ -16222,7 +16224,8 @@ Personas mayores de 60 años;Población vulnerable;16/08/2023;;1;;1;
 Personas mayores de 60 años;Población vulnerable;17/08/2023;4;4;;;1
 Personas mayores de 60 años;Población vulnerable;18/08/2023;;1;;1;
 Personas mayores de 60 años;Población vulnerable;19/08/2023;;1;;;
-Personas mayores de 60 años;Población vulnerable;21/08/2023;1;;;1;
+Personas mayores de 60 años;Población vulnerable;21/08/2023;1;1;;1;
+Personas mayores de 60 años;Población vulnerable;22/08/2023;;3;;;
 Personas vacunadas por estudio clínico;Personas Servicios infraestructura crítica;;;;;;
 Personas vacunadas por estudio clínico;Personas Servicios infraestructura crítica;01/06/2021;2;;;;
 Personas vacunadas por estudio clínico;Personas Servicios infraestructura crítica;02/06/2021;3;;;;
@@ -16551,7 +16554,7 @@ Población entre 18 a 39 años;Población Sana;03/06/2021;39232;1317;31127;;
 Población entre 18 a 39 años;Población Sana;04/06/2021;29388;1979;26325;;
 Población entre 18 a 39 años;Población Sana;05/06/2021;10639;628;7580;;
 Población entre 18 a 39 años;Población Sana;06/06/2021;1453;132;1320;;
-Población entre 18 a 39 años;Población Sana;07/06/2021;33973;39412;19669;;
+Población entre 18 a 39 años;Población Sana;07/06/2021;33973;39412;19668;;
 Población entre 18 a 39 años;Población Sana;08/06/2021;37423;52852;14290;;
 Población entre 18 a 39 años;Población Sana;09/06/2021;48917;56456;11783;;
 Población entre 18 a 39 años;Población Sana;10/06/2021;75931;56446;10350;;
@@ -16699,9 +16702,9 @@ Población entre 18 a 39 años;Población Sana;29/10/2021;4336;6212;62;40087;
 Población entre 18 a 39 años;Población Sana;30/10/2021;535;398;;3877;
 Población entre 18 a 39 años;Población Sana;31/10/2021;40;29;1;383;
 Población entre 18 a 39 años;Población Sana;01/11/2021;60;76;4;296;
-Población entre 18 a 39 años;Población Sana;02/11/2021;5794;8501;149;13138;
+Población entre 18 a 39 años;Población Sana;02/11/2021;5794;8501;149;13137;
 Población entre 18 a 39 años;Población Sana;03/11/2021;5537;7516;100;24377;
-Población entre 18 a 39 años;Población Sana;04/11/2021;5198;6574;132;44468;
+Población entre 18 a 39 años;Población Sana;04/11/2021;5198;6574;132;44467;
 Población entre 18 a 39 años;Población Sana;05/11/2021;4878;6187;76;44415;
 Población entre 18 a 39 años;Población Sana;06/11/2021;690;546;4;6008;
 Población entre 18 a 39 años;Población Sana;07/11/2021;63;50;;653;
@@ -16741,13 +16744,13 @@ Población entre 18 a 39 años;Población Sana;10/12/2021;2345;4513;13;44262;
 Población entre 18 a 39 años;Población Sana;11/12/2021;479;732;2;11318;
 Población entre 18 a 39 años;Población Sana;12/12/2021;63;105;;1509;
 Población entre 18 a 39 años;Población Sana;13/12/2021;2986;5769;16;53148;
-Población entre 18 a 39 años;Población Sana;14/12/2021;2732;5186;10;51533;
+Población entre 18 a 39 años;Población Sana;14/12/2021;2732;5186;10;51532;
 Población entre 18 a 39 años;Población Sana;15/12/2021;2486;4672;14;46449;
 Población entre 18 a 39 años;Población Sana;16/12/2021;2311;4032;13;41049;
 Población entre 18 a 39 años;Población Sana;17/12/2021;1929;3608;10;37571;
 Población entre 18 a 39 años;Población Sana;18/12/2021;350;505;1;8379;
 Población entre 18 a 39 años;Población Sana;19/12/2021;39;41;3;1069;
-Población entre 18 a 39 años;Población Sana;20/12/2021;2261;3946;11;42731;
+Población entre 18 a 39 años;Población Sana;20/12/2021;2261;3946;11;42732;
 Población entre 18 a 39 años;Población Sana;21/12/2021;2015;3808;8;40358;
 Población entre 18 a 39 años;Población Sana;22/12/2021;1691;3372;8;33604;
 Población entre 18 a 39 años;Población Sana;23/12/2021;1302;2771;8;26282;
@@ -16755,7 +16758,7 @@ Población entre 18 a 39 años;Población Sana;24/12/2021;398;758;;7187;
 Población entre 18 a 39 años;Población Sana;25/12/2021;1;;;51;
 Población entre 18 a 39 años;Población Sana;26/12/2021;21;43;;614;
 Población entre 18 a 39 años;Población Sana;27/12/2021;2132;4160;9;60987;
-Población entre 18 a 39 años;Población Sana;28/12/2021;2117;4171;12;85980;
+Población entre 18 a 39 años;Población Sana;28/12/2021;2117;4171;12;85981;
 Población entre 18 a 39 años;Población Sana;29/12/2021;2302;4097;10;94352;
 Población entre 18 a 39 años;Población Sana;30/12/2021;2318;3799;10;90939;
 Población entre 18 a 39 años;Población Sana;31/12/2021;648;974;;23253;
@@ -16768,7 +16771,7 @@ Población entre 18 a 39 años;Población Sana;06/01/2022;2745;3350;14;45242;1
 Población entre 18 a 39 años;Población Sana;07/01/2022;2665;3282;6;42271;13
 Población entre 18 a 39 años;Población Sana;08/01/2022;345;390;;5572;
 Población entre 18 a 39 años;Población Sana;09/01/2022;65;54;;1013;
-Población entre 18 a 39 años;Población Sana;10/01/2022;3423;3820;7;44725;46
+Población entre 18 a 39 años;Población Sana;10/01/2022;3423;3820;7;44726;46
 Población entre 18 a 39 años;Población Sana;11/01/2022;2878;3405;14;37225;38
 Población entre 18 a 39 años;Población Sana;12/01/2022;2623;3074;5;31367;26
 Población entre 18 a 39 años;Población Sana;13/01/2022;2332;2924;5;27338;37
@@ -16881,14 +16884,14 @@ Población entre 18 a 39 años;Población Sana;29/04/2022;311;565;2;3436;14628
 Población entre 18 a 39 años;Población Sana;30/04/2022;62;99;;708;2386
 Población entre 18 a 39 años;Población Sana;01/05/2022;2;;;;33
 Población entre 18 a 39 años;Población Sana;02/05/2022;459;713;2;5411;18212
-Población entre 18 a 39 años;Población Sana;03/05/2022;446;693;6;4744;17492
+Población entre 18 a 39 años;Población Sana;03/05/2022;446;693;6;4745;17492
 Población entre 18 a 39 años;Población Sana;04/05/2022;412;642;5;4722;17482
 Población entre 18 a 39 años;Población Sana;05/05/2022;366;651;4;4323;16218
 Población entre 18 a 39 años;Población Sana;06/05/2022;315;566;6;3987;17818
 Población entre 18 a 39 años;Población Sana;07/05/2022;68;84;;701;3052
 Población entre 18 a 39 años;Población Sana;08/05/2022;4;18;;56;258
 Población entre 18 a 39 años;Población Sana;09/05/2022;424;770;3;4725;17571
-Población entre 18 a 39 años;Población Sana;10/05/2022;404;672;;4581;20131
+Población entre 18 a 39 años;Población Sana;10/05/2022;405;672;;4581;20131
 Población entre 18 a 39 años;Población Sana;11/05/2022;392;542;;4719;28995
 Población entre 18 a 39 años;Población Sana;12/05/2022;483;615;1;5131;29968
 Población entre 18 a 39 años;Población Sana;13/05/2022;407;480;1;4666;32862
@@ -16897,7 +16900,7 @@ Población entre 18 a 39 años;Población Sana;15/05/2022;5;8;;132;609
 Población entre 18 a 39 años;Población Sana;16/05/2022;565;662;1;5651;38539
 Población entre 18 a 39 años;Población Sana;17/05/2022;533;645;2;5825;41075
 Población entre 18 a 39 años;Población Sana;18/05/2022;519;653;;5814;40831
-Población entre 18 a 39 años;Población Sana;19/05/2022;546;598;;5575;38415
+Población entre 18 a 39 años;Población Sana;19/05/2022;546;598;;5576;38415
 Población entre 18 a 39 años;Población Sana;20/05/2022;560;591;;5368;45418
 Población entre 18 a 39 años;Población Sana;21/05/2022;53;67;1;657;6641
 Población entre 18 a 39 años;Población Sana;22/05/2022;12;7;;125;846
@@ -16922,14 +16925,14 @@ Población entre 18 a 39 años;Población Sana;09/06/2022;527;624;;4973;38363
 Población entre 18 a 39 años;Población Sana;10/06/2022;421;558;;4355;41912
 Población entre 18 a 39 años;Población Sana;11/06/2022;128;112;;1089;12309
 Población entre 18 a 39 años;Población Sana;12/06/2022;24;10;;145;1366
-Población entre 18 a 39 años;Población Sana;13/06/2022;542;636;1;4945;42510
+Población entre 18 a 39 años;Población Sana;13/06/2022;542;636;1;4946;42510
 Población entre 18 a 39 años;Población Sana;14/06/2022;455;617;;4381;36793
 Población entre 18 a 39 años;Población Sana;15/06/2022;452;575;;4199;34609
 Población entre 18 a 39 años;Población Sana;16/06/2022;412;565;;3793;30804
 Población entre 18 a 39 años;Población Sana;17/06/2022;386;513;;3428;32884
 Población entre 18 a 39 años;Población Sana;18/06/2022;89;103;;878;9381
 Población entre 18 a 39 años;Población Sana;19/06/2022;13;15;;66;748
-Población entre 18 a 39 años;Población Sana;20/06/2022;406;563;;4282;43659
+Población entre 18 a 39 años;Población Sana;20/06/2022;406;563;;4281;43659
 Población entre 18 a 39 años;Población Sana;21/06/2022;21;21;;211;2204
 Población entre 18 a 39 años;Población Sana;22/06/2022;538;754;;3938;33239
 Población entre 18 a 39 años;Población Sana;23/06/2022;386;510;;3296;26351
@@ -16968,7 +16971,7 @@ Población entre 18 a 39 años;Población Sana;25/07/2022;509;515;;3341;21099
 Población entre 18 a 39 años;Población Sana;26/07/2022;475;519;;2988;18506
 Población entre 18 a 39 años;Población Sana;27/07/2022;426;537;;2906;17576
 Población entre 18 a 39 años;Población Sana;28/07/2022;422;536;;2925;16484
-Población entre 18 a 39 años;Población Sana;29/07/2022;361;440;;2641;15580
+Población entre 18 a 39 años;Población Sana;29/07/2022;361;440;;2640;15580
 Población entre 18 a 39 años;Población Sana;30/07/2022;74;96;;545;3834
 Población entre 18 a 39 años;Población Sana;31/07/2022;13;10;;65;450
 Población entre 18 a 39 años;Población Sana;01/08/2022;428;554;;3023;16659
@@ -16989,7 +16992,7 @@ Población entre 18 a 39 años;Población Sana;15/08/2022;12;6;;88;513
 Población entre 18 a 39 años;Población Sana;16/08/2022;433;542;;2493;11562
 Población entre 18 a 39 años;Población Sana;17/08/2022;380;481;;2295;10786
 Población entre 18 a 39 años;Población Sana;18/08/2022;350;486;;2190;10347
-Población entre 18 a 39 años;Población Sana;19/08/2022;298;438;;1935;10292
+Población entre 18 a 39 años;Población Sana;19/08/2022;298;438;;1934;10292
 Población entre 18 a 39 años;Población Sana;20/08/2022;59;78;;417;2545
 Población entre 18 a 39 años;Población Sana;21/08/2022;1;13;;41;250
 Población entre 18 a 39 años;Población Sana;22/08/2022;402;522;;2352;11374
@@ -17330,7 +17333,8 @@ Población entre 18 a 39 años;Población Sana;16/08/2023;5;5;;;
 Población entre 18 a 39 años;Población Sana;17/08/2023;6;7;;;
 Población entre 18 a 39 años;Población Sana;18/08/2023;4;4;;1;2
 Población entre 18 a 39 años;Población Sana;19/08/2023;1;;;;
-Población entre 18 a 39 años;Población Sana;21/08/2023;5;2;;;
+Población entre 18 a 39 años;Población Sana;21/08/2023;7;3;;;
+Población entre 18 a 39 años;Población Sana;22/08/2023;2;;;;
 Población entre 40 a 49 años;Población Sana;;;;;;
 Población entre 40 a 49 años;Población Sana;06/01/2021;1;;;;
 Población entre 40 a 49 años;Población Sana;02/02/2021;1;;;;
@@ -17601,7 +17605,7 @@ Población entre 40 a 49 años;Población Sana;25/10/2021;1203;1423;9;32146;
 Población entre 40 a 49 años;Población Sana;26/10/2021;1169;1617;24;37448;
 Población entre 40 a 49 años;Población Sana;27/10/2021;1191;1497;22;25507;
 Población entre 40 a 49 años;Población Sana;28/10/2021;1187;1562;19;23247;
-Población entre 40 a 49 años;Población Sana;29/10/2021;1139;1378;9;21389;
+Población entre 40 a 49 años;Población Sana;29/10/2021;1139;1378;9;21388;
 Población entre 40 a 49 años;Población Sana;30/10/2021;132;100;3;3027;
 Población entre 40 a 49 años;Población Sana;31/10/2021;15;10;3;342;
 Población entre 40 a 49 años;Población Sana;01/11/2021;20;15;2;258;
@@ -17614,8 +17618,8 @@ Población entre 40 a 49 años;Población Sana;07/11/2021;20;13;;467;
 Población entre 40 a 49 años;Población Sana;08/11/2021;1344;1012;27;15287;
 Población entre 40 a 49 años;Población Sana;09/11/2021;1188;1440;19;35872;
 Población entre 40 a 49 años;Población Sana;10/11/2021;1043;1334;6;20053;
-Población entre 40 a 49 años;Población Sana;11/11/2021;982;1267;10;16853;
-Población entre 40 a 49 años;Población Sana;12/11/2021;1007;1164;5;19921;
+Población entre 40 a 49 años;Población Sana;11/11/2021;982;1267;10;16854;
+Población entre 40 a 49 años;Población Sana;12/11/2021;1007;1164;5;19922;
 Población entre 40 a 49 años;Población Sana;13/11/2021;208;185;6;4925;
 Población entre 40 a 49 años;Población Sana;14/11/2021;18;11;;549;
 Población entre 40 a 49 años;Población Sana;15/11/2021;1353;1536;9;24919;
@@ -17795,7 +17799,7 @@ Población entre 40 a 49 años;Población Sana;07/05/2022;18;22;;154;2073
 Población entre 40 a 49 años;Población Sana;08/05/2022;1;3;;15;151
 Población entre 40 a 49 años;Población Sana;09/05/2022;92;135;;1022;12259
 Población entre 40 a 49 años;Población Sana;10/05/2022;86;118;;1046;14182
-Población entre 40 a 49 años;Población Sana;11/05/2022;83;116;;1184;21728
+Población entre 40 a 49 años;Población Sana;11/05/2022;83;116;;1185;21728
 Población entre 40 a 49 años;Población Sana;12/05/2022;109;136;;1248;21893
 Población entre 40 a 49 años;Población Sana;13/05/2022;102;99;;1213;21331
 Población entre 40 a 49 años;Población Sana;14/05/2022;25;23;;280;5272
@@ -17804,7 +17808,7 @@ Población entre 40 a 49 años;Población Sana;16/05/2022;113;157;;1500;23488
 Población entre 40 a 49 años;Población Sana;17/05/2022;115;112;;1428;22549
 Población entre 40 a 49 años;Población Sana;18/05/2022;94;109;1;1391;21669
 Población entre 40 a 49 años;Población Sana;19/05/2022;112;109;;1341;19630
-Población entre 40 a 49 años;Población Sana;20/05/2022;119;127;;1316;21440
+Población entre 40 a 49 años;Población Sana;20/05/2022;119;127;;1315;21440
 Población entre 40 a 49 años;Población Sana;21/05/2022;15;7;;149;3112
 Población entre 40 a 49 años;Población Sana;22/05/2022;1;1;;27;508
 Población entre 40 a 49 años;Población Sana;23/05/2022;130;139;1;1532;21998
@@ -17853,7 +17857,7 @@ Población entre 40 a 49 años;Población Sana;04/07/2022;95;147;;782;8813
 Población entre 40 a 49 años;Población Sana;05/07/2022;73;111;;730;7585
 Población entre 40 a 49 años;Población Sana;06/07/2022;67;89;;668;6845
 Población entre 40 a 49 años;Población Sana;07/07/2022;70;116;;687;6514
-Población entre 40 a 49 años;Población Sana;08/07/2022;70;107;;569;6155
+Población entre 40 a 49 años;Población Sana;08/07/2022;70;107;;568;6155
 Población entre 40 a 49 años;Población Sana;09/07/2022;18;26;;132;1518
 Población entre 40 a 49 años;Población Sana;10/07/2022;2;8;;12;199
 Población entre 40 a 49 años;Población Sana;11/07/2022;84;129;;707;6819
@@ -18212,6 +18216,7 @@ Población entre 40 a 49 años;Población Sana;17/08/2023;2;2;;;
 Población entre 40 a 49 años;Población Sana;18/08/2023;2;2;;;
 Población entre 40 a 49 años;Población Sana;19/08/2023;3;;;;
 Población entre 40 a 49 años;Población Sana;21/08/2023;1;;;;
+Población entre 40 a 49 años;Población Sana;22/08/2023;;1;;;
 Población entre 50 a 59 años;Población Sana;;;;;;
 Población entre 50 a 59 años;Población Sana;03/02/2021;209;;;;
 Población entre 50 a 59 años;Población Sana;04/02/2021;646;;;;
@@ -18486,14 +18491,14 @@ Población entre 50 a 59 años;Población Sana;30/10/2021;112;52;1;3243;
 Población entre 50 a 59 años;Población Sana;31/10/2021;11;8;;349;
 Población entre 50 a 59 años;Población Sana;01/11/2021;8;7;;261;
 Población entre 50 a 59 años;Población Sana;02/11/2021;1065;1277;13;28586;
-Población entre 50 a 59 años;Población Sana;03/11/2021;894;954;8;30194;
+Población entre 50 a 59 años;Población Sana;03/11/2021;894;954;8;30193;
 Población entre 50 a 59 años;Población Sana;04/11/2021;767;803;12;20327;
 Población entre 50 a 59 años;Población Sana;05/11/2021;708;700;13;18483;
 Población entre 50 a 59 años;Población Sana;06/11/2021;105;64;1;3374;
 Población entre 50 a 59 años;Población Sana;07/11/2021;4;5;;386;
 Población entre 50 a 59 años;Población Sana;08/11/2021;928;573;5;24994;
 Población entre 50 a 59 años;Población Sana;09/11/2021;765;730;13;18459;
-Población entre 50 a 59 años;Población Sana;10/11/2021;661;695;8;14022;
+Población entre 50 a 59 años;Población Sana;10/11/2021;661;695;8;14023;
 Población entre 50 a 59 años;Población Sana;11/11/2021;569;629;7;12292;
 Población entre 50 a 59 años;Población Sana;12/11/2021;655;639;8;14779;
 Población entre 50 a 59 años;Población Sana;13/11/2021;153;66;3;3461;
@@ -18676,7 +18681,7 @@ Población entre 50 a 59 años;Población Sana;08/05/2022;;2;;5;122
 Población entre 50 a 59 años;Población Sana;09/05/2022;50;81;;579;11239
 Población entre 50 a 59 años;Población Sana;10/05/2022;54;68;;584;12666
 Población entre 50 a 59 años;Población Sana;11/05/2022;47;54;;826;20962
-Población entre 50 a 59 años;Población Sana;12/05/2022;73;60;;965;21540
+Población entre 50 a 59 años;Población Sana;12/05/2022;73;60;;964;21540
 Población entre 50 a 59 años;Población Sana;13/05/2022;60;57;;820;20452
 Población entre 50 a 59 años;Población Sana;14/05/2022;11;17;;161;4921
 Población entre 50 a 59 años;Población Sana;15/05/2022;;3;;11;416
@@ -18766,7 +18771,7 @@ Población entre 50 a 59 años;Población Sana;06/08/2022;8;8;;36;378
 Población entre 50 a 59 años;Población Sana;07/08/2022;2;1;;3;33
 Población entre 50 a 59 años;Población Sana;08/08/2022;46;49;;306;1999
 Población entre 50 a 59 años;Población Sana;09/08/2022;35;48;;247;1720
-Población entre 50 a 59 años;Población Sana;10/08/2022;36;52;;233;1789
+Población entre 50 a 59 años;Población Sana;10/08/2022;36;52;;234;1789
 Población entre 50 a 59 años;Población Sana;11/08/2022;33;51;;214;1553
 Población entre 50 a 59 años;Población Sana;12/08/2022;35;35;;238;1623
 Población entre 50 a 59 años;Población Sana;13/08/2022;7;9;;44;407
@@ -19089,6 +19094,7 @@ Población entre 50 a 59 años;Población Sana;16/08/2023;;2;;;
 Población entre 50 a 59 años;Población Sana;17/08/2023;;3;;;
 Población entre 50 a 59 años;Población Sana;18/08/2023;;2;;;
 Población entre 50 a 59 años;Población Sana;21/08/2023;2;;;;
+Población entre 50 a 59 años;Población Sana;22/08/2023;1;;;;
 Población privada de libertad;Personas en centros cerrados;;;;;;
 Población privada de libertad;Personas en centros cerrados;05/01/2021;1;;;;
 Población privada de libertad;Personas en centros cerrados;03/02/2021;6;;;;
@@ -20085,7 +20091,7 @@ Privado;Personal de salud;04/09/2021;;;;29;
 Privado;Personal de salud;05/09/2021;;;;1;
 Privado;Personal de salud;06/09/2021;5;23;;5369;
 Privado;Personal de salud;07/09/2021;6;29;;7700;
-Privado;Personal de salud;08/09/2021;4;12;;12782;
+Privado;Personal de salud;08/09/2021;4;12;;12781;
 Privado;Personal de salud;09/09/2021;5;9;1;9996;
 Privado;Personal de salud;10/09/2021;2;2;;5708;
 Privado;Personal de salud;11/09/2021;1;1;;282;
@@ -20099,7 +20105,7 @@ Privado;Personal de salud;20/09/2021;4;22;;3416;
 Privado;Personal de salud;21/09/2021;1;20;;4093;
 Privado;Personal de salud;22/09/2021;4;13;;4741;
 Privado;Personal de salud;23/09/2021;2;16;1;6182;
-Privado;Personal de salud;24/09/2021;;7;;5487;
+Privado;Personal de salud;24/09/2021;;7;;5486;
 Privado;Personal de salud;25/09/2021;;;;52;
 Privado;Personal de salud;26/09/2021;;;;4;
 Privado;Personal de salud;27/09/2021;4;9;1;2567;
@@ -20219,7 +20225,7 @@ Privado;Personal de salud;20/01/2022;1;2;;296;11155
 Privado;Personal de salud;21/01/2022;1;2;;290;10274
 Privado;Personal de salud;22/01/2022;;;;52;634
 Privado;Personal de salud;23/01/2022;;;;4;43
-Privado;Personal de salud;24/01/2022;5;3;;234;7430
+Privado;Personal de salud;24/01/2022;5;3;;235;7430
 Privado;Personal de salud;25/01/2022;1;3;;220;6365
 Privado;Personal de salud;26/01/2022;3;5;;163;5302
 Privado;Personal de salud;27/01/2022;3;3;;183;4175
@@ -20229,7 +20235,7 @@ Privado;Personal de salud;30/01/2022;;;;1;16
 Privado;Personal de salud;31/01/2022;;;1;175;3404
 Privado;Personal de salud;01/02/2022;11;;;124;2975
 Privado;Personal de salud;02/02/2022;3;2;;124;2645
-Privado;Personal de salud;03/02/2022;2;3;;110;2364
+Privado;Personal de salud;03/02/2022;2;3;;111;2364
 Privado;Personal de salud;04/02/2022;2;;;116;2533
 Privado;Personal de salud;05/02/2022;;;;11;132
 Privado;Personal de salud;06/02/2022;;;;2;4
@@ -20794,7 +20800,7 @@ Profesores y Parvularias;Personas Servicios infraestructura crítica;16/08/2021;1
 Profesores y Parvularias;Personas Servicios infraestructura crítica;17/08/2021;4;20;;112;
 Profesores y Parvularias;Personas Servicios infraestructura crítica;18/08/2021;;10;;175;
 Profesores y Parvularias;Personas Servicios infraestructura crítica;19/08/2021;;5;;416;
-Profesores y Parvularias;Personas Servicios infraestructura crítica;20/08/2021;;5;1;1119;
+Profesores y Parvularias;Personas Servicios infraestructura crítica;20/08/2021;;5;1;1120;
 Profesores y Parvularias;Personas Servicios infraestructura crítica;21/08/2021;;;;26;
 Profesores y Parvularias;Personas Servicios infraestructura crítica;22/08/2021;;1;;4;
 Profesores y Parvularias;Personas Servicios infraestructura crítica;23/08/2021;;19;;293;
@@ -20871,7 +20877,7 @@ Profesores y Parvularias;Personas Servicios infraestructura crítica;04/11/2021;3
 Profesores y Parvularias;Personas Servicios infraestructura crítica;05/11/2021;;11;;5528;
 Profesores y Parvularias;Personas Servicios infraestructura crítica;06/11/2021;;;;910;
 Profesores y Parvularias;Personas Servicios infraestructura crítica;07/11/2021;;;;91;
-Profesores y Parvularias;Personas Servicios infraestructura crítica;08/11/2021;;8;;2922;
+Profesores y Parvularias;Personas Servicios infraestructura crítica;08/11/2021;;8;;2923;
 Profesores y Parvularias;Personas Servicios infraestructura crítica;09/11/2021;1;10;;3857;
 Profesores y Parvularias;Personas Servicios infraestructura crítica;10/11/2021;;10;;3543;
 Profesores y Parvularias;Personas Servicios infraestructura crítica;11/11/2021;2;6;;3103;
@@ -20936,7 +20942,7 @@ Profesores y Parvularias;Personas Servicios infraestructura crítica;10/01/2022;;
 Profesores y Parvularias;Personas Servicios infraestructura crítica;11/01/2022;;3;;737;122
 Profesores y Parvularias;Personas Servicios infraestructura crítica;12/01/2022;;4;;590;117
 Profesores y Parvularias;Personas Servicios infraestructura crítica;13/01/2022;;2;;451;80
-Profesores y Parvularias;Personas Servicios infraestructura crítica;14/01/2022;;2;;457;75
+Profesores y Parvularias;Personas Servicios infraestructura crítica;14/01/2022;;2;;456;75
 Profesores y Parvularias;Personas Servicios infraestructura crítica;15/01/2022;;;;60;8
 Profesores y Parvularias;Personas Servicios infraestructura crítica;16/01/2022;;;;4;
 Profesores y Parvularias;Personas Servicios infraestructura crítica;17/01/2022;;3;;560;59
@@ -21073,7 +21079,7 @@ Profesores y Parvularias;Personas Servicios infraestructura crítica;29/05/2022;;
 Profesores y Parvularias;Personas Servicios infraestructura crítica;30/05/2022;;;;26;5375
 Profesores y Parvularias;Personas Servicios infraestructura crítica;31/05/2022;1;;;37;5937
 Profesores y Parvularias;Personas Servicios infraestructura crítica;01/06/2022;;;;42;4742
-Profesores y Parvularias;Personas Servicios infraestructura crítica;02/06/2022;;;;34;4241
+Profesores y Parvularias;Personas Servicios infraestructura crítica;02/06/2022;;;;33;4241
 Profesores y Parvularias;Personas Servicios infraestructura crítica;03/06/2022;;1;;34;4119
 Profesores y Parvularias;Personas Servicios infraestructura crítica;04/06/2022;;;;13;1445
 Profesores y Parvularias;Personas Servicios infraestructura crítica;05/06/2022;;;;1;150
@@ -21589,11 +21595,11 @@ Público;Personal de salud;05/09/2021;;;;1;
 Público;Personal de salud;06/09/2021;48;169;13;10988;
 Público;Personal de salud;07/09/2021;71;177;14;19028;
 Público;Personal de salud;08/09/2021;13;61;1;26650;
-Público;Personal de salud;09/09/2021;23;41;4;20811;
+Público;Personal de salud;09/09/2021;23;41;4;20812;
 Público;Personal de salud;10/09/2021;18;47;2;12752;
 Público;Personal de salud;11/09/2021;;2;1;523;
 Público;Personal de salud;12/09/2021;;;;19;
-Público;Personal de salud;13/09/2021;44;103;7;9912;
+Público;Personal de salud;13/09/2021;44;103;7;9911;
 Público;Personal de salud;14/09/2021;38;151;3;9802;
 Público;Personal de salud;15/09/2021;31;62;1;9346;
 Público;Personal de salud;16/09/2021;22;31;2;3552;
@@ -21622,7 +21628,7 @@ Público;Personal de salud;09/10/2021;1;;;50;
 Público;Personal de salud;10/10/2021;;;;9;
 Público;Personal de salud;11/10/2021;;;;50;
 Público;Personal de salud;12/10/2021;36;63;;3093;
-Público;Personal de salud;13/10/2021;21;49;1;6362;
+Público;Personal de salud;13/10/2021;21;49;1;6361;
 Público;Personal de salud;14/10/2021;59;41;;8045;
 Público;Personal de salud;15/10/2021;23;28;3;8967;
 Público;Personal de salud;16/10/2021;1;3;;325;
@@ -21720,12 +21726,12 @@ Público;Personal de salud;16/01/2022;;;;5;3
 Público;Personal de salud;17/01/2022;12;11;;478;92
 Público;Personal de salud;18/01/2022;15;10;;426;137
 Público;Personal de salud;19/01/2022;19;13;;402;221
-Público;Personal de salud;20/01/2022;31;12;;647;26943
+Público;Personal de salud;20/01/2022;31;12;;646;26943
 Público;Personal de salud;21/01/2022;21;11;;566;17068
 Público;Personal de salud;22/01/2022;;1;;56;361
 Público;Personal de salud;23/01/2022;;;;4;27
 Público;Personal de salud;24/01/2022;20;14;1;475;13529
-Público;Personal de salud;25/01/2022;12;10;;425;11483
+Público;Personal de salud;25/01/2022;12;10;;426;11483
 Público;Personal de salud;26/01/2022;12;12;;340;9410
 Público;Personal de salud;27/01/2022;13;15;;333;8041
 Público;Personal de salud;28/01/2022;15;6;;334;6772
@@ -21748,7 +21754,7 @@ Público;Personal de salud;13/02/2022;;;;1;13
 Público;Personal de salud;14/02/2022;10;13;1;144;3711
 Público;Personal de salud;15/02/2022;9;10;;139;4288
 Público;Personal de salud;16/02/2022;2;13;1;134;3274
-Público;Personal de salud;17/02/2022;5;17;1;120;3592
+Público;Personal de salud;17/02/2022;5;17;1;121;3592
 Público;Personal de salud;18/02/2022;10;10;;134;3924
 Público;Personal de salud;19/02/2022;1;;;6;111
 Público;Personal de salud;20/02/2022;;;;;13
